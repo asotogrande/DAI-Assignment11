@@ -1,0 +1,926 @@
+id,type,label,alias,subtype
+prof::Appius Aemilius Agricola,professor,Appius Aemilius Agricola,Appius Aemilius Agricola,
+ent::location::Mexico City,entity,Mexico City,Mexico City,location
+ent::location::Spain,entity,Spain,Spain,location
+ent::location::U. K.,entity,U. K.,U. K.,location
+ent::corporate_org::##Ixi,entity,##Ixi,##Ixi,corporate_org
+ent::corporate_org::A & M Studio,entity,A & M Studio,A & M Studio,corporate_org
+ent::corporate_org::Becquerel Capital,entity,Becquerel Capital,Becquerel Capital,corporate_org
+ent::corporate_org::The Hub,entity,The Hub,The Hub,corporate_org
+ent::academic_org::Camberwell College Of Arts Ual,entity,Camberwell College Of Arts Ual,Camberwell College Of Arts Ual,academic_org
+prof::Appius Aemilius Cicero,professor,Appius Aemilius Cicero,Appius Aemilius Cicero,
+ent::location::Cornell,entity,Cornell,Cornell,location
+ent::location::Stanford,entity,Stanford,Stanford,location
+ent::location::Us,entity,Us,Us,location
+ent::location::Usa,entity,Usa,Usa,location
+ent::location::Villanova,entity,Villanova,Villanova,location
+ent::corporate_org::##A,entity,##A,##A,corporate_org
+ent::corporate_org::##Urt,entity,##Urt,##Urt,corporate_org
+ent::corporate_org::Bemis Co ’,entity,Bemis Co ’,Bemis Co ’,corporate_org
+ent::corporate_org::Cameron ‘ A Schlumberger Co ’,entity,Cameron ‘ A Schlumberger Co ’,Cameron ‘ A Schlumberger Co ’,corporate_org
+ent::corporate_org::Jet Research Center,entity,Jet Research Center,Jet Research Center,corporate_org
+ent::corporate_org::Mactac,entity,Mactac,Mactac,corporate_org
+ent::corporate_org::Millwood Inc,entity,Millwood Inc,Millwood Inc,corporate_org
+ent::corporate_org::Permas,entity,Permas,Permas,corporate_org
+ent::corporate_org::Process Technology,entity,Process Technology,Process Technology,corporate_org
+ent::corporate_org::Six Sigma / Lean Manufacturing,entity,Six Sigma / Lean Manufacturing,Six Sigma / Lean Manufacturing,corporate_org
+ent::corporate_org::Six Sigma Black Belt,entity,Six Sigma Black Belt,Six Sigma Black Belt,corporate_org
+ent::academic_org::Brown University,entity,Brown University,Brown University,academic_org
+ent::academic_org::E,entity,E,E,academic_org
+ent::academic_org::Electrical Engineering,entity,Electrical Engineering,Electrical Engineering,academic_org
+ent::academic_org::Ie Business School,entity,Ie School Of Business,Ie School Of Business,academic_org
+ent::academic_org::Kent State University,entity,Kent State University,Kent State University,academic_org
+ent::academic_org::Youngstown State University,entity,Youngstown State University,Youngstown State University,academic_org
+prof::Appius Aemilius Crassus,professor,Appius Aemilius Crassus,Appius Aemilius Crassus,
+ent::location::##Lles,entity,##Lles,##Lles,location
+ent::location::##Ruges,entity,##Ruges,##Ruges,location
+ent::location::B,entity,B,B,location
+ent::location::Belgium,entity,Belgium,Belgium,location
+ent::location::Brussels,entity,Brussels,Brussels,location
+ent::location::Madrid,entity,Madrid,Madrid,location
+ent::location::San Pablo,entity,San Pablo,San Pablo,location
+ent::corporate_org::##Nmc,entity,##Nmc,##Nmc,corporate_org
+ent::corporate_org::Bird & Bird Law Firm,entity,Bird & Bird Law Firm,Bird & Bird Law Firm,corporate_org
+ent::corporate_org::C,entity,C,C,corporate_org
+ent::corporate_org::Creddia Advisors – Regulatory Issues & EU Affairs,entity,Creddia Advisors – Regulatory Issues & EU Affairs,Creddia Advisors – Regulatory Issues & EU Affairs,corporate_org
+ent::corporate_org::European Commission,entity,European Commission,European Commission,corporate_org
+ent::corporate_org::Law,entity,Law,Law,corporate_org
+ent::corporate_org::Of The Galician Government,entity,Of The Galician Government,Of The Galician Government,corporate_org
+ent::corporate_org::Off Counsel,entity,Off Counsel,Off Counsel,corporate_org
+ent::corporate_org::Regulation,entity,Regulation,Regulation,corporate_org
+ent::corporate_org::Telecommunications,entity,Telecommunications,Telecommunications,corporate_org
+ent::corporate_org::Telecommunications Regulatory Authority,entity,Telecommunications Regulatory Authority,Telecommunications Regulatory Authority,corporate_org
+ent::academic_org::##Ual Property Law,entity,##Ual Property Law,##Ual Property Law,academic_org
+ent::academic_org::Ceu University,entity,Ceu University,Ceu University,academic_org
+ent::academic_org::College Of Europe,entity,College Of Europe,College Of Europe,academic_org
+ent::academic_org::Comillas University,entity,Comillas University,Comillas University,academic_org
+ent::academic_org::Department Of State,entity,Department Of State,Department Of State,academic_org
+ent::academic_org::Energy,entity,Energy,Energy,academic_org
+ent::academic_org::European Commission,entity,European Commission,European Commission,academic_org
+ent::academic_org::Ie University,entity,Ie University Spain,Ie University Spain,academic_org
+ent::academic_org::Iese,entity,Iese,Iese,academic_org
+ent::academic_org::Industrial And Intel,entity,Industrial And Intel,Industrial And Intel,academic_org
+ent::academic_org::Law,entity,Law,Law,academic_org
+ent::academic_org::University Of Valladolid,entity,University Of Valladolid,University Of Valladolid,academic_org
+ent::academic_org::Université Libre De Bruxe,entity,Université Libre De Bruxe,Université Libre De Bruxe,academic_org
+ent::academic_org::Us Government,entity,Us Government,Us Government,academic_org
+ent::course::##Lect,entity,##Lect,##Lect,course
+ent::course::Eu Regulation Of Telecommunications And,entity,Eu Regulation Of Telecommunications And,Eu Regulation Of Telecommunications And,course
+prof::Flavia Prisca,professor,Flavia Prisca,Flavia Prisca,
+ent::location::Colombia,entity,Colombia,Colombia,location
+ent::location::Europe,entity,Europe,Europe,location
+ent::location::United States,entity,United States,United States,location
+ent::corporate_org::Citibank,entity,Citibank,Citibank,corporate_org
+ent::corporate_org::Embassy Of Colombia,entity,Embassy Of Colombia,Embassy Of Colombia,corporate_org
+ent::corporate_org::Government Of Colombia,entity,Government Of Colombia,Government Of Colombia,corporate_org
+ent::corporate_org::Harvard Strategy Consulting,entity,Harvard Strategy Consulting,Harvard Strategy Consulting,corporate_org
+ent::corporate_org::Independent Consulting,entity,Independent Consulting,Independent Consulting,corporate_org
+ent::corporate_org::Plan Colombia Europe,entity,Plan Colombia Europe,Plan Colombia Europe,corporate_org
+ent::corporate_org::Women ’ S World Banking Co.,entity,Women ’ S World Banking Co.,Women ’ S World Banking Co.,corporate_org
+ent::course::Digital,entity,Digital,Digital,course
+ent::academic_org::Ai,entity,Ai,Ai,academic_org
+ent::academic_org::Business Administration,entity,Business Administration,Business Administration,academic_org
+ent::academic_org::Harvard University,entity,Harvard University,Harvard University,academic_org
+ent::academic_org::Icade,entity,Icade,Icade,academic_org
+ent::academic_org::Stanford University,entity,Stanford University,Stanford University,academic_org
+ent::academic_org::University Of The Andes,entity,University Of The Andes,University Of The Andes,academic_org
+prof::Appius Aemilius Scipio,professor,Appius Aemilius Scipio,Appius Aemilius Scipio,
+ent::location::##Viedo,entity,##Viedo,##Viedo,location
+ent::location::De,entity,De,De,location
+ent::corporate_org::##Ets,entity,##Ets,##Ets,corporate_org
+ent::corporate_org::##Rmohuman,entity,##Rmohuman,##Rmohuman,corporate_org
+ent::corporate_org::Accurate Quant,entity,Accurate Quant,Accurate Quant,corporate_org
+ent::corporate_org::Arizona State University,entity,Arizona State University,Arizona State University,corporate_org
+ent::corporate_org::Autonomous System Technologies Research & Integration Laboratory,entity,Autonomous System Technologies Research & Integration Laboratory,Autonomous System Technologies Research & Integration Laboratory,corporate_org
+ent::corporate_org::Centre For Automation And Robotics,entity,Centre For Automation And Robotics,Centre For Automation And Robotics,corporate_org
+ent::corporate_org::Csic,entity,Csic,Csic,corporate_org
+ent::corporate_org::Dr,entity,Dr,Dr,corporate_org
+ent::corporate_org::Massachusetts Institute Of Technology,entity,Massachusetts Institute Of Technology,Massachusetts Institute Of Technology,corporate_org
+ent::corporate_org::The,entity,The,The,corporate_org
+ent::corporate_org::Universidad De O,entity,Universidad De O,Universidad De O,corporate_org
+ent::corporate_org::Upm,entity,Upm,Upm,corporate_org
+ent::academic_org::Computer Vision,entity,Computer Vision,Computer Vision,academic_org
+ent::academic_org::O,entity,O,O,academic_org
+ent::academic_org::Universidad,entity,Universidad,Universidad,academic_org
+prof::Appius Aemilius Severus,professor,Appius Aemilius Severus,Appius Aemilius Severus,
+ent::location::Middle East,entity,Middle East,Middle East,location
+ent::corporate_org::Boston Consulting Group,entity,Boston Consulting Group,Boston Consulting Group,corporate_org
+ent::corporate_org::Digital Transformation,entity,Digital Transformation,Digital Transformation,corporate_org
+ent::corporate_org::E,entity,E,E,corporate_org
+ent::corporate_org::Havas Digital,entity,Havas Digital,Havas Digital,corporate_org
+ent::corporate_org::Lead,entity,Lead,Lead,corporate_org
+ent::corporate_org::Newco,entity,Newco,Newco,corporate_org
+ent::corporate_org::Svp,entity,Svp,Svp,corporate_org
+ent::corporate_org::Tmt Industries,entity,Tmt Industries,Tmt Industries,corporate_org
+ent::course::Digital Transformation,entity,Digital Transformation,Digital Transformation,course
+ent::academic_org::Advanced Global,entity,Advanced Global,Advanced Global,academic_org
+ent::academic_org::Ie,entity,Ie,Ie,academic_org
+ent::academic_org::Robotics,entity,Robotics,Robotics,academic_org
+ent::academic_degree::International Executive Mba,entity,International Executive Mba,International Executive Mba,academic_degree
+prof::Appius Antonius Lepidus,professor,Appius Antonius Lepidus,Appius Antonius Lepidus,
+ent::corporate_org::##Bartlet,entity,##Bartlet,##Bartlet,corporate_org
+ent::corporate_org::Be,entity,Be,Be,corporate_org
+ent::corporate_org::Elcano Royal Institute,entity,Elcano Royal Institute,Elcano Royal Institute,corporate_org
+ent::corporate_org::Management Solutions,entity,Management Solutions,Management Solutions,corporate_org
+ent::corporate_org::United Nations,entity,United Nations,United Nations,corporate_org
+ent::academic_org::Ad,entity,Ad,Ad,academic_org
+ent::academic_org::Columbia University,entity,Columbia University,Columbia University,academic_org
+ent::academic_org::Diplomatic School Of Spain,entity,Diplomatic School Of Spain,Diplomatic School Of Spain,academic_org
+ent::academic_org::G,entity,G,G,academic_org
+ent::academic_org::Georgetown,entity,Georgetown,Georgetown,academic_org
+ent::academic_org::Georgetown University,entity,Georgetown University,Georgetown University,academic_org
+ent::academic_org::Industries,entity,Industries,Industries,academic_org
+ent::academic_org::Pompeu Fabra University,entity,Pompeu Fabra University,Pompeu Fabra University,academic_org
+ent::academic_org::Universidad Pontificia De Comillas,entity,Universidad Pontificia De Comillas,Universidad Pontificia De Comillas,academic_org
+prof::Appius Antonius Naso,professor,Appius Antonius Naso,Appius Antonius Naso,
+ent::location::Poland,entity,Poland,Poland,location
+ent::location::Wroclaw,entity,Wroclaw,Wroclaw,location
+ent::academic_org::And Applied Mathematics,entity,And Applied Mathematics,And Applied Mathematics,academic_org
+ent::academic_org::Universidad Autónoma De Madrid,entity,Universidad Autónoma De Madrid,Universidad Autónoma De Madrid,academic_org
+ent::academic_org::University Of Wrocław,entity,University Of Wrocław,University Of Wrocław,academic_org
+prof::Appius Calpurnius Paullus,professor,Appius Calpurnius Paullus,Appius Calpurnius Paullus,
+ent::location::##Amanca,entity,##Amanca,##Amanca,location
+ent::location::##Golstadt,entity,##Golstadt,##Golstadt,location
+ent::location::##Unya,entity,##Unya,##Unya,location
+ent::location::##Ya,entity,##Ya,##Ya,location
+ent::location::Germany,entity,Germany,Germany,location
+ent::location::In,entity,In,In,location
+ent::location::Italy,entity,Italy,Italy,location
+ent::corporate_org::##Bank,entity,##Bank,##Bank,corporate_org
+ent::corporate_org::Eu Focus Group,entity,Eu Focus Group,Eu Focus Group,corporate_org
+ent::corporate_org::European Parliament,entity,European Parliament,European Parliament,corporate_org
+ent::academic_org::##Amingham State University,entity,##Amingham State University,##Amingham State University,academic_org
+ent::academic_org::##Iversitat Oberta De Catal,entity,##Iversitat Oberta De Catal,##Iversitat Oberta De Catal,academic_org
+ent::academic_org::##Iversità Degli Studi Di Siena,entity,##Iversità Degli Studi Di Siena,##Iversità Degli Studi Di Siena,academic_org
+ent::academic_org::##Ter Universitario De Abogacía,entity,##Ter Universitario De Abogacía,##Ter Universitario De Abogacía,academic_org
+ent::academic_org::Alma Mater Studiorum,entity,Alma Mater Studiorum,Alma Mater Studiorum,academic_org
+ent::academic_org::Boston College,entity,Boston College,Boston College,academic_org
+ent::academic_org::European University Institute,entity,European University Institute,European University Institute,academic_org
+ent::academic_org::Fi,entity,Fi,Fi,academic_org
+ent::academic_org::Fr,entity,Fr,Fr,academic_org
+ent::academic_org::Katholische Universität Eichstätt,entity,Katholische Universität Eichstätt,Katholische Universität Eichstätt,academic_org
+ent::academic_org::Un,entity,Un,Un,academic_org
+ent::academic_org::Universidad Católica De Ávila,entity,Universidad Católica De Ávila,Universidad Católica De Ávila,academic_org
+ent::academic_org::Universidad De Las Hespérides,entity,Universidad De Las Hespérides,Universidad De Las Hespérides,academic_org
+ent::academic_org::Universidad Pontificia De Sal,entity,Universidad Pontificia De Sal,Universidad Pontificia De Sal,academic_org
+ent::academic_org::Università Di Bologna,entity,Università Di Bologna,Università Di Bologna,academic_org
+ent::academic_org::Université Libre De Bruxelles,entity,Université Libre De Bruxelles,Université Libre De Bruxelles,academic_org
+ent::course::Comparative,entity,Comparative,Comparative,course
+prof::Appius Calpurnius Severus,professor,Appius Calpurnius Severus,Appius Calpurnius Severus,
+ent::corporate_org::Boeing Europe,entity,Boeing Europe,Boeing Europe,corporate_org
+ent::corporate_org::Capgemini,entity,Capgemini,Capgemini,corporate_org
+ent::corporate_org::Pc Componentes,entity,Pc Componentes,Pc Componentes,corporate_org
+ent::academic_org::Advanced,entity,Advanced,Advanced,academic_org
+ent::academic_org::Analytics,entity,Analytics,Analytics,academic_org
+ent::academic_org::Technical University Of Cartagena,entity,Technical University Of Cartagena,Technical University Of Cartagena,academic_org
+prof::Appius Claudius Caesar,professor,Appius Claudius Caesar,Appius Claudius Caesar,
+ent::location::India,entity,India,India,location
+ent::location::London,entity,London,London,location
+ent::location::Uk,entity,Uk,Uk,location
+ent::corporate_org::Brunswick Arts,entity,Brunswick Arts,Brunswick Arts,corporate_org
+ent::corporate_org::Msl London,entity,Msl London,Msl London,corporate_org
+ent::corporate_org::Public Relations,entity,Public Relations,Public Relations,corporate_org
+ent::corporate_org::Sad,entity,Sad,Sad,corporate_org
+ent::corporate_org::’ S,entity,’ S,’ S,corporate_org
+ent::academic_org::Ie School Of Architecture And Design,entity,Ie School Of Architecture And Design,Ie School Of Architecture And Design,academic_org
+ent::academic_org::University Of Oxford,entity,University Of Oxford,University Of Oxford,academic_org
+prof::Appius Claudius Scipio,professor,Appius Claudius Scipio,Appius Claudius Scipio,
+ent::location::##Bao,entity,##Bao,##Bao,location
+ent::location::##Il,entity,##Il,##Il,location
+ent::academic_org::Cemfi,entity,Cemfi,Cemfi,academic_org
+ent::academic_org::Centro Estudios Monetarios y Financieros,entity,Centro Estudios Monetarios y Financieros,Centro Estudios Monetarios y Financieros,academic_org
+ent::academic_org::Climate Action,entity,Climate Action,Climate Action,academic_org
+ent::academic_org::Economic Environment,entity,Economic Environment,Economic Environment,academic_org
+ent::academic_org::Economics And Finance,entity,Economics And Finance,Economics And Finance,academic_org
+ent::academic_org::Fundación Novia Salcedo,entity,Fundación Novia Salcedo,Fundación Novia Salcedo,academic_org
+ent::academic_org::Universidad L País Vasco,entity,Universidad L País Vasco,Universidad L País Vasco,academic_org
+prof::Claudia Drusa,professor,Claudia Drusa,Claudia Drusa,
+ent::location::##Var,entity,##Var,##Var,location
+ent::location::##Varra,entity,##Varra,##Varra,location
+ent::location::Finland,entity,Finland,Finland,location
+ent::location::Helsinki,entity,Helsinki,Helsinki,location
+ent::location::Indonesia,entity,Indonesia,Indonesia,location
+ent::location::Navarra,entity,Navarra,Navarra,location
+ent::location::Portugal,entity,Portugal,Portugal,location
+ent::location::San Sebastian,entity,San Sebastian,San Sebastian,location
+ent::corporate_org::##N,entity,##N,##N,corporate_org
+ent::corporate_org::##Sta,entity,##Sta,##Sta,corporate_org
+ent::corporate_org::Communication Research,entity,Communication Research,Communication Research,corporate_org
+ent::corporate_org::Ecoa,entity,Ecoa,Ecoa,corporate_org
+ent::corporate_org::Jen,entity,Jen,Jen,corporate_org
+ent::corporate_org::Madrid,entity,Madrid,Madrid,corporate_org
+ent::corporate_org::Mazedonia De,entity,Mazedonia De,Mazedonia De,corporate_org
+ent::corporate_org::Patricia U,entity,Patricia U,Patricia U,corporate_org
+ent::corporate_org::St,entity,St,St,corporate_org
+ent::academic_org::Aalto University,entity,Aalto University,Aalto University,academic_org
+ent::academic_org::Ied Kunsthal,entity,Ied Kunsthal,Ied Kunsthal,academic_org
+ent::academic_org::Industrial Design and Product Development Engineering,entity,Industrial Design and Product Development Engineering,Industrial Design and Product Development Engineering,academic_org
+ent::academic_org::Na,entity,Na,Na,academic_org
+ent::academic_org::Tecnun University,entity,Tecnun University,Tecnun University,academic_org
+prof::Pompeia Prisca,professor,Pompeia Prisca,Pompeia Prisca,
+ent::academic_org::Carlson School Of Management,entity,Carlson School Of Management,Carlson School Of Management,academic_org
+ent::academic_org::Fisher School Of Business,entity,Fisher School Of Business,Fisher School Of Business,academic_org
+ent::academic_org::Hanken School Of Economics,entity,Hanken School Of Economics,Hanken School Of Economics,academic_org
+ent::academic_org::Ohio State University,entity,Ohio State University,Ohio State University,academic_org
+ent::academic_org::University Of Helsinki,entity,University Of Helsinki,University Of Helsinki,academic_org
+ent::academic_org::University Of Minnesota,entity,University Of Minnesota,University Of Minnesota,academic_org
+prof::Appius Cornelius Cicero,professor,Appius Cornelius Cicero,Appius Cornelius Cicero,
+ent::location::Africa,entity,Africa,Africa,location
+ent::location::Jordan,entity,Jordan,Jordan,location
+ent::corporate_org::Aircom International,entity,Aircom International,Aircom International,corporate_org
+ent::corporate_org::Cisco Systems,entity,Cisco Systems,Cisco Systems,corporate_org
+ent::corporate_org::Service Provider Mobility,entity,Service Provider Mobility,Service Provider Mobility,corporate_org
+ent::academic_org::Electrical And Electronic Engineering,entity,Electrical And Electronic Engineering,Electrical And Electronic Engineering,academic_org
+ent::academic_org::Integrated Information Systems and Communications,entity,Integrated Information Systems and Communications,Integrated Information Systems and Communications,academic_org
+ent::academic_org::Technology And Innovation,entity,Technology And Innovation Management,Technology And Innovation Management,academic_org
+ent::academic_org::University Of Jordan,entity,University Of Jordan,University Of Jordan,academic_org
+ent::academic_org::University Of Leeds,entity,University Of Leeds,University Of Leeds,academic_org
+prof::Antonia Severa,professor,Antonia Severa,Antonia Severa,
+ent::location::California,entity,California,California,location
+ent::location::U. S.,entity,U. S.,U. S.,location
+prof::Appius Cornelius Lepidus,professor,Appius Cornelius Lepidus,Appius Cornelius Lepidus,
+ent::location::##Zmir,entity,##Zmir,##Zmir,location
+ent::location::I,entity,I,I,location
+ent::location::Turkey,entity,Turkey,Turkey,location
+ent::corporate_org::Research And Development,entity,Research And Development,Research And Development,corporate_org
+ent::academic_org::A,entity,A,A,academic_org
+ent::academic_org::B. S. Engineering,entity,B. S. Engineering,B. S. Engineering,academic_org
+ent::academic_org::Carlos Iii University,entity,University Carlos Iii,University Carlos Iii,academic_org
+ent::academic_org::History,entity,History,History,academic_org
+ent::academic_org::Operations,entity,Operations,Operations,academic_org
+ent::academic_org::Tufts University,entity,Tufts University,Tufts University,academic_org
+ent::academic_org::Universidad Alfonso X,entity,Universidad Alfonso X,Universidad Alfonso X,academic_org
+prof::Appius Cornelius Sulla,professor,Appius Cornelius Sulla,Appius Cornelius Sulla,
+ent::location::##És,entity,##És,##És,location
+prof::Appius Domitius Brutus,professor,Appius Domitius Brutus,Appius Domitius Brutus,
+ent::location::Cambodia,entity,Cambodia,Cambodia,location
+ent::location::Ireland,entity,Ireland,Ireland,location
+ent::location::New York,entity,New York,New York,location
+ent::location::San Francisco State U,entity,San Francisco State U,San Francisco State U,location
+ent::location::South India,entity,South India,South India,location
+ent::corporate_org::Access To Education,entity,Access To Education,Access To Education,corporate_org
+ent::corporate_org::Asia Debt Management Foundation,entity,Asia Debt Management Foundation,Asia Debt Management Foundation,corporate_org
+ent::corporate_org::Global University Systems,entity,Global University Systems,Global University Systems,corporate_org
+ent::corporate_org::Higher Education Partners,entity,Higher Education Partners,Higher Education Partners,corporate_org
+ent::corporate_org::Ilo,entity,Ilo,Ilo,corporate_org
+ent::corporate_org::Impact Hub,entity,Impact Hub,Impact Hub,corporate_org
+ent::corporate_org::Impact Hub Network,entity,Impact Hub Network,Impact Hub Network,corporate_org
+ent::corporate_org::Undp,entity,Undp,Undp,corporate_org
+ent::corporate_org::Unesco,entity,Unesco,Unesco,corporate_org
+ent::corporate_org::Up,entity,Up,Up,corporate_org
+ent::academic_org::##Iversità Cattolica,entity,##Iversità Cattolica,##Iversità Cattolica,academic_org
+ent::academic_org::Thinking,entity,Thinking,Thinking,academic_org
+ent::academic_org::Trinity College Dublin,entity,Trinity College Dublin,Trinity College Dublin,academic_org
+ent::academic_degree::Global Executive Mba,entity,Global Executive Mba,Global Executive Mba,academic_degree
+prof::Appius Domitius Crassus,professor,Appius Domitius Crassus,Appius Domitius Crassus,
+ent::location::Ed,entity,Ed,Ed,location
+ent::location::Meca,entity,Meca,Meca,location
+ent::location::Medina,entity,Medina,Medina,location
+ent::location::Saudi Arabia,entity,Saudi Arabia,Saudi Arabia,location
+ent::academic_org::Editorial Bosch,entity,Editorial Bosch,Editorial Bosch,academic_org
+ent::academic_org::Fin,entity,Fin,Fin,academic_org
+ent::academic_org::Ie Law School,entity,Ie Law School,Ie Law School,academic_org
+ent::academic_org::Operaciones Mercantiles y Productos de Inversión en los Me,entity,Operaciones Mercantiles y Productos de Inversión en los Me,Operaciones Mercantiles y Productos de Inversión en los Me,academic_org
+ent::academic_org::University Of Granada Publications,entity,University Of Granada Publications,University Of Granada Publications,academic_org
+prof::Appius Domitius Flaccus,professor,Appius Domitius Flaccus,Appius Domitius Flaccus,
+ent::corporate_org::##Ccent,entity,##Ccent,##Ccent,corporate_org
+ent::corporate_org::##Ure & Andersen Consulting,entity,##Ure & Andersen Consulting,##Ure & Andersen Consulting,corporate_org
+ent::corporate_org::A,entity,A,A,corporate_org
+ent::corporate_org::Alanka Capital,entity,Alanka Capital,Alanka Capital,corporate_org
+ent::corporate_org::Banca March,entity,Banca March,Banca March,corporate_org
+ent::corporate_org::El Corte Inglés Group,entity,El Corte Inglés Group,El Corte Inglés Group,corporate_org
+ent::corporate_org::Management Consulting,entity,Management Consulting,Management Consulting,corporate_org
+ent::corporate_org::Spaila,entity,Spaila,Spaila,corporate_org
+ent::academic_org::Esade,entity,Esade,Esade,academic_org
+ent::academic_org::Institute Of Directors,entity,Singapore Institute Of Directors,Singapore Institute Of Directors,academic_org
+ent::academic_org::London School of Economics and Political Science,entity,London School of Economics and Political Science,London School of Economics and Political Science,academic_org
+ent::academic_org::Lse,entity,Lse,Lse,academic_org
+ent::academic_org::Pdd,entity,Pdd,Pdd,academic_org
+ent::academic_org::Strategic Management,entity,Strategic Management,Strategic Management,academic_org
+ent::academic_org::Universidad Comercial De Deusto,entity,Universidad Comercial De Deusto,Universidad Comercial De Deusto,academic_org
+prof::Appius Fabius Crassus,professor,Appius Fabius Crassus,Appius Fabius Crassus,
+ent::location::Business,entity,Business,Business,location
+ent::location::City Of,entity,City Of,City Of,location
+ent::location::Seville,entity,Seville,Seville,location
+ent::corporate_org::##Ajasol Inversiones De Capital Scr,entity,##Ajasol Inversiones De Capital Scr,##Ajasol Inversiones De Capital Scr,corporate_org
+ent::corporate_org::##Ca Cívica,entity,##Ca Cívica,##Ca Cívica,corporate_org
+ent::corporate_org::##Gua Y Gestión,entity,##Gua Y Gestión,##Gua Y Gestión,corporate_org
+ent::corporate_org::##Villa Urban Planning Office,entity,##Villa Urban Planning Office,##Villa Urban Planning Office,corporate_org
+ent::corporate_org::##cuela Superior de Hostelería de Sevilla,entity,##cuela Superior de Hostelería de Sevilla,##cuela Superior de Hostelería de Sevilla,corporate_org
+ent::corporate_org::Alestis Aerospace,entity,Alestis Aerospace,Alestis Aerospace,corporate_org
+ent::corporate_org::Aparcamientos Urbanos De Sevilla,entity,Aparcamientos Urbanos De Sevilla,Aparcamientos Urbanos De Sevilla,corporate_org
+ent::corporate_org::Arte Información Y Gestión,entity,Arte Información Y Gestión,Arte Información Y Gestión,corporate_org
+ent::corporate_org::At4 Wireless,entity,At4 Wireless,At4 Wireless,corporate_org
+ent::corporate_org::Ban,entity,Ban,Ban,corporate_org
+ent::corporate_org::Cajasol,entity,Cajasol,Cajasol,corporate_org
+ent::corporate_org::Corporación Empresarial Cajasol,entity,Corporación Empresarial Cajasol,Corporación Empresarial Cajasol,corporate_org
+ent::corporate_org::Es,entity,Es,Es,corporate_org
+ent::corporate_org::Infodesa,entity,Infodesa,Infodesa,corporate_org
+ent::corporate_org::Isolux Corsán Concesiones,entity,Isolux Corsán Concesiones,Isolux Corsán Concesiones,corporate_org
+ent::corporate_org::Isolux Wat Ingeniería,entity,Isolux Wat Ingeniería,Isolux Wat Ingeniería,corporate_org
+ent::corporate_org::J. García Carrión,entity,J. García Carrión,J. García Carrión,corporate_org
+ent::corporate_org::Mercapital,entity,Mercapital,Mercapital,corporate_org
+ent::corporate_org::Persán,entity,Persán,Persán,corporate_org
+ent::corporate_org::Red De Banda Ancha Andalucía,entity,Red De Banda Ancha Andalucía,Red De Banda Ancha Andalucía,corporate_org
+ent::corporate_org::Sadiel,entity,Sadiel,Sadiel,corporate_org
+ent::corporate_org::Sagane,entity,Sagane,Sagane,corporate_org
+ent::corporate_org::Se,entity,Se,Se,corporate_org
+ent::corporate_org::Sevilla Seed Capital,entity,Sevilla Seed Capital,Sevilla Seed Capital,corporate_org
+ent::corporate_org::Tubespa,entity,Tubespa,Tubespa,corporate_org
+ent::academic_org::Imba,entity,Imba,Imba,academic_org
+ent::academic_org::Instituto de Estudios Jurídicos y Empresariales de Sevilla,entity,Instituto de Estudios Jurídicos y Empresariales de Sevilla,Instituto de Estudios Jurídicos y Empresariales de Sevilla,academic_org
+ent::academic_org::Programa Superior de Financiaciones Estructuradas y Capital Riesgo,entity,Programa Superior de Financiaciones Estructuradas y Capital Riesgo,Programa Superior de Financiaciones Estructuradas y Capital Riesgo,academic_org
+ent::academic_org::Universidad De Sevilla,entity,Universidad De Sevilla,Universidad De Sevilla,academic_org
+ent::course::Global Mba,entity,Global Mba,Global Mba,course
+prof::Appius Fabius Drusus,professor,Appius Fabius Drusus,Appius Fabius Drusus,
+ent::location::Brazil,entity,Brazil,Brazil,location
+ent::location::De Janeiro,entity,De Janeiro,De Janeiro,location
+ent::location::Peru,entity,Peru,Peru,location
+ent::academic_org::##A Pontifical University,entity,##A Pontifical University,##A Pontifical University,academic_org
+ent::academic_org::##Cnológico De Monterrey,entity,##Cnológico De Monterrey,##Cnológico De Monterrey,academic_org
+ent::academic_org::##Mill,entity,##Mill,##Mill,academic_org
+ent::academic_org::##Ovad Executive Education,entity,##Ovad Executive Education,##Ovad Executive Education,academic_org
+ent::academic_org::Co,entity,Co,Co,academic_org
+ent::academic_org::Deusto University,entity,Deusto University,Deusto University,academic_org
+ent::academic_org::Eae Business School,entity,Eae Business School,Eae Business School,academic_org
+ent::academic_org::Federal University Of Rio Grande Do Sul,entity,Federal University Of Rio Grande Do Sul,Federal University Of Rio Grande Do Sul,academic_org
+ent::academic_org::Iit,entity,Iit,Iit,academic_org
+ent::academic_org::Indian Institute Of Technology,entity,Indian Institute Of Technology,Indian Institute Of Technology,academic_org
+ent::academic_org::Inn,entity,Inn,Inn,academic_org
+ent::academic_org::Interactive Telecommunications,entity,Interactive Telecommunications,Interactive Telecommunications,academic_org
+ent::academic_org::Ipade,entity,Ipade,Ipade,academic_org
+ent::academic_org::Mba,entity,Mba,Mba,academic_org
+ent::academic_org::New York University,entity,New York University,New York University,academic_org
+ent::academic_org::Pontifical Catholic University Of Rio,entity,Pontifical Catholic University Of Rio,Pontifical Catholic University Of Rio,academic_org
+ent::academic_org::Pontifical Javeriana University,entity,Pontifical Javeriana University,Pontifical Javeriana University,academic_org
+ent::academic_org::Pontifical University Of Rio De Janeiro,entity,Pontifical University Of Rio De Janeiro,Pontifical University Of Rio De Janeiro,academic_org
+ent::academic_org::Strategic Design,entity,Strategic Design,Strategic Design,academic_org
+ent::academic_org::Te,entity,Te,Te,academic_org
+ent::academic_org::Uc Riverside,entity,Uc Riverside,Uc Riverside,academic_org
+ent::academic_org::Unisinos University,entity,Unisinos University,Unisinos University,academic_org
+ent::academic_org::Universidad Del Pacífico,entity,Universidad Del Pacífico,Universidad Del Pacífico,academic_org
+ent::academic_org::Universidad Distrital Francisco Jose de Caldas,entity,Universidad Distrital Francisco Jose de Caldas,Universidad Distrital Francisco Jose de Caldas,academic_org
+ent::academic_org::Xseed,entity,Xseed,Xseed,academic_org
+prof::Appius Flavius Caesar,professor,Appius Flavius Caesar,Appius Flavius Caesar,
+ent::location::Oxford,entity,Oxford,Oxford,location
+ent::academic_org::Altec,entity,Altec,Altec,academic_org
+ent::academic_org::Alteco,entity,Alteco,Alteco,academic_org
+ent::academic_org::Autopista Madrid,entity,Autopista Madrid,Autopista Madrid,academic_org
+ent::academic_org::Bami,entity,Bami,Bami,academic_org
+ent::academic_org::Eu Legis,entity,Eu Legis,Eu Legis,academic_org
+ent::academic_org::Interim,entity,Interim,Interim,academic_org
+ent::academic_org::Levante,entity,Levante,Levante,academic_org
+ent::academic_org::Mag Import,entity,Mag Import,Mag Import,academic_org
+ent::academic_org::Newco,entity,Newco,Newco,academic_org
+prof::Appius Flavius Drusus,professor,Appius Flavius Drusus,Appius Flavius Drusus,
+ent::location::##Id,entity,##Id,##Id,location
+ent::location::##Ity,entity,##Ity,##Ity,location
+ent::location::##Ive,entity,##Ive,##Ive,location
+ent::location::##Iversity,entity,##Iversity,##Iversity,location
+ent::location::Iii,entity,Iii,Iii,location
+ent::location::Iii De Ma,entity,Iii De Ma,Iii De Ma,location
+ent::location::Washington Dc,entity,Washington Dc,Washington Dc,location
+ent::corporate_org::Banking & Finance Department,entity,Banking & Finance Department,Banking & Finance Department,corporate_org
+ent::corporate_org::Deutsche Pfandbfriefbank Ag,entity,Deutsche Pfandbfriefbank Ag,Deutsche Pfandbfriefbank Ag,corporate_org
+ent::corporate_org::Financial & Fiscal Law Unit,entity,Financial & Fiscal Law Unit,Financial & Fiscal Law Unit,corporate_org
+ent::corporate_org::Gómez - Acebo & Pombo Abogados,entity,Gómez - Acebo & Pombo Abogados,Gómez - Acebo & Pombo Abogados,corporate_org
+ent::corporate_org::International Monetary Fund,entity,International Monetary Fund,International Monetary Fund,corporate_org
+ent::corporate_org::Legal Department,entity,Legal Department,Legal Department,corporate_org
+ent::academic_org::##Dr,entity,##Dr,##Dr,academic_org
+ent::academic_org::##Rs,entity,##Rs,##Rs,academic_org
+ent::academic_org::##Ts & Trust,entity,##Ts & Trust,##Ts & Trust,academic_org
+ent::academic_org::De Madrid,entity,De Madrid,De Madrid,academic_org
+ent::academic_org::Financial Transactions And Regulations,entity,Financial Transactions And Regulations,Financial Transactions And Regulations,academic_org
+ent::academic_org::Georgetown University Law Center,entity,Georgetown University Law Center,Georgetown University Law Center,academic_org
+ent::academic_org::Ie Un,entity,Ie Un,Ie Un,academic_org
+ent::academic_org::Tor,entity,Tor,Tor,academic_org
+ent::academic_org::Universidad Carlos,entity,Universidad Juan Carlos,Universidad Juan Carlos,academic_org
+ent::academic_org::Universidad Carlos Iii De Madrid,entity,Universidad Carlos Iii De Madrid,Universidad Carlos Iii De Madrid,academic_org
+prof::Appius Flavius Flaccus,professor,Appius Flavius Flaccus,Appius Flavius Flaccus,
+ent::location::##Ión,entity,##Ión,##Ión,location
+ent::location::France,entity,France,France,location
+ent::location::Mannheim,entity,Mannheim,Mannheim,location
+ent::location::March,entity,March,March,location
+ent::location::Valencia,entity,Valencia,Valencia,location
+ent::corporate_org::Big Wave Analytics,entity,Big Wave Analytics,Big Wave Analytics,corporate_org
+ent::academic_org::##Zes,entity,##Zes,##Zes,academic_org
+ent::academic_org::Applied Social Research and Data Analysis ”,entity,Applied Social Research and Data Analysis ”,Applied Social Research and Data Analysis ”,academic_org
+ent::academic_org::Ceacs,entity,Ceacs,Ceacs,academic_org
+ent::academic_org::Centro De Investigaciones Sociológicas,entity,Centro De Investigaciones Sociológicas,Centro De Investigaciones Sociológicas,academic_org
+ent::academic_org::Cis,entity,Cis,Cis,academic_org
+ent::academic_org::Edem Escuela De Empresarios,entity,Edem Escuela De Empresarios,Edem Escuela De Empresarios,academic_org
+ent::academic_org::Esic,entity,Esic,Esic,academic_org
+ent::academic_org::Fundac,entity,Fundac,Fundac,academic_org
+ent::academic_org::Juan,entity,Juan,Juan,academic_org
+ent::academic_org::M,entity,M,M,academic_org
+ent::academic_org::Sciences Po Bordeaux,entity,Sciences Po Bordeaux,Sciences Po Bordeaux,academic_org
+ent::academic_org::Short Stay Scientific Mission,entity,Short Stay Scientific Mission,Short Stay Scientific Mission,academic_org
+ent::academic_org::Uam,entity,Uam,Uam,academic_org
+ent::academic_org::Uned,entity,Uned,Uned,academic_org
+prof::Appius Flavius Rufus,professor,Appius Flavius Rufus,Appius Flavius Rufus,
+ent::corporate_org::##Iento,entity,##Iento,##Iento,corporate_org
+ent::corporate_org::Icmat,entity,Icmat,Icmat,corporate_org
+ent::corporate_org::Instituto De Ingeniería Del Conoc,entity,Instituto De Ingeniería Del Conoc,Instituto De Ingeniería Del Conoc,corporate_org
+ent::corporate_org::Spanish Council For Scientific Research,entity,Spanish Council For Scientific Research,Spanish Council For Scientific Research,corporate_org
+ent::course::Python,entity,Python,Python,course
+ent::academic_org::Data Science,entity,Data Science,Data Science,academic_org
+ent::academic_org::Machine Learning For Business,entity,Machine Learning For Business,Machine Learning For Business,academic_org
+ent::academic_org::Programming,entity,Programming,Programming,academic_org
+ent::academic_org::R,entity,R,R,academic_org
+ent::academic_org::Uah,entity,Uah,Uah,academic_org
+prof::Appius Horatius Ahenobarbus,professor,Appius Horatius Ahenobarbus,Appius Horatius Ahenobarbus,
+ent::corporate_org::Arthur Andersen,entity,Arthur Andersen,Arthur Andersen,corporate_org
+ent::corporate_org::Deloitte,entity,Deloitte,Deloitte,corporate_org
+ent::corporate_org::M & A Corporate Finance,entity,M & A Corporate Finance,M & A Corporate Finance,corporate_org
+ent::corporate_org::Real Estate,entity,Real Estate,Real Estate,corporate_org
+ent::course::Catalan,entity,Catalan,Catalan,course
+ent::course::English,entity,English,English,course
+ent::course::French,entity,French,French,course
+ent::course::Real Estate Conference,entity,Real Estate Conference,Real Estate Conference,course
+ent::course::Spanish,entity,Spanish,Spanish,course
+ent::academic_org::Bmp,entity,Bmp,Bmp,academic_org
+ent::academic_org::Deloitte University,entity,Deloitte University,Deloitte University,academic_org
+ent::academic_org::Gri,entity,Gri,Gri,academic_org
+ent::academic_org::Harvard Extension Program,entity,Harvard Extension Program,Harvard Extension Program,academic_org
+ent::academic_org::Initiatives,entity,Initiatives,Initiatives,academic_org
+ent::academic_org::Mric,entity,Mric,Mric,academic_org
+ent::academic_org::Property Finance And Investments,entity,Property Finance And Investments,Property Finance And Investments,academic_org
+ent::academic_org::Ramon Llull University,entity,Ramon Llull University,Ramon Llull University,academic_org
+ent::academic_org::Real Estate Development,entity,Real Estate Development,Real Estate Development,academic_org
+ent::academic_org::Real Estate Investments,entity,Real Estate Investments,Real Estate Investments,academic_org
+ent::academic_org::Ucsd,entity,Ucsd,Ucsd,academic_org
+ent::academic_org::Uli,entity,Uli,Uli,academic_org
+ent::location::Barcelona,entity,Barcelona,Barcelona,location
+prof::Flavia Nasa,professor,Flavia Nasa,Flavia Nasa,
+ent::location::##Go,entity,##Go,##Go,location
+ent::location::##Via,entity,##Via,##Via,location
+ent::location::Asia,entity,Asia,Asia,location
+ent::location::Nepal,entity,Nepal,Nepal,location
+ent::location::Se,entity,Se,Se,location
+ent::academic_org::Engineering,entity,Engineering,Engineering,academic_org
+ent::academic_org::Structural Engineering,entity,Structural Engineering,Structural Engineering,academic_org
+ent::academic_org::Sustainable Heritage,entity,Sustainable Heritage,Sustainable Heritage,academic_org
+ent::academic_org::UCL The Bartlett ’ s Institute for Sustainable Heritage,entity,UCL The Bartlett ’ s Institute for Sustainable Heritage,UCL The Bartlett ’ s Institute for Sustainable Heritage,academic_org
+ent::corporate_org::##Rup,entity,##Rup,##Rup,corporate_org
+ent::corporate_org::Asf,entity,Asf,Asf,corporate_org
+ent::corporate_org::Ecosistema Urbano,entity,Ecosistema Urbano,Ecosistema Urbano,corporate_org
+ent::corporate_org::Mecanismo Diseño y Cálculo de Estructuras,entity,Mecanismo Diseño y Cálculo de Estructuras,Mecanismo Diseño y Cálculo de Estructuras,corporate_org
+prof::Horatia Minor,professor,Horatia Minor,Horatia Minor,
+ent::corporate_org::##Xam,entity,##Xam,##Xam,corporate_org
+ent::corporate_org::Labor Area,entity,Labor Area,Labor Area,corporate_org
+ent::corporate_org::Labor Relations,entity,Labor Relations,Labor Relations,corporate_org
+ent::academic_org::##Os,entity,##Os,##Os,academic_org
+ent::academic_org::Centro De Est,entity,Centro De Est,Centro De Est,academic_org
+ent::academic_org::H,entity,H,H,academic_org
+ent::academic_org::Hr Management,entity,Hr Management,Hr Management,academic_org
+ent::academic_org::Law University Of,entity,Law University Of,Law University Of,academic_org
+ent::location::##Udi,entity,##Udi,##Udi,location
+ent::location::##Udios Garrigues,entity,##Udios Garrigues,##Udios Garrigues,location
+ent::location::Garrigues,entity,Garrigues,Garrigues,location
+ent::location::Granada,entity,Granada,Granada,location
+prof::Appius Horatius Brutus,professor,Appius Horatius Brutus,Appius Horatius Brutus,
+ent::corporate_org::Accenture,entity,Accenture,Accenture,corporate_org
+ent::corporate_org::Galeo Tech,entity,Galeo Tech,Galeo Tech,corporate_org
+ent::corporate_org::Izertis,entity,Izertis,Izertis,corporate_org
+ent::corporate_org::R & D Department,entity,R & D Department,R & D Department,corporate_org
+ent::academic_org::Cloud Computing,entity,Cloud Computing,Cloud Computing,academic_org
+ent::academic_org::Evalu,entity,Evalu,Evalu,academic_org
+ent::academic_org::Iot,entity,Iot,Iot,academic_org
+ent::academic_org::Red,entity,Red,Red,academic_org
+ent::academic_org::Universidad Francisco De Vitoria,entity,Universidad Francisco De Vitoria,Universidad Francisco De Vitoria,academic_org
+prof::Appius Horatius Drusus,professor,Appius Horatius Drusus,Appius Horatius Drusus,
+ent::corporate_org::##Erifone,entity,##Erifone,##Erifone,corporate_org
+ent::corporate_org::& Design,entity,& Design,& Design,corporate_org
+ent::corporate_org::Gtd Science Infrastructures & Robotics,entity,Gtd Science Infrastructures & Robotics,Gtd Science Infrastructures & Robotics,corporate_org
+ent::corporate_org::Gtd Sistemas De Información,entity,Gtd Sistemas De Información,Gtd Sistemas De Información,corporate_org
+ent::corporate_org::Hhb Communications,entity,Hhb Communications,Hhb Communications,corporate_org
+ent::corporate_org::R &,entity,R &,R &,corporate_org
+ent::corporate_org::Sepsa,entity,Sepsa,Sepsa,corporate_org
+ent::corporate_org::V,entity,V,V,corporate_org
+ent::academic_org::##P,entity,##P,##P,academic_org
+ent::academic_org::Meng Satellite Technology,entity,Meng Satellite Technology,Meng Satellite Technology,academic_org
+ent::academic_org::Msc Electronics,entity,Msc Electronics,Msc Electronics,academic_org
+"ent::academic_org::Technology, Innovation And En",entity,"Technology, Innovation And En","Technology, Innovation And En",academic_org
+ent::academic_org::Universidad Complutense,entity,Universidad Complutense De Madrid,Universidad Complutense De Madrid,academic_org
+ent::academic_org::Universidad Politécnica,entity,Universidad Politécnica De Madrid,Universidad Politécnica De Madrid,academic_org
+ent::location::Rey Juan Carlos,entity,Rey Juan Carlos,Rey Juan Carlos,location
+prof::Appius Horatius Flaccus,professor,Appius Horatius Flaccus,Appius Horatius Flaccus,
+ent::location::South Europe,entity,South Europe,South Europe,location
+ent::corporate_org::##Pier,entity,##Pier,##Pier,corporate_org
+ent::corporate_org::Hipoges Iberia,entity,Hipoges Iberia,Hipoges Iberia,corporate_org
+ent::corporate_org::Iberia Development,entity,Iberia Development,Iberia Development,corporate_org
+ent::corporate_org::In,entity,In,In,corporate_org
+ent::corporate_org::Isg Plc,entity,Isg Plc,Isg Plc,corporate_org
+ent::corporate_org::Siemens Gamesa,entity,Siemens Gamesa,Siemens Gamesa,corporate_org
+ent::academic_org::Ieb,entity,Ieb,Ieb,academic_org
+ent::academic_org::M & A Finance,entity,M & A Finance,M & A Finance,academic_org
+ent::academic_org::Of Architecture And Desing,entity,Of Architecture And Desing,Of Architecture And Desing,academic_org
+prof::Appius Horatius Naso,professor,Appius Horatius Naso,Appius Horatius Naso,
+ent::location::Central America,entity,Central America,Central America,location
+ent::location::Del Valle,entity,Del Valle,Del Valle,location
+ent::location::Guatemala,entity,Guatemala,Guatemala,location
+ent::location::Ica,entity,Ica,Ica,location
+ent::corporate_org::##Na,entity,##Na,##Na,corporate_org
+ent::corporate_org::##Stenibilidad,entity,##Stenibilidad,##Stenibilidad,corporate_org
+ent::corporate_org::##Uran Habitat,entity,##Uran Habitat,##Uran Habitat,corporate_org
+ent::corporate_org::##´Or,entity,##´Or,##´Or,corporate_org
+ent::corporate_org::B,entity,B,B,corporate_org
+ent::corporate_org::En,entity,En,En,corporate_org
+ent::corporate_org::Protea Renovables,entity,Protea Renovables,Protea Renovables,corporate_org
+ent::corporate_org::Vinci Energies Spain,entity,Vinci Energies Spain,Vinci Energies Spain,corporate_org
+ent::academic_org::##Bility,entity,##Bility,##Bility,academic_org
+ent::academic_org::##De,entity,##De,##De,academic_org
+ent::academic_org::& Business,entity,& Business,& Business,academic_org
+ent::academic_org::Francisco De Vitoria University,entity,Francisco De Vitoria University,Francisco De Vitoria University,academic_org
+ent::academic_org::Mit,entity,Mit,Mit,academic_org
+ent::academic_org::Su,entity,Su,Su,academic_org
+ent::academic_org::Tools,entity,Tools,Tools,academic_org
+ent::course::Technology,entity,Technology,Technology,course
+prof::Appius Horatius Paullus,professor,Appius Horatius Paullus,Appius Horatius Paullus,
+ent::location::##Turias,entity,##Turias,##Turias,location
+ent::location::##Vied,entity,##Vied,##Vied,location
+ent::location::As,entity,As,As,location
+ent::location::Ie,entity,Ie,Ie,location
+ent::corporate_org::Network,entity,Network,Network,corporate_org
+ent::corporate_org::Platform,entity,Platform,Platform,corporate_org
+ent::course::Optics In Networking,entity,Optics In Networking,Optics In Networking,course
+ent::academic_org::##O University,entity,##O University,##O University,academic_org
+ent::academic_org::Distributed Computing And Networking,entity,Distributed Computing And Networking,Distributed Computing And Networking,academic_org
+ent::academic_org::Oviedo University,entity,Oviedo University,Oviedo University,academic_org
+ent::academic_org::Telefónica,entity,Telefónica,Telefónica,academic_org
+ent::academic_degree::Mba,entity,Mba,Mba,academic_degree
+prof::Appius Horatius Severus,professor,Appius Horatius Severus,Appius Horatius Severus,
+ent::location::Card,entity,Card,Card,location
+ent::location::Puerta De Hierro University Hospital,entity,Puerta De Hierro University Hospital,Puerta De Hierro University Hospital,location
+ent::corporate_org::Forensic and Security Sciences Institute,entity,Forensic and Security Sciences Institute,Forensic and Security Sciences Institute,corporate_org
+ent::corporate_org::Uam,entity,Uam,Uam,corporate_org
+ent::academic_org::##Urs,entity,##Urs,##Urs,academic_org
+ent::academic_org::Behavioral And Health Sciences,entity,Behavioral And Health Sciences,Behavioral And Health Sciences,academic_org
+ent::academic_org::Escuela De Organización Industrial,entity,Escuela De Organización Industrial,Escuela De Organización Industrial,academic_org
+ent::academic_org::Structures,entity,Structures,Structures,academic_org
+ent::course::##Ith,entity,##Ith,##Ith,course
+prof::Appius Horatius Sulla,professor,Appius Horatius Sulla,Appius Horatius Sulla,
+ent::corporate_org::Altran Group,entity,Altran Group,Altran Group,corporate_org
+ent::corporate_org::Daemon Quest,entity,Daemon Quest,Daemon Quest,corporate_org
+ent::corporate_org::Deloitte Digital,entity,Deloitte Digital,Deloitte Digital,corporate_org
+ent::corporate_org::Frog Design,entity,Frog Design,Frog Design,corporate_org
+ent::corporate_org::Global,entity,Global,Global,corporate_org
+ent::corporate_org::Innovation ’ Practice,entity,Innovation ’ Practice,Innovation ’ Practice,corporate_org
+ent::corporate_org::‘ Intelligence,entity,‘ Intelligence,‘ Intelligence,corporate_org
+ent::academic_org::Design Management,entity,Design Management,Design Management,academic_org
+ent::academic_org::Harvard Business School,entity,Harvard Business School,Harvard Business School,academic_org
+ent::academic_org::Texas A & M University,entity,Texas A & M University,Texas A & M University,academic_org
+prof::Appius Julius Crassus,professor,Appius Julius Crassus,Appius Julius Crassus,
+ent::location::Emea Region,entity,Emea Region,Emea Region,location
+ent::academic_org::##Ción,entity,##Ción,##Ción,academic_org
+ent::academic_org::##Ión,entity,##Ión,##Ión,academic_org
+ent::academic_org::##Nzadi,entity,##Nzadi,##Nzadi,academic_org
+ent::academic_org::##Ual,entity,##Ual,##Ual,academic_org
+ent::academic_org::Al O,entity,Al O,Al O,academic_org
+ent::academic_org::And International,entity,And International,And International,academic_org
+ent::academic_org::Autonoma University Of Madrid,entity,Autonoma University Of Madrid,Autonoma University Of Madrid,academic_org
+ent::academic_org::C,entity,C,C,academic_org
+ent::academic_org::Cloud Compliance Report Csa Es,entity,Cloud Compliance Report Csa Es,Cloud Compliance Report Csa Es,academic_org
+ent::academic_org::Csa Spanish Chapter,entity,Csa Spanish Chapter,Csa Spanish Chapter,academic_org
+ent::academic_org::Data Protection Factbook,entity,Data Protection Factbook,Data Protection Factbook,academic_org
+ent::academic_org::Datos Personales,entity,Datos Personales,Datos Personales,academic_org
+ent::academic_org::Ecija,entity,Ecija,Ecija,academic_org
+ent::academic_org::Editorial Lefebvre,entity,Editorial Lefebvre,Editorial Lefebvre,academic_org
+ent::academic_org::El,entity,El,El,academic_org
+ent::academic_org::El Derecho,entity,El Derecho,El Derecho,academic_org
+ent::academic_org::Emp,entity,Emp,Emp,academic_org
+ent::academic_org::Ex,entity,Ex,Ex,academic_org
+ent::academic_org::Information Technology,entity,Information Technology,Information Technology,academic_org
+ent::academic_org::Internet,entity,Internet,Internet,academic_org
+ent::academic_org::La Catarata,entity,La Catarata,La Catarata,academic_org
+ent::academic_org::La Com,entity,La Com,La Com,academic_org
+ent::academic_org::La Inform,entity,La Inform,La Inform,academic_org
+ent::academic_org::Security,entity,Security,Security,academic_org
+ent::academic_org::Startup Lawyers Program,entity,Startup Lawyers Program,Startup Lawyers Program,academic_org
+ent::academic_org::Thomson,entity,Thomson,Thomson,academic_org
+ent::academic_org::Thomson - Aranzadi,entity,Thomson - Aranzadi,Thomson - Aranzadi,academic_org
+ent::academic_org::Universidad de Santiago de Compostela LLM,entity,Universidad de Santiago de Compostela LLM,Universidad de Santiago de Compostela LLM,academic_org
+ent::academic_org::University Of Navarra,entity,University Of Navarra,University Of Navarra,academic_org
+prof::Appius Julius Naso,professor,Appius Julius Naso,Appius Julius Naso,
+ent::corporate_org::Iic,entity,Iic,Iic,corporate_org
+ent::corporate_org::Lenguajenatural,entity,Lenguajenatural,Lenguajenatural,corporate_org
+ent::academic_org::Afi Escuela De Finanzas,entity,Afi Escuela De Finanzas,Afi Escuela De Finanzas,academic_org
+ent::academic_org::Cunef,entity,Cunef,Cunef,academic_org
+ent::academic_org::Datahack,entity,Datahack,Datahack,academic_org
+ent::academic_org::Universidad Europea,entity,Universidad Europea,Universidad Europea,academic_org
+prof::Appius Julius Paullus,professor,Appius Julius Paullus,Appius Julius Paullus,
+ent::location::##Á,entity,##Á,##Á,location
+ent::location::United States Of America,entity,United States Of America,United States Of America,location
+ent::corporate_org::##Ivies,entity,##Ivies,##Ivies,corporate_org
+ent::corporate_org::##Quitectos,entity,##Quitectos,##Quitectos,corporate_org
+ent::corporate_org::Arquitectura,entity,Arquitectura,Arquitectura,corporate_org
+ent::corporate_org::As + Ábalos + Sentkiewicz,entity,As + Ábalos + Sentkiewicz,As + Ábalos + Sentkiewicz,corporate_org
+ent::corporate_org::Coam,entity,Coam,Coam,corporate_org
+ent::corporate_org::Colegio Oficial de Arquitectos de Madrid,entity,Colegio Oficial de Arquitectos de Madrid,Colegio Oficial de Arquitectos de Madrid,corporate_org
+ent::corporate_org::Estudio Herreros,entity,Estudio Herreros,Estudio Herreros,corporate_org
+ent::corporate_org::Ábalos & Herreros,entity,Ábalos & Herreros,Ábalos & Herreros,corporate_org
+ent::academic_org::##Cuela De Arquitectura,entity,##Cuela De Arquitectura,##Cuela De Arquitectura,academic_org
+ent::academic_org::##Iversità Degli Studi Di Sassari,entity,##Iversità Degli Studi Di Sassari,##Iversità Degli Studi Di Sassari,academic_org
+ent::academic_org::Architectural History,entity,Architectural History,Architectural History,academic_org
+ent::academic_org::Architectural History And Theory,entity,Architectural History And Theory,Architectural History And Theory,academic_org
+ent::academic_org::Cult,entity,Cult,Cult,academic_org
+ent::academic_org::Della Materia,entity,Della Materia,Della Materia,academic_org
+ent::academic_org::Es,entity,Es,Es,academic_org
+ent::academic_org::Etsam,entity,Etsam,Etsam,academic_org
+ent::academic_org::Facoltà Di Architettura Di Alghero,entity,Facoltà Di Architettura Di Alghero,Facoltà Di Architettura Di Alghero,academic_org
+ent::academic_org::Gsd,entity,Gsd,Gsd,academic_org
+ent::academic_org::Studies,entity,Studies,Studies,academic_org
+ent::academic_org::Teoría y Crítica del Proyecto y de la Arquitectura Moderna y Contemporánea ’,entity,Teoría y Crítica del Proyecto y de la Arquitectura Moderna y Contemporánea ’,Teoría y Crítica del Proyecto y de la Arquitectura Moderna y Contemporánea ’,academic_org
+ent::academic_org::Theory,entity,Theory,Theory,academic_org
+ent::academic_org::Udit,entity,Udit,Udit,academic_org
+ent::academic_org::Universidad Camilo José Cela,entity,Universidad Camilo José Cela,Universidad Camilo José Cela,academic_org
+ent::academic_org::Universidad De Alcal,entity,Universidad De Alcal,Universidad De Alcal,academic_org
+ent::academic_org::Universidad De Diseño Y Tecnología,entity,Universidad De Diseño Y Tecnología,Universidad De Diseño Y Tecnología,academic_org
+ent::academic_org::Universidad Europea De Madrid,entity,Universidad Europea De Madrid,Universidad Europea De Madrid,academic_org
+ent::academic_org::Universidad Nebrija,entity,Universidad Nebrija,Universidad Nebrija,academic_org
+ent::academic_org::Upm,entity,Upm,Upm,academic_org
+prof::Antonia Drusa,professor,Antonia Drusa,Antonia Drusa,
+ent::location::##Dz,entity,##Dz,##Dz,location
+ent::location::The,entity,The,The,location
+ent::course::European,entity,European,European,course
+ent::course::European Politics,entity,European Politics,European Politics,course
+ent::academic_org::Center For European Studies,entity,Center For European Studies,Center For European Studies,academic_org
+ent::academic_org::Politics And Society,entity,Politics And Society,Politics And Society,academic_org
+ent::academic_org::Universidad De Granada,entity,Universidad De Granada,Universidad De Granada,academic_org
+ent::academic_org::University Of Lo,entity,University Of Lo,University Of Lo,academic_org
+ent::academic_org::Utrecht University,entity,Utrecht University,Utrecht University,academic_org
+prof::Aemilia Flacca,professor,Aemilia Flacca,Aemilia Flacca,
+prof::Appius Licinius Brutus,professor,Appius Licinius Brutus,Appius Licinius Brutus,
+ent::location::##Ig,entity,##Ig,##Ig,location
+ent::location::Pisa,entity,Pisa,Pisa,location
+ent::academic_org::##Utational Seminar,entity,##Utational Seminar,##Utational Seminar,academic_org
+ent::academic_org::B,entity,B,B,academic_org
+ent::academic_org::Bim,entity,Bim,Bim,academic_org
+ent::academic_org::Design And Fabrication,entity,Design And Fabrication,Design And Fabrication,academic_org
+ent::academic_org::Dynamo,entity,Dynamo,Dynamo,academic_org
+ent::academic_org::University Of Pisa,entity,University Of Pisa,University Of Pisa,academic_org
+ent::academic_org::Zigurat Global Institute Of Technology,entity,Zigurat Global Institute Of Technology,Zigurat Global Institute Of Technology,academic_org
+ent::course::##Ithmic Design,entity,##Ithmic Design,##Ithmic Design,course
+ent::course::##Metrical,entity,##Metrical,##Metrical,course
+ent::course::Buildings,entity,Buildings,Buildings,course
+ent::course::Digital Autumn ”,entity,Digital Autumn ”,Digital Autumn ”,course
+ent::course::G,entity,G,G,course
+ent::course::Geometry I & Ii,entity,Geometry I & Ii,Geometry I & Ii,course
+ent::course::Ii,entity,Ii,Ii,course
+ent::course::Mathematics,entity,Mathematics,Mathematics,course
+prof::Appius Licinius Cicero,professor,Appius Licinius Cicero,Appius Licinius Cicero,
+ent::location::Do,entity,Do,Do,location
+ent::location::Kazakhstan,entity,Kazakhstan,Kazakhstan,location
+ent::location::Republic Of Kazakhstan,entity,Republic Of Kazakhstan,Republic Of Kazakhstan,location
+ent::location::Singapore,entity,Singapore,Singapore,location
+ent::location::Switzerland,entity,Switzerland,Switzerland,location
+ent::location::United Kingdom,entity,United Kingdom,United Kingdom,location
+ent::corporate_org::##Ance & Stew,entity,##Ance & Stew,##Ance & Stew,corporate_org
+ent::corporate_org::##Ckinsey & Company,entity,##Ckinsey & Company,##Ckinsey & Company,corporate_org
+ent::corporate_org::##Ght,entity,##Ght,##Ght,corporate_org
+ent::corporate_org::##Holr,entity,##Holr,##Holr,corporate_org
+ent::corporate_org::Aifc,entity,Aifc,Aifc,corporate_org
+ent::corporate_org::Aifc Acamic Council,entity,Aifc Acamic Council,Aifc Acamic Council,corporate_org
+ent::corporate_org::As,entity,As,As,corporate_org
+ent::corporate_org::Co,entity,Co,Co,corporate_org
+ent::corporate_org::Co - Founr,entity,Co - Founr,Co - Founr,corporate_org
+ent::corporate_org::Committee Of Managing Directors,entity,Committee Of Managing Directors,Committee Of Managing Directors,corporate_org
+ent::corporate_org::Corporate Go,entity,Corporate Go,Corporate Go,corporate_org
+ent::corporate_org::International Financial Centre,entity,International Financial Centre,International Financial Centre,corporate_org
+ent::corporate_org::Kazakhstan Development Bank,entity,Kazakhstan Development Bank,Kazakhstan Development Bank,corporate_org
+ent::corporate_org::Lakewell Capital Partners,entity,Lakewell Capital Partners,Lakewell Capital Partners,corporate_org
+ent::corporate_org::M,entity,M,M,corporate_org
+ent::corporate_org::Managing,entity,Managing,Managing,corporate_org
+ent::corporate_org::National Bank Of Kazakhstan,entity,National Bank Of Kazakhstan,National Bank Of Kazakhstan,corporate_org
+ent::corporate_org::National Investment Corporation,entity,National Investment Corporation,National Investment Corporation,corporate_org
+ent::corporate_org::Practice,entity,Practice,Practice,corporate_org
+ent::corporate_org::Pricewaterhousecoopers,entity,Pricewaterhousecoopers,Pricewaterhousecoopers,corporate_org
+ent::corporate_org::Processes & Applications,entity,Processes & Applications,Processes & Applications,corporate_org
+ent::corporate_org::S,entity,S,S,corporate_org
+ent::corporate_org::S & P Global,entity,S & P Global,S & P Global,corporate_org
+ent::corporate_org::Sc,entity,Sc,Sc,corporate_org
+ent::corporate_org::Shell International,entity,Shell International,Shell International,corporate_org
+ent::corporate_org::Strategic For,entity,Strategic For,Strategic For,corporate_org
+ent::corporate_org::Strategy,entity,& Strategy,& Strategy,corporate_org
+ent::corporate_org::Sustainable Foresight Institute,entity,Sustainable Foresight Institute,Sustainable Foresight Institute,corporate_org
+ent::corporate_org::World Economic Forum,entity,World Economic Forum,World Economic Forum,corporate_org
+ent::academic_org::##Ght,entity,##Ght,##Ght,academic_org
+ent::academic_org::##Inability Lears,entity,##Inability Lears,##Inability Lears,academic_org
+ent::academic_org::##Inability Learship,entity,##Inability Learship,##Inability Learship,academic_org
+ent::academic_org::##Ptive,entity,##Ptive,##Ptive,academic_org
+ent::academic_org::Arpel,entity,Arpel,Arpel,academic_org
+ent::academic_org::Belgian American Educational Foundation,entity,Belgian American Educational Foundation,Belgian American Educational Foundation,academic_org
+ent::academic_org::Boston University,entity,Boston University,Boston University,academic_org
+ent::academic_org::Cambridge University,entity,University Of Cambridge,University Of Cambridge,academic_org
+ent::academic_org::Caterpillar,entity,Caterpillar,Caterpillar,academic_org
+ent::academic_org::Cdir,entity,Cdir,Cdir,academic_org
+ent::academic_org::Chartered Governance Institute,entity,Chartered Governance Institute,Chartered Governance Institute,academic_org
+ent::academic_org::Chartered Governance Professional,entity,Chartered Governance Professional,Chartered Governance Professional,academic_org
+ent::academic_org::Computer Information Systems,entity,Computer Information Systems,Computer Information Systems,academic_org
+ent::academic_org::Dupont,entity,Dupont,Dupont,academic_org
+ent::academic_org::Ecopetrol,entity,Ecopetrol,Ecopetrol,academic_org
+ent::academic_org::Energy & Su,entity,Energy & Su,Energy & Su,academic_org
+ent::academic_org::Energy Delta Institute,entity,Energy Delta Institute,Energy Delta Institute,academic_org
+ent::academic_org::Equinor,entity,Equinor,Equinor,academic_org
+ent::academic_org::Fcg,entity,Fcg,Fcg,academic_org
+ent::academic_org::Finance,entity,Finance,Finance,academic_org
+ent::academic_org::Ge Learship,entity,Ge Learship,Ge Learship,academic_org
+ent::academic_org::Geneva School of Diplomacy & International Relations,entity,Geneva School of Diplomacy & International Relations,Geneva School of Diplomacy & International Relations,academic_org
+ent::academic_org::Global Climate Change,entity,Global Climate Change,Global Climate Change,academic_org
+ent::academic_org::Gran Ecole,entity,Gran Ecole,Gran Ecole,academic_org
+ent::academic_org::Innovation & Growth,entity,Innovation & Growth,Innovation & Growth,academic_org
+ent::academic_org::Insead,entity,Insead,Insead,academic_org
+ent::academic_org::Management And Business Administration,entity,Management And Business Administration,Management And Business Administration,academic_org
+ent::academic_org::Nacd Board,entity,Nacd Board,Nacd Board,academic_org
+ent::academic_org::National Association of Corporate Directors,entity,National Association of Corporate Directors,National Association of Corporate Directors,academic_org
+ent::academic_org::Pew Center On,entity,Pew Center On,Pew Center On,academic_org
+ent::academic_org::Planning And Corporate Strategy,entity,Planning And Corporate Strategy,Planning And Corporate Strategy,academic_org
+ent::academic_org::Renault - Nissan,entity,Renault - Nissan,Renault - Nissan,academic_org
+ent::academic_org::Rouen School Of Management,entity,Rouen School Of Management,Rouen School Of Management,academic_org
+ent::academic_org::Saudi Aramco,entity,Saudi Aramco,Saudi Aramco,academic_org
+ent::academic_org::Scena,entity,Scena,Scena,academic_org
+ent::academic_org::Shell Finance,entity,Shell Finance,Shell Finance,academic_org
+ent::academic_org::Solvay School Of Management,entity,Solvay School Of Management,Solvay School Of Management,academic_org
+ent::academic_org::Stanford Directors Consortium,entity,Stanford Directors Consortium,Stanford Directors Consortium,academic_org
+ent::academic_org::Statoil,entity,Statoil,Statoil,academic_org
+ent::academic_org::Strategic For,entity,Strategic For,Strategic For,academic_org
+ent::academic_org::Strategy & Finance,entity,Strategy & Finance,Strategy & Finance,academic_org
+ent::academic_org::Tesla,entity,Tesla,Tesla,academic_org
+ent::academic_org::The,entity,The,The,academic_org
+ent::academic_org::The Graduate Institute,entity,The Graduate Institute,The Graduate Institute,academic_org
+ent::academic_org::The Kazakhstan Development Bank,entity,The Kazakhstan Development Bank,The Kazakhstan Development Bank,academic_org
+ent::academic_org::Tiger Group,entity,Tiger Group,Tiger Group,academic_org
+ent::academic_org::Toyota,entity,Toyota,Toyota,academic_org
+ent::academic_org::University Of London,entity,University Of London,University Of London,academic_org
+prof::Appius Licinius Drusus,professor,Appius Licinius Drusus,Appius Licinius Drusus,
+ent::location::##In,entity,##In,##In,location
+ent::corporate_org::##Gna Cum Lau,entity,##Gna Cum Lau,##Gna Cum Lau,corporate_org
+ent::corporate_org::Administration Vlerick Business School,entity,Administration Vlerick Business School,Administration Vlerick Business School,corporate_org
+ent::corporate_org::Degroof,entity,Degroof,Degroof,corporate_org
+ent::corporate_org::Economics,entity,Economics,Economics,corporate_org
+ent::corporate_org::Esso Benel,entity,Esso Benel,Esso Benel,corporate_org
+ent::corporate_org::Finance,entity,Finance,Finance,corporate_org
+ent::corporate_org::Fundación Mutualidad Abogacía,entity,Fundación Mutualidad Abogacía,Fundación Mutualidad Abogacía,corporate_org
+ent::corporate_org::Ie Business School,entity,Ie Business School,Ie Business School,corporate_org
+ent::corporate_org::Ie University,entity,Ie University,Ie University,corporate_org
+ent::corporate_org::Kbc,entity,Kbc,Kbc,corporate_org
+ent::corporate_org::Nyenro Business University,entity,Nyenro Business University,Nyenro Business University,corporate_org
+ent::corporate_org::Petercam,entity,Petercam Sa,Petercam Sa,corporate_org
+ent::corporate_org::Petercam Derivatives Sa,entity,Petercam Derivatives Sa,Petercam Derivatives Sa,corporate_org
+ent::corporate_org::University Of Gibraltar,entity,University Of Gibraltar,University Of Gibraltar,corporate_org
+ent::corporate_org::University Of London,entity,University Of London,University Of London,corporate_org
+prof::Horatia Pulchra,professor,Horatia Pulchra,Horatia Pulchra,
+ent::location::##Ara,entity,##Ara,##Ara,location
+ent::location::##Nares,entity,##Nares,##Nares,location
+ent::location::Boston,entity,Boston,Boston,location
+ent::location::Campus,entity,Campus,Campus,location
+ent::location::Chicago,entity,Chicago,Chicago,location
+ent::location::Florida,entity,Florida,Florida,location
+ent::location::Massachusetts,entity,Massachusetts,Massachusetts,location
+ent::location::Miami,entity,Miami,Miami,location
+ent::location::Mount Holyoke,entity,Mount Holyoke,Mount Holyoke,location
+ent::location::School,entity,School,School,location
+ent::location::School Of,entity,School Of,School Of,location
+ent::corporate_org::Federal Defender ’ S Office,entity,Federal Defender ’ S Office,Federal Defender ’ S Office,corporate_org
+ent::corporate_org::Greater Boston Legal Services,entity,Greater Boston Legal Services,Greater Boston Legal Services,corporate_org
+ent::corporate_org::Harvard Institute Of Public Policy,entity,Harvard Institute Of Public Policy,Harvard Institute Of Public Policy,corporate_org
+ent::corporate_org::Harvard Medical School,entity,Harvard Medical School,Harvard Medical School,corporate_org
+ent::corporate_org::Harvard University,entity,Harvard University,Harvard University,corporate_org
+ent::corporate_org::Keefe & Mercado,entity,Keefe & Mercado,Keefe & Mercado,corporate_org
+ent::corporate_org::Llp,entity,Llp,Llp,corporate_org
+ent::corporate_org::Medical Ethics Division,entity,Medical Ethics Division,Medical Ethics Division,corporate_org
+ent::corporate_org::Mercado &,entity,Mercado &,Mercado &,corporate_org
+ent::corporate_org::Miami,entity,Miami,Miami,corporate_org
+ent::corporate_org::Office Of The General Council,entity,Office Of The General Council,Office Of The General Council,corporate_org
+"ent::corporate_org::Peckham, Lobel, Casey, Prince & Tye",entity,"Peckham, Lobel, Casey, Prince & Tye","Peckham, Lobel, Casey, Prince & Tye",corporate_org
+ent::corporate_org::State Attorney General ’ S Office,entity,State Attorney General ’ S Office,State Attorney General ’ S Office,corporate_org
+ent::course::##Tiation Techniques,entity,##Tiation Techniques,##Tiation Techniques,course
+ent::course::American N,entity,American N,American N,course
+ent::course::Ethics,entity,Ethics,Ethics,course
+ent::course::International Business Law,entity,International Business Law,International Business Law,course
+ent::course::International Contract Law,entity,International Contract Law,International Contract Law,course
+ent::course::International Dispute Dissolution,entity,International Dispute Dissolution,International Dispute Dissolution,course
+ent::course::International M. B. A.,entity,International M. B. A.,International M. B. A.,course
+ent::course::Law Systems,entity,Law Systems,Law Systems,course
+ent::academic_org::##Goza College Of Attorneys,entity,##Goza College Of Attorneys,##Goza College Of Attorneys,academic_org
+ent::academic_org::##ultad de Derecho de la Universidad de Alcalá de He,entity,##ultad de Derecho de la Universidad de Alcalá de He,##ultad de Derecho de la Universidad de Alcalá de He,academic_org
+ent::academic_org::F,entity,F,F,academic_org
+ent::academic_org::Instituto De Empresa University,entity,Instituto De Empresa University,Instituto De Empresa University,academic_org
+ent::academic_org::Lau,entity,Lau,Lau,academic_org
+ent::academic_org::Lawyers,entity,Lawyers,Lawyers,academic_org
+ent::academic_org::Of Law,entity,Of Law,Of Law,academic_org
+ent::academic_org::Pontifical University,entity,Comillas Pontifical University,Comillas Pontifical University,academic_org
+ent::academic_org::Saint Thomas University,entity,Saint Thomas University,Saint Thomas University,academic_org
+ent::academic_org::Saint Thomas University School Of Law,entity,Saint Thomas University School Of Law,Saint Thomas University School Of Law,academic_org
+ent::academic_org::Schiller University,entity,Schiller University,Schiller University,academic_org
+ent::academic_org::Suffolk University,entity,Suffolk University,Suffolk University,academic_org
+ent::academic_org::University Of Toulouse,entity,University Of Toulouse,University Of Toulouse,academic_org
+ent::academic_org::Z,entity,Z,Z,academic_org
+prof::Appius Licinius Naso,professor,Appius Licinius Naso,Appius Licinius Naso,
+ent::location::Lisbon,entity,Lisbon,Lisbon,location
+ent::academic_org::##Cture,entity,##Cture,##Cture,academic_org
+ent::academic_org::Center For Automation And Control,entity,Center For Automation And Control,Center For Automation And Control,academic_org
+ent::academic_org::Cities,entity,Cities,Cities,academic_org
+ent::academic_org::Communities,entity,Communities,Communities,academic_org
+ent::academic_org::Csic,entity,Csic,Csic,academic_org
+"ent::academic_org::Industry, Innovation And Infraest",entity,"Industry, Innovation And Infraest","Industry, Innovation And Infraest",academic_org
+ent::academic_org::Institute For Mathematical Sciences,entity,Institute For Mathematical Sciences,Institute For Mathematical Sciences,academic_org
+ent::academic_org::University Of Lisbon,entity,University Of Lisbon,University Of Lisbon,academic_org
+prof::Appius Licinius Paullus,professor,Appius Licinius Paullus,Appius Licinius Paullus,
+ent::corporate_org::##Mpass Lexecon,entity,##Mpass Lexecon,##Mpass Lexecon,corporate_org
+ent::corporate_org::Confemadera,entity,Confemadera,Confemadera,corporate_org
+ent::corporate_org::La Voz De C,entity,La Voz De C,La Voz De C,corporate_org
+ent::academic_org::Uc3M,entity,Uc3M,Uc3M,academic_org
+prof::Appius Licinius Scipio,professor,Appius Licinius Scipio,Appius Licinius Scipio,
+ent::location::Bil,entity,Bil,Bil,location
+ent::corporate_org::##Al,entity,##Al,##Al,corporate_org
+ent::corporate_org::##Al Llp,entity,##Al Llp,##Al Llp,corporate_org
+ent::corporate_org::##D & B,entity,##D & B,##D & B,corporate_org
+ent::corporate_org::##Erizon Business,entity,##Erizon Business,##Erizon Business,corporate_org
+ent::corporate_org::Acm España,entity,Acm España,Acm España,corporate_org
+ent::corporate_org::Andersen Tax & L,entity,Andersen Tax & L,Andersen Tax & L,corporate_org
+ent::corporate_org::Broseta Abogados,entity,Broseta Abogados,Broseta Abogados,corporate_org
+ent::corporate_org::European Union,entity,European Union,European Union,corporate_org
+ent::corporate_org::J,entity,J,J,corporate_org
+ent::corporate_org::L. P.,entity,L. P.,L. P.,corporate_org
+ent::corporate_org::Litigation And Insolvency Area,entity,Litigation And Insolvency Area,Litigation And Insolvency Area,corporate_org
+ent::corporate_org::Litigation And Insolvency Department,entity,Litigation And Insolvency Department,Litigation And Insolvency Department,corporate_org
+ent::corporate_org::Mci Brussels,entity,Mci Brussels,Mci Brussels,corporate_org
+ent::corporate_org::Olleros Y Asociados S. L. P.,entity,Olleros Y Asociados S. L. P.,Olleros Y Asociados S. L. P.,corporate_org
+ent::corporate_org::Representation Office,entity,Representation Office,Representation Office,corporate_org
+ent::course::##Sol,entity,##Sol,##Sol,course
+ent::course::International,entity,International Mba,International Mba,course
+ent::course::Master,entity,Master,Master,course
+ent::academic_org::Access To,entity,Access To,Access To,academic_org
+ent::academic_org::Banking Litigation,entity,Banking Litigation,Banking Litigation,academic_org
+ent::academic_org::International Bankruptcy Proceedings,entity,International Bankruptcy Proceedings,International Bankruptcy Proceedings,academic_org
+ent::academic_org::International Union Of Lawyers,entity,International Union Of Lawyers,International Union Of Lawyers,academic_org
+ent::academic_org::Legal Profession,entity,Legal Profession,Legal Profession,academic_org
+ent::academic_org::Profession,entity,Profession,Profession,academic_org
+ent::academic_org::Uia Congress,entity,Uia Congress,Uia Congress,academic_org
+ent::academic_org::University Of Murcia,entity,University Of Murcia,University Of Murcia,academic_org
+ent::location::Hong Kong,entity,Hong Kong,Hong Kong,location
+ent::location::Mexico,entity,Mexico,Mexico,location
+ent::location::Vidiv,entity,Vidiv,Vidiv,location
+ent::location::##On,entity,##On,##On,location
+ent::location::##Teelis,entity,##Teelis,##Teelis,location
+ent::location::Black Belt,entity,Black Belt,Black Belt,location
+ent::location::G. E.,entity,G. E.,G. E.,location
+ent::location::Hallib,entity,Hallib,Hallib,location
+ent::location::##Hapel,entity,##Hapel,##Hapel,location
+ent::location::S,entity,S,S,location
+ent::location::##Ccenture,entity,##Ccenture,##Ccenture,location
+ent::location::##Tisalat,entity,##Tisalat,##Tisalat,location
+ent::location::A,entity,A,A,location
+ent::location::Neoris,entity,Neoris,Neoris,location
+ent::location::Uae,entity,Uae,Uae,location
+ent::location::##Aixa,entity,##Aixa,##Aixa,location
+ent::location::C,entity,C,C,location
+ent::location::Indra,entity,Indra,Indra,location
+ent::location::Minsait By,entity,Minsait By,Minsait By,location
+ent::location::##Ler,entity,##Ler,##Ler,location
+ent::location::Wells,entity,Wells,Wells,location
+ent::location::##Ra,entity,##Ra,##Ra,location
+ent::location::##Rica,entity,##Rica,##Rica,location
+ent::location::##Rquiola St,entity,##Rquiola St,##Rquiola St,location
+ent::location::Aleg,entity,Aleg,Aleg,location
+ent::location::Ba,entity,Ba,Ba,location
+ent::location::Ciszak Dalma,entity,Ciszak Dalma,Ciszak Dalma,location
+ent::location::Fab,entity,Fab,Fab,location
+ent::location::Milan,entity,Milan,Milan,location
+ent::location::Treviso,entity,Treviso,Treviso,location
+ent::location::Vi,entity,Vi,Vi,location
+ent::location::Findme,entity,Findme,Findme,location
+ent::location::Alca,entity,Alca,Alca,location
+ent::location::Global,entity,Global,Global,location
+ent::location::Phnom Penh,entity,Phnom Penh,Phnom Penh,location
+ent::location::Israel,entity,Israel,Israel,location
+ent::location::Latin America,entity,Latin America,Latin America,location
+ent::location::##Bi,entity,##Bi,##Bi,location
+ent::location::##Im,entity,##Im,##Im,location
+ent::location::Komore,entity,Komore,Komore,location
+ent::location::##Odafon,entity,##Odafon,##Odafon,location
+ent::location::Abogados,entity,Abogados,Abogados,location
+ent::location::Amazon,entity,Amazon,Amazon,location
+ent::location::Ga,entity,Ga,Ga,location
+ent::location::Ma,entity,Ma,Ma,location
+ent::location::V,entity,V,V,location
+ent::location::Envira,entity,Envira,Envira,location
+ent::location::Barbara,entity,Barbara,Barbara,location
+ent::location::##Dra,entity,##Dra,##Dra,location
+ent::location::##Re,entity,##Re,##Re,location
+ent::location::Kle,entity,Kle,Kle,location
+ent::location::Lata,entity,Lata,Lata,location
+ent::location::Benelux,entity,Benelux,Benelux,location
+ent::location::Ai,entity,Ai,Ai,location
+ent::location::Va,entity,Va,Va,location
+ent::location::##Tana,entity,##Tana,##Tana,location
+ent::location::##Ux,entity,##Ux,##Ux,location
+ent::location::Di,entity,Di,Di,location
+ent::location::Cambridge,entity,Cambridge,Cambridge,location
+ent::location::##Hrcarem,entity,##Hrcarem,##Hrcarem,location
+ent::location::##Ádiz,entity,##Ádiz,##Ádiz,location
+ent::location::Fe,entity,Fe,Fe,location
+ent::location::Mondosonoro,entity,Mondosonoro,Mondosonoro,location
+ent::location::Luxembourg,entity,Luxembourg,Luxembourg,location
+ent::location::The Netherlands,entity,The Netherlands,The Netherlands,location

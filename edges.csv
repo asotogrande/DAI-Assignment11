@@ -1,0 +1,1109 @@
+source,target,relation,source_label,target_label
+prof::Appius Aemilius Agricola,ent::location::Mexico City,located_in,Appius Aemilius Agricola,Mexico City
+prof::Appius Aemilius Agricola,ent::location::Spain,located_in,Appius Aemilius Agricola,Spain
+prof::Appius Aemilius Agricola,ent::location::U. K.,located_in,Appius Aemilius Agricola,U. K.
+prof::Appius Aemilius Agricola,ent::corporate_org::##Ixi,worked_at,Appius Aemilius Agricola,##Ixi
+prof::Appius Aemilius Agricola,ent::corporate_org::A & M Studio,worked_at,Appius Aemilius Agricola,A & M Studio
+prof::Appius Aemilius Agricola,ent::corporate_org::Becquerel Capital,worked_at,Appius Aemilius Agricola,Becquerel Capital
+prof::Appius Aemilius Agricola,ent::corporate_org::The Hub,worked_at,Appius Aemilius Agricola,The Hub
+prof::Appius Aemilius Agricola,ent::academic_org::Camberwell College Of Arts Ual,studied_at,Appius Aemilius Agricola,Camberwell College Of Arts Ual
+prof::Appius Aemilius Agricola,ent::location::Hong Kong,worked_in,Appius Aemilius Agricola,Hong Kong
+prof::Appius Aemilius Agricola,ent::location::Mexico,worked_in,Appius Aemilius Agricola,Mexico
+prof::Appius Aemilius Agricola,ent::location::Vidiv,worked_in,Appius Aemilius Agricola,Vidiv
+ent::location::Spain,prof::Appius Aemilius Cicero,located_in,Spain,Appius Aemilius Cicero
+ent::location::Spain,prof::Appius Aemilius Crassus,located_in,Spain,Appius Aemilius Crassus
+ent::location::Spain,prof::Flavia Prisca,located_in,Spain,Flavia Prisca
+ent::location::Spain,prof::Appius Aemilius Scipio,located_in,Spain,Appius Aemilius Scipio
+ent::location::Spain,prof::Appius Aemilius Severus,located_in,Spain,Appius Aemilius Severus
+ent::location::Spain,prof::Appius Antonius Lepidus,located_in,Spain,Appius Antonius Lepidus
+ent::location::Spain,prof::Appius Calpurnius Paullus,located_in,Spain,Appius Calpurnius Paullus
+ent::location::Spain,prof::Appius Calpurnius Severus,located_in,Spain,Appius Calpurnius Severus
+ent::location::Spain,prof::Appius Claudius Caesar,located_in,Spain,Appius Claudius Caesar
+ent::location::Spain,prof::Appius Claudius Scipio,located_in,Spain,Appius Claudius Scipio
+ent::location::Spain,prof::Claudia Drusa,located_in,Spain,Claudia Drusa
+ent::location::Spain,prof::Appius Cornelius Cicero,located_in,Spain,Appius Cornelius Cicero
+ent::location::Spain,prof::Antonia Severa,located_in,Spain,Antonia Severa
+ent::location::Spain,prof::Appius Cornelius Lepidus,located_in,Spain,Appius Cornelius Lepidus
+ent::location::Spain,prof::Appius Domitius Brutus,located_in,Spain,Appius Domitius Brutus
+ent::location::Spain,prof::Appius Domitius Flaccus,located_in,Spain,Appius Domitius Flaccus
+ent::location::Spain,prof::Appius Fabius Drusus,located_in,Spain,Appius Fabius Drusus
+ent::location::Spain,prof::Appius Flavius Caesar,located_in,Spain,Appius Flavius Caesar
+ent::location::Spain,prof::Appius Flavius Drusus,located_in,Spain,Appius Flavius Drusus
+ent::location::Spain,prof::Appius Flavius Flaccus,located_in,Spain,Appius Flavius Flaccus
+ent::location::Spain,prof::Appius Flavius Rufus,located_in,Spain,Appius Flavius Rufus
+ent::location::Spain,prof::Horatia Minor,located_in,Spain,Horatia Minor
+ent::location::Spain,prof::Appius Horatius Brutus,located_in,Spain,Appius Horatius Brutus
+ent::location::Spain,prof::Appius Horatius Drusus,located_in,Spain,Appius Horatius Drusus
+ent::location::Spain,prof::Appius Horatius Naso,located_in,Spain,Appius Horatius Naso
+ent::location::Spain,prof::Appius Horatius Paullus,located_in,Spain,Appius Horatius Paullus
+ent::location::Spain,prof::Appius Horatius Severus,located_in,Spain,Appius Horatius Severus
+ent::location::Spain,prof::Appius Horatius Sulla,located_in,Spain,Appius Horatius Sulla
+ent::location::Spain,prof::Appius Julius Crassus,located_in,Spain,Appius Julius Crassus
+ent::location::Spain,prof::Appius Julius Paullus,located_in,Spain,Appius Julius Paullus
+ent::location::Spain,prof::Antonia Drusa,located_in,Spain,Antonia Drusa
+ent::location::Spain,prof::Horatia Pulchra,located_in,Spain,Horatia Pulchra
+ent::location::Spain,prof::Appius Licinius Naso,located_in,Spain,Appius Licinius Naso
+ent::location::Spain,prof::Appius Licinius Paullus,located_in,Spain,Appius Licinius Paullus
+ent::location::Spain,prof::Appius Licinius Scipio,located_in,Spain,Appius Licinius Scipio
+ent::location::Spain,prof::Appius Licinius Brutus,located_in,Spain,Appius Licinius Brutus
+ent::location::Spain,prof::Appius Horatius Ahenobarbus,worked_in,Spain,Appius Horatius Ahenobarbus
+ent::location::Spain,prof::Appius Licinius Drusus,worked_in,Spain,Appius Licinius Drusus
+prof::Appius Aemilius Cicero,ent::location::Cornell,located_in,Appius Aemilius Cicero,Cornell
+prof::Appius Aemilius Cicero,ent::location::Stanford,located_in,Appius Aemilius Cicero,Stanford
+prof::Appius Aemilius Cicero,ent::location::Us,located_in,Appius Aemilius Cicero,Us
+prof::Appius Aemilius Cicero,ent::location::Usa,located_in,Appius Aemilius Cicero,Usa
+prof::Appius Aemilius Cicero,ent::location::Villanova,located_in,Appius Aemilius Cicero,Villanova
+prof::Appius Aemilius Cicero,ent::corporate_org::##A,worked_at,Appius Aemilius Cicero,##A
+prof::Appius Aemilius Cicero,ent::corporate_org::##Urt,worked_at,Appius Aemilius Cicero,##Urt
+prof::Appius Aemilius Cicero,ent::corporate_org::Bemis Co ’,worked_at,Appius Aemilius Cicero,Bemis Co ’
+prof::Appius Aemilius Cicero,ent::corporate_org::Cameron ‘ A Schlumberger Co ’,worked_at,Appius Aemilius Cicero,Cameron ‘ A Schlumberger Co ’
+prof::Appius Aemilius Cicero,ent::corporate_org::Jet Research Center,worked_at,Appius Aemilius Cicero,Jet Research Center
+prof::Appius Aemilius Cicero,ent::corporate_org::Mactac,worked_at,Appius Aemilius Cicero,Mactac
+prof::Appius Aemilius Cicero,ent::corporate_org::Millwood Inc,worked_at,Appius Aemilius Cicero,Millwood Inc
+prof::Appius Aemilius Cicero,ent::corporate_org::Permas,worked_at,Appius Aemilius Cicero,Permas
+prof::Appius Aemilius Cicero,ent::corporate_org::Process Technology,worked_at,Appius Aemilius Cicero,Process Technology
+prof::Appius Aemilius Cicero,ent::corporate_org::Six Sigma / Lean Manufacturing,worked_at,Appius Aemilius Cicero,Six Sigma / Lean Manufacturing
+prof::Appius Aemilius Cicero,ent::corporate_org::Six Sigma Black Belt,worked_at,Appius Aemilius Cicero,Six Sigma Black Belt
+prof::Appius Aemilius Cicero,ent::academic_org::Brown University,studied_at,Appius Aemilius Cicero,Brown University
+prof::Appius Aemilius Cicero,ent::academic_org::E,studied_at,Appius Aemilius Cicero,E
+prof::Appius Aemilius Cicero,ent::academic_org::Electrical Engineering,studied_at,Appius Aemilius Cicero,Electrical Engineering
+prof::Appius Aemilius Cicero,ent::academic_org::Ie Business School,studied_at,Appius Aemilius Cicero,Ie School Of Business
+prof::Appius Aemilius Cicero,ent::academic_org::Kent State University,studied_at,Appius Aemilius Cicero,Kent State University
+prof::Appius Aemilius Cicero,ent::academic_org::Youngstown State University,studied_at,Appius Aemilius Cicero,Youngstown State University
+prof::Appius Aemilius Cicero,ent::location::##On,worked_in,Appius Aemilius Cicero,##On
+prof::Appius Aemilius Cicero,ent::location::##Teelis,worked_in,Appius Aemilius Cicero,##Teelis
+prof::Appius Aemilius Cicero,ent::location::Black Belt,worked_in,Appius Aemilius Cicero,Black Belt
+prof::Appius Aemilius Cicero,ent::location::G. E.,worked_in,Appius Aemilius Cicero,G. E.
+prof::Appius Aemilius Cicero,ent::location::Hallib,worked_in,Appius Aemilius Cicero,Hallib
+ent::location::Us,prof::Appius Aemilius Crassus,located_in,Us,Appius Aemilius Crassus
+ent::location::Us,prof::Appius Domitius Brutus,worked_in,Us,Appius Domitius Brutus
+ent::location::Usa,prof::Flavia Prisca,located_in,Usa,Flavia Prisca
+ent::location::Usa,prof::Appius Antonius Lepidus,located_in,Usa,Appius Antonius Lepidus
+ent::location::Usa,prof::Appius Calpurnius Paullus,located_in,Usa,Appius Calpurnius Paullus
+ent::location::Usa,prof::Pompeia Prisca,located_in,Usa,Pompeia Prisca
+ent::location::Usa,prof::Appius Cornelius Lepidus,located_in,Usa,Appius Cornelius Lepidus
+ent::location::Usa,prof::Appius Domitius Brutus,located_in,Usa,Appius Domitius Brutus
+ent::location::Usa,prof::Appius Fabius Drusus,located_in,Usa,Appius Fabius Drusus
+ent::location::Usa,prof::Appius Horatius Sulla,located_in,Usa,Appius Horatius Sulla
+ent::location::Usa,prof::Antonia Drusa,located_in,Usa,Antonia Drusa
+ent::location::Usa,prof::Appius Aemilius Scipio,worked_in,Usa,Appius Aemilius Scipio
+ent::academic_org::Brown University,prof::Appius Cornelius Lepidus,studied_at,Brown University,Appius Cornelius Lepidus
+ent::academic_org::E,prof::Appius Domitius Flaccus,studied_at,E,Appius Domitius Flaccus
+ent::academic_org::Ie Business School,prof::Appius Aemilius Severus,studied_at,Ie School Of Business,Appius Aemilius Severus
+ent::academic_org::Ie Business School,prof::Appius Cornelius Cicero,studied_at,Ie School Of Business,Appius Cornelius Cicero
+ent::academic_org::Ie Business School,prof::Appius Domitius Brutus,studied_at,Ie School Of Business,Appius Domitius Brutus
+ent::academic_org::Ie Business School,prof::Appius Domitius Flaccus,studied_at,Ie School Of Business,Appius Domitius Flaccus
+ent::academic_org::Ie Business School,prof::Appius Fabius Crassus,studied_at,Ie School Of Business,Appius Fabius Crassus
+ent::academic_org::Ie Business School,prof::Appius Horatius Drusus,studied_at,Ie School Of Business,Appius Horatius Drusus
+ent::academic_org::Ie Business School,prof::Appius Horatius Naso,studied_at,Ie School Of Business,Appius Horatius Naso
+ent::academic_org::Ie Business School,prof::Appius Horatius Paullus,studied_at,Ie School Of Business,Appius Horatius Paullus
+ent::academic_org::Ie Business School,prof::Appius Licinius Cicero,studied_at,Ie School Of Business,Appius Licinius Cicero
+ent::academic_org::Ie Business School,prof::Appius Cornelius Lepidus,studied_at,Ie School Of Business,Appius Cornelius Lepidus
+prof::Appius Aemilius Crassus,ent::location::##Lles,located_in,Appius Aemilius Crassus,##Lles
+prof::Appius Aemilius Crassus,ent::location::##Ruges,located_in,Appius Aemilius Crassus,##Ruges
+prof::Appius Aemilius Crassus,ent::location::B,located_in,Appius Aemilius Crassus,B
+prof::Appius Aemilius Crassus,ent::location::Belgium,located_in,Appius Aemilius Crassus,Belgium
+prof::Appius Aemilius Crassus,ent::location::Brussels,located_in,Appius Aemilius Crassus,Brussels
+prof::Appius Aemilius Crassus,ent::location::Madrid,located_in,Appius Aemilius Crassus,Madrid
+prof::Appius Aemilius Crassus,ent::location::San Pablo,located_in,Appius Aemilius Crassus,San Pablo
+prof::Appius Aemilius Crassus,ent::corporate_org::##Nmc,worked_at,Appius Aemilius Crassus,##Nmc
+prof::Appius Aemilius Crassus,ent::corporate_org::Bird & Bird Law Firm,worked_at,Appius Aemilius Crassus,Bird & Bird Law Firm
+prof::Appius Aemilius Crassus,ent::corporate_org::C,worked_at,Appius Aemilius Crassus,C
+prof::Appius Aemilius Crassus,ent::corporate_org::Creddia Advisors – Regulatory Issues & EU Affairs,worked_at,Appius Aemilius Crassus,Creddia Advisors – Regulatory Issues & EU Affairs
+prof::Appius Aemilius Crassus,ent::corporate_org::European Commission,worked_at,Appius Aemilius Crassus,European Commission
+prof::Appius Aemilius Crassus,ent::corporate_org::Law,worked_at,Appius Aemilius Crassus,Law
+prof::Appius Aemilius Crassus,ent::corporate_org::Of The Galician Government,worked_at,Appius Aemilius Crassus,Of The Galician Government
+prof::Appius Aemilius Crassus,ent::corporate_org::Off Counsel,worked_at,Appius Aemilius Crassus,Off Counsel
+prof::Appius Aemilius Crassus,ent::corporate_org::Regulation,worked_at,Appius Aemilius Crassus,Regulation
+prof::Appius Aemilius Crassus,ent::corporate_org::Telecommunications,worked_at,Appius Aemilius Crassus,Telecommunications
+prof::Appius Aemilius Crassus,ent::corporate_org::Telecommunications Regulatory Authority,worked_at,Appius Aemilius Crassus,Telecommunications Regulatory Authority
+prof::Appius Aemilius Crassus,ent::academic_org::##Ual Property Law,studied_at,Appius Aemilius Crassus,##Ual Property Law
+prof::Appius Aemilius Crassus,ent::academic_org::Ceu University,studied_at,Appius Aemilius Crassus,Ceu University
+prof::Appius Aemilius Crassus,ent::academic_org::College Of Europe,studied_at,Appius Aemilius Crassus,College Of Europe
+prof::Appius Aemilius Crassus,ent::academic_org::Comillas University,studied_at,Appius Aemilius Crassus,Comillas University
+prof::Appius Aemilius Crassus,ent::academic_org::Department Of State,studied_at,Appius Aemilius Crassus,Department Of State
+prof::Appius Aemilius Crassus,ent::academic_org::Energy,studied_at,Appius Aemilius Crassus,Energy
+prof::Appius Aemilius Crassus,ent::academic_org::European Commission,studied_at,Appius Aemilius Crassus,European Commission
+prof::Appius Aemilius Crassus,ent::academic_org::Ie University,studied_at,Appius Aemilius Crassus,Ie University Spain
+prof::Appius Aemilius Crassus,ent::academic_org::Iese,studied_at,Appius Aemilius Crassus,Iese
+prof::Appius Aemilius Crassus,ent::academic_org::Industrial And Intel,studied_at,Appius Aemilius Crassus,Industrial And Intel
+prof::Appius Aemilius Crassus,ent::academic_org::Law,studied_at,Appius Aemilius Crassus,Law
+prof::Appius Aemilius Crassus,ent::academic_org::University Of Valladolid,studied_at,Appius Aemilius Crassus,University Of Valladolid
+prof::Appius Aemilius Crassus,ent::academic_org::Université Libre De Bruxe,studied_at,Appius Aemilius Crassus,Université Libre De Bruxe
+prof::Appius Aemilius Crassus,ent::academic_org::Us Government,studied_at,Appius Aemilius Crassus,Us Government
+prof::Appius Aemilius Crassus,ent::course::##Lect,teaches_course,Appius Aemilius Crassus,##Lect
+prof::Appius Aemilius Crassus,ent::course::Eu Regulation Of Telecommunications And,teaches_course,Appius Aemilius Crassus,Eu Regulation Of Telecommunications And
+ent::location::B,prof::Appius Claudius Scipio,located_in,B,Appius Claudius Scipio
+ent::location::B,prof::Claudia Drusa,located_in,B,Claudia Drusa
+ent::location::B,prof::Appius Cornelius Lepidus,located_in,B,Appius Cornelius Lepidus
+ent::location::B,prof::Appius Licinius Scipio,worked_in,B,Appius Licinius Scipio
+ent::location::Belgium,prof::Appius Calpurnius Paullus,located_in,Belgium,Appius Calpurnius Paullus
+ent::location::Belgium,prof::Appius Claudius Caesar,located_in,Belgium,Appius Claudius Caesar
+ent::location::Belgium,prof::Appius Licinius Drusus,located_in,Belgium,Appius Licinius Drusus
+ent::location::Belgium,prof::Appius Licinius Brutus,located_in,Belgium,Appius Licinius Brutus
+ent::location::Belgium,prof::Appius Licinius Scipio,worked_in,Belgium,Appius Licinius Scipio
+ent::location::Brussels,prof::Appius Claudius Caesar,located_in,Brussels,Appius Claudius Caesar
+ent::location::Brussels,prof::Appius Licinius Brutus,located_in,Brussels,Appius Licinius Brutus
+ent::location::Brussels,prof::Appius Licinius Scipio,worked_in,Brussels,Appius Licinius Scipio
+ent::location::Madrid,prof::Appius Calpurnius Severus,located_in,Madrid,Appius Calpurnius Severus
+ent::location::Madrid,prof::Appius Claudius Caesar,located_in,Madrid,Appius Claudius Caesar
+ent::location::Madrid,prof::Appius Claudius Scipio,located_in,Madrid,Appius Claudius Scipio
+ent::location::Madrid,prof::Antonia Severa,located_in,Madrid,Antonia Severa
+ent::location::Madrid,prof::Appius Cornelius Lepidus,located_in,Madrid,Appius Cornelius Lepidus
+ent::location::Madrid,prof::Appius Fabius Crassus,located_in,Madrid,Appius Fabius Crassus
+ent::location::Madrid,prof::Appius Flavius Caesar,located_in,Madrid,Appius Flavius Caesar
+ent::location::Madrid,prof::Appius Flavius Flaccus,located_in,Madrid,Appius Flavius Flaccus
+ent::location::Madrid,prof::Flavia Nasa,located_in,Madrid,Flavia Nasa
+ent::location::Madrid,prof::Appius Horatius Drusus,located_in,Madrid,Appius Horatius Drusus
+ent::location::Madrid,prof::Appius Horatius Flaccus,located_in,Madrid,Appius Horatius Flaccus
+ent::location::Madrid,prof::Appius Horatius Paullus,located_in,Madrid,Appius Horatius Paullus
+ent::location::Madrid,prof::Appius Julius Paullus,located_in,Madrid,Appius Julius Paullus
+ent::location::Madrid,prof::Antonia Drusa,located_in,Madrid,Antonia Drusa
+ent::location::Madrid,prof::Aemilia Flacca,located_in,Madrid,Aemilia Flacca
+ent::location::Madrid,prof::Appius Licinius Naso,located_in,Madrid,Appius Licinius Naso
+ent::location::Madrid,prof::Appius Licinius Scipio,located_in,Madrid,Appius Licinius Scipio
+ent::location::Madrid,prof::Appius Licinius Brutus,located_in,Madrid,Appius Licinius Brutus
+ent::location::Madrid,prof::Claudia Drusa,worked_in,Madrid,Claudia Drusa
+ent::corporate_org::C,prof::Appius Fabius Crassus,worked_at,C,Appius Fabius Crassus
+ent::academic_org::College Of Europe,prof::Appius Calpurnius Paullus,studied_at,College Of Europe,Appius Calpurnius Paullus
+ent::academic_org::Energy,prof::Appius Horatius Naso,studied_at,Energy,Appius Horatius Naso
+ent::academic_org::European Commission,prof::Appius Horatius Brutus,studied_at,European Commission,Appius Horatius Brutus
+ent::academic_org::Ie University,prof::Flavia Prisca,studied_at,Ie University Spain,Flavia Prisca
+ent::academic_org::Ie University,prof::Appius Aemilius Scipio,studied_at,Ie University Spain,Appius Aemilius Scipio
+ent::academic_org::Ie University,prof::Appius Antonius Lepidus,studied_at,Ie University Spain,Appius Antonius Lepidus
+ent::academic_org::Ie University,prof::Appius Calpurnius Severus,studied_at,Ie University Spain,Appius Calpurnius Severus
+ent::academic_org::Ie University,prof::Appius Claudius Scipio,studied_at,Ie University Spain,Appius Claudius Scipio
+ent::academic_org::Ie University,prof::Pompeia Prisca,studied_at,Ie University Spain,Pompeia Prisca
+ent::academic_org::Ie University,prof::Appius Domitius Brutus,studied_at,Ie University Spain,Appius Domitius Brutus
+ent::academic_org::Ie University,prof::Appius Fabius Drusus,studied_at,Ie University Spain,Appius Fabius Drusus
+ent::academic_org::Ie University,prof::Appius Flavius Flaccus,studied_at,Ie University Spain,Appius Flavius Flaccus
+ent::academic_org::Ie University,prof::Appius Flavius Rufus,studied_at,Ie University Spain,Appius Flavius Rufus
+ent::academic_org::Ie University,prof::Flavia Nasa,studied_at,Ie University Spain,Flavia Nasa
+ent::academic_org::Ie University,prof::Horatia Minor,studied_at,Ie University Spain,Horatia Minor
+ent::academic_org::Ie University,prof::Appius Horatius Brutus,studied_at,Ie University Spain,Appius Horatius Brutus
+ent::academic_org::Ie University,prof::Appius Horatius Flaccus,studied_at,Ie University Spain,Appius Horatius Flaccus
+ent::academic_org::Ie University,prof::Appius Horatius Naso,studied_at,Ie University Spain,Appius Horatius Naso
+ent::academic_org::Ie University,prof::Appius Horatius Sulla,studied_at,Ie University Spain,Appius Horatius Sulla
+ent::academic_org::Ie University,prof::Antonia Drusa,studied_at,Ie University Spain,Antonia Drusa
+ent::academic_org::Ie University,prof::Appius Licinius Naso,studied_at,Ie University Spain,Appius Licinius Naso
+ent::academic_org::Ie University,prof::Appius Horatius Severus,studied_at,Ie University Spain,Appius Horatius Severus
+ent::academic_org::Iese,prof::Appius Domitius Flaccus,studied_at,Iese,Appius Domitius Flaccus
+ent::academic_org::Law,prof::Appius Calpurnius Paullus,studied_at,Law,Appius Calpurnius Paullus
+ent::academic_org::Law,prof::Appius Flavius Drusus,studied_at,Law,Appius Flavius Drusus
+ent::academic_org::Law,prof::Horatia Pulchra,studied_at,Law,Horatia Pulchra
+ent::academic_org::Law,prof::Appius Licinius Scipio,studied_at,Law,Appius Licinius Scipio
+prof::Flavia Prisca,ent::location::Colombia,located_in,Flavia Prisca,Colombia
+prof::Flavia Prisca,ent::location::Europe,located_in,Flavia Prisca,Europe
+prof::Flavia Prisca,ent::location::United States,located_in,Flavia Prisca,United States
+prof::Flavia Prisca,ent::corporate_org::Citibank,worked_at,Flavia Prisca,Citibank
+prof::Flavia Prisca,ent::corporate_org::Embassy Of Colombia,worked_at,Flavia Prisca,Embassy Of Colombia
+prof::Flavia Prisca,ent::corporate_org::Government Of Colombia,worked_at,Flavia Prisca,Government Of Colombia
+prof::Flavia Prisca,ent::corporate_org::Harvard Strategy Consulting,worked_at,Flavia Prisca,Harvard Strategy Consulting
+prof::Flavia Prisca,ent::corporate_org::Independent Consulting,worked_at,Flavia Prisca,Independent Consulting
+prof::Flavia Prisca,ent::corporate_org::Plan Colombia Europe,worked_at,Flavia Prisca,Plan Colombia Europe
+prof::Flavia Prisca,ent::corporate_org::Women ’ S World Banking Co.,worked_at,Flavia Prisca,Women ’ S World Banking Co.
+prof::Flavia Prisca,ent::course::Digital,teaches_course,Flavia Prisca,Digital
+prof::Flavia Prisca,ent::academic_org::Ai,studied_at,Flavia Prisca,Ai
+prof::Flavia Prisca,ent::academic_org::Business Administration,studied_at,Flavia Prisca,Business Administration
+prof::Flavia Prisca,ent::academic_org::Harvard University,studied_at,Flavia Prisca,Harvard University
+prof::Flavia Prisca,ent::academic_org::Icade,studied_at,Flavia Prisca,Icade
+prof::Flavia Prisca,ent::academic_org::Stanford University,studied_at,Flavia Prisca,Stanford University
+prof::Flavia Prisca,ent::academic_org::University Of The Andes,studied_at,Flavia Prisca,University Of The Andes
+prof::Flavia Prisca,ent::academic_org::Pontifical University,studied_at,Flavia Prisca,Comillas Pontifical University
+ent::location::Colombia,prof::Appius Fabius Drusus,located_in,Colombia,Appius Fabius Drusus
+ent::location::Europe,prof::Appius Cornelius Cicero,located_in,Europe,Appius Cornelius Cicero
+ent::location::Europe,prof::Flavia Nasa,located_in,Europe,Flavia Nasa
+ent::location::Europe,prof::Antonia Drusa,located_in,Europe,Antonia Drusa
+ent::location::Europe,prof::Appius Licinius Cicero,located_in,Europe,Appius Licinius Cicero
+ent::location::Europe,prof::Appius Licinius Drusus,located_in,Europe,Appius Licinius Drusus
+ent::location::Europe,prof::Appius Licinius Brutus,located_in,Europe,Appius Licinius Brutus
+ent::location::United States,prof::Appius Calpurnius Paullus,located_in,United States,Appius Calpurnius Paullus
+ent::location::United States,prof::Appius Licinius Cicero,located_in,United States,Appius Licinius Cicero
+ent::location::United States,prof::Horatia Pulchra,located_in,United States,Horatia Pulchra
+ent::academic_org::Harvard University,prof::Appius Antonius Lepidus,studied_at,Harvard University,Appius Antonius Lepidus
+ent::academic_org::Harvard University,prof::Appius Julius Paullus,studied_at,Harvard University,Appius Julius Paullus
+ent::academic_org::Harvard University,prof::Antonia Drusa,studied_at,Harvard University,Antonia Drusa
+ent::academic_org::Icade,prof::Appius Antonius Lepidus,studied_at,Icade,Appius Antonius Lepidus
+ent::academic_org::Icade,prof::Appius Julius Crassus,studied_at,Icade,Appius Julius Crassus
+prof::Appius Aemilius Scipio,ent::location::##Viedo,located_in,Appius Aemilius Scipio,##Viedo
+prof::Appius Aemilius Scipio,ent::location::De,located_in,Appius Aemilius Scipio,De
+prof::Appius Aemilius Scipio,ent::corporate_org::##Ets,worked_at,Appius Aemilius Scipio,##Ets
+prof::Appius Aemilius Scipio,ent::corporate_org::##Rmohuman,worked_at,Appius Aemilius Scipio,##Rmohuman
+prof::Appius Aemilius Scipio,ent::corporate_org::Accurate Quant,worked_at,Appius Aemilius Scipio,Accurate Quant
+prof::Appius Aemilius Scipio,ent::corporate_org::Arizona State University,worked_at,Appius Aemilius Scipio,Arizona State University
+prof::Appius Aemilius Scipio,ent::corporate_org::Autonomous System Technologies Research & Integration Laboratory,worked_at,Appius Aemilius Scipio,Autonomous System Technologies Research & Integration Laboratory
+prof::Appius Aemilius Scipio,ent::corporate_org::Centre For Automation And Robotics,worked_at,Appius Aemilius Scipio,Centre For Automation And Robotics
+prof::Appius Aemilius Scipio,ent::corporate_org::Csic,worked_at,Appius Aemilius Scipio,Csic
+prof::Appius Aemilius Scipio,ent::corporate_org::Dr,worked_at,Appius Aemilius Scipio,Dr
+prof::Appius Aemilius Scipio,ent::corporate_org::Massachusetts Institute Of Technology,worked_at,Appius Aemilius Scipio,Massachusetts Institute Of Technology
+prof::Appius Aemilius Scipio,ent::corporate_org::The,worked_at,Appius Aemilius Scipio,The
+prof::Appius Aemilius Scipio,ent::corporate_org::Universidad De O,worked_at,Appius Aemilius Scipio,Universidad De O
+prof::Appius Aemilius Scipio,ent::corporate_org::Upm,worked_at,Appius Aemilius Scipio,Upm
+prof::Appius Aemilius Scipio,ent::academic_org::Computer Vision,studied_at,Appius Aemilius Scipio,Computer Vision
+prof::Appius Aemilius Scipio,ent::academic_org::O,studied_at,Appius Aemilius Scipio,O
+prof::Appius Aemilius Scipio,ent::academic_org::Universidad,studied_at,Appius Aemilius Scipio,Universidad
+prof::Appius Aemilius Scipio,ent::location::##Hapel,worked_in,Appius Aemilius Scipio,##Hapel
+prof::Appius Aemilius Scipio,ent::location::S,worked_in,Appius Aemilius Scipio,S
+prof::Appius Aemilius Scipio,ent::academic_org::Universidad Politécnica,studied_at,Appius Aemilius Scipio,Universidad Politécnica De Madrid
+ent::corporate_org::Csic,prof::Appius Flavius Rufus,worked_at,Csic,Appius Flavius Rufus
+ent::academic_org::O,prof::Appius Horatius Paullus,studied_at,O,Appius Horatius Paullus
+ent::academic_org::Universidad,prof::Appius Horatius Drusus,studied_at,Universidad,Appius Horatius Drusus
+ent::academic_org::Universidad,prof::Appius Horatius Naso,studied_at,Universidad,Appius Horatius Naso
+prof::Appius Aemilius Severus,ent::location::Middle East,located_in,Appius Aemilius Severus,Middle East
+prof::Appius Aemilius Severus,ent::corporate_org::Boston Consulting Group,worked_at,Appius Aemilius Severus,Boston Consulting Group
+prof::Appius Aemilius Severus,ent::corporate_org::Digital Transformation,worked_at,Appius Aemilius Severus,Digital Transformation
+prof::Appius Aemilius Severus,ent::corporate_org::E,worked_at,Appius Aemilius Severus,E
+prof::Appius Aemilius Severus,ent::corporate_org::Havas Digital,worked_at,Appius Aemilius Severus,Havas Digital
+prof::Appius Aemilius Severus,ent::corporate_org::Lead,worked_at,Appius Aemilius Severus,Lead
+prof::Appius Aemilius Severus,ent::corporate_org::Newco,worked_at,Appius Aemilius Severus,Newco
+prof::Appius Aemilius Severus,ent::corporate_org::Svp,worked_at,Appius Aemilius Severus,Svp
+prof::Appius Aemilius Severus,ent::corporate_org::Tmt Industries,worked_at,Appius Aemilius Severus,Tmt Industries
+prof::Appius Aemilius Severus,ent::course::Digital Transformation,teaches_course,Appius Aemilius Severus,Digital Transformation
+prof::Appius Aemilius Severus,ent::academic_org::Advanced Global,studied_at,Appius Aemilius Severus,Advanced Global
+prof::Appius Aemilius Severus,ent::academic_org::Ie,studied_at,Appius Aemilius Severus,Ie
+prof::Appius Aemilius Severus,ent::academic_org::Robotics,studied_at,Appius Aemilius Severus,Robotics
+prof::Appius Aemilius Severus,ent::academic_degree::International Executive Mba,has_degree,Appius Aemilius Severus,International Executive Mba
+prof::Appius Aemilius Severus,ent::location::##Ccenture,worked_in,Appius Aemilius Severus,##Ccenture
+prof::Appius Aemilius Severus,ent::location::##Tisalat,worked_in,Appius Aemilius Severus,##Tisalat
+prof::Appius Aemilius Severus,ent::location::A,worked_in,Appius Aemilius Severus,A
+prof::Appius Aemilius Severus,ent::location::Neoris,worked_in,Appius Aemilius Severus,Neoris
+prof::Appius Aemilius Severus,ent::location::Uae,worked_in,Appius Aemilius Severus,Uae
+prof::Appius Aemilius Severus,ent::academic_org::Universidad Politécnica,studied_at,Appius Aemilius Severus,Universidad Politécnica De Madrid
+prof::Appius Aemilius Severus,ent::academic_org::Technology And Innovation,studied_at,Appius Aemilius Severus,Technology And Innovation Management
+ent::location::Middle East,prof::Appius Cornelius Cicero,located_in,Middle East,Appius Cornelius Cicero
+ent::corporate_org::Boston Consulting Group,prof::Appius Cornelius Cicero,worked_at,Boston Consulting Group,Appius Cornelius Cicero
+ent::corporate_org::Digital Transformation,prof::Appius Horatius Brutus,worked_at,Digital Transformation,Appius Horatius Brutus
+ent::academic_org::Ie,prof::Appius Julius Naso,studied_at,Ie,Appius Julius Naso
+ent::academic_org::Ie,prof::Horatia Pulchra,studied_at,Ie,Horatia Pulchra
+prof::Appius Antonius Lepidus,ent::corporate_org::##Bartlet,worked_at,Appius Antonius Lepidus,##Bartlet
+prof::Appius Antonius Lepidus,ent::corporate_org::Be,worked_at,Appius Antonius Lepidus,Be
+prof::Appius Antonius Lepidus,ent::corporate_org::Elcano Royal Institute,worked_at,Appius Antonius Lepidus,Elcano Royal Institute
+prof::Appius Antonius Lepidus,ent::corporate_org::Management Solutions,worked_at,Appius Antonius Lepidus,Management Solutions
+prof::Appius Antonius Lepidus,ent::corporate_org::United Nations,worked_at,Appius Antonius Lepidus,United Nations
+prof::Appius Antonius Lepidus,ent::academic_org::Ad,studied_at,Appius Antonius Lepidus,Ad
+prof::Appius Antonius Lepidus,ent::academic_org::Columbia University,studied_at,Appius Antonius Lepidus,Columbia University
+prof::Appius Antonius Lepidus,ent::academic_org::Diplomatic School Of Spain,studied_at,Appius Antonius Lepidus,Diplomatic School Of Spain
+prof::Appius Antonius Lepidus,ent::academic_org::G,studied_at,Appius Antonius Lepidus,G
+prof::Appius Antonius Lepidus,ent::academic_org::Georgetown,studied_at,Appius Antonius Lepidus,Georgetown
+prof::Appius Antonius Lepidus,ent::academic_org::Georgetown University,studied_at,Appius Antonius Lepidus,Georgetown University
+prof::Appius Antonius Lepidus,ent::academic_org::Industries,studied_at,Appius Antonius Lepidus,Industries
+prof::Appius Antonius Lepidus,ent::academic_org::Pompeu Fabra University,studied_at,Appius Antonius Lepidus,Pompeu Fabra University
+prof::Appius Antonius Lepidus,ent::academic_org::Universidad Pontificia De Comillas,studied_at,Appius Antonius Lepidus,Universidad Pontificia De Comillas
+ent::academic_org::Universidad Pontificia De Comillas,prof::Appius Domitius Flaccus,studied_at,Universidad Pontificia De Comillas,Appius Domitius Flaccus
+prof::Appius Antonius Naso,ent::location::Poland,located_in,Appius Antonius Naso,Poland
+prof::Appius Antonius Naso,ent::location::Wroclaw,located_in,Appius Antonius Naso,Wroclaw
+prof::Appius Antonius Naso,ent::academic_org::And Applied Mathematics,studied_at,Appius Antonius Naso,And Applied Mathematics
+prof::Appius Antonius Naso,ent::academic_org::Universidad Autónoma De Madrid,studied_at,Appius Antonius Naso,Universidad Autónoma De Madrid
+prof::Appius Antonius Naso,ent::academic_org::University Of Wrocław,studied_at,Appius Antonius Naso,University Of Wrocław
+ent::location::Poland,prof::Antonia Drusa,located_in,Poland,Antonia Drusa
+ent::academic_org::Universidad Autónoma De Madrid,prof::Appius Flavius Caesar,studied_at,Universidad Autónoma De Madrid,Appius Flavius Caesar
+ent::academic_org::Universidad Autónoma De Madrid,prof::Appius Flavius Flaccus,studied_at,Universidad Autónoma De Madrid,Appius Flavius Flaccus
+ent::academic_org::Universidad Autónoma De Madrid,prof::Appius Horatius Severus,studied_at,Universidad Autónoma De Madrid,Appius Horatius Severus
+ent::academic_org::Universidad Autónoma De Madrid,prof::Appius Horatius Sulla,studied_at,Universidad Autónoma De Madrid,Appius Horatius Sulla
+prof::Appius Calpurnius Paullus,ent::location::##Amanca,located_in,Appius Calpurnius Paullus,##Amanca
+prof::Appius Calpurnius Paullus,ent::location::##Golstadt,located_in,Appius Calpurnius Paullus,##Golstadt
+prof::Appius Calpurnius Paullus,ent::location::##Unya,located_in,Appius Calpurnius Paullus,##Unya
+prof::Appius Calpurnius Paullus,ent::location::##Ya,located_in,Appius Calpurnius Paullus,##Ya
+prof::Appius Calpurnius Paullus,ent::location::Germany,located_in,Appius Calpurnius Paullus,Germany
+prof::Appius Calpurnius Paullus,ent::location::In,located_in,Appius Calpurnius Paullus,In
+prof::Appius Calpurnius Paullus,ent::location::Italy,located_in,Appius Calpurnius Paullus,Italy
+prof::Appius Calpurnius Paullus,ent::corporate_org::##Bank,worked_at,Appius Calpurnius Paullus,##Bank
+prof::Appius Calpurnius Paullus,ent::corporate_org::Eu Focus Group,worked_at,Appius Calpurnius Paullus,Eu Focus Group
+prof::Appius Calpurnius Paullus,ent::corporate_org::European Parliament,worked_at,Appius Calpurnius Paullus,European Parliament
+prof::Appius Calpurnius Paullus,ent::academic_org::##Amingham State University,studied_at,Appius Calpurnius Paullus,##Amingham State University
+prof::Appius Calpurnius Paullus,ent::academic_org::##Iversitat Oberta De Catal,studied_at,Appius Calpurnius Paullus,##Iversitat Oberta De Catal
+prof::Appius Calpurnius Paullus,ent::academic_org::##Iversità Degli Studi Di Siena,studied_at,Appius Calpurnius Paullus,##Iversità Degli Studi Di Siena
+prof::Appius Calpurnius Paullus,ent::academic_org::##Ter Universitario De Abogacía,studied_at,Appius Calpurnius Paullus,##Ter Universitario De Abogacía
+prof::Appius Calpurnius Paullus,ent::academic_org::Alma Mater Studiorum,studied_at,Appius Calpurnius Paullus,Alma Mater Studiorum
+prof::Appius Calpurnius Paullus,ent::academic_org::Boston College,studied_at,Appius Calpurnius Paullus,Boston College
+prof::Appius Calpurnius Paullus,ent::academic_org::European University Institute,studied_at,Appius Calpurnius Paullus,European University Institute
+prof::Appius Calpurnius Paullus,ent::academic_org::Fi,studied_at,Appius Calpurnius Paullus,Fi
+prof::Appius Calpurnius Paullus,ent::academic_org::Fr,studied_at,Appius Calpurnius Paullus,Fr
+prof::Appius Calpurnius Paullus,ent::academic_org::Katholische Universität Eichstätt,studied_at,Appius Calpurnius Paullus,Katholische Universität Eichstätt
+prof::Appius Calpurnius Paullus,ent::academic_org::Un,studied_at,Appius Calpurnius Paullus,Un
+prof::Appius Calpurnius Paullus,ent::academic_org::Universidad Católica De Ávila,studied_at,Appius Calpurnius Paullus,Universidad Católica De Ávila
+prof::Appius Calpurnius Paullus,ent::academic_org::Universidad De Las Hespérides,studied_at,Appius Calpurnius Paullus,Universidad De Las Hespérides
+prof::Appius Calpurnius Paullus,ent::academic_org::Universidad Pontificia De Sal,studied_at,Appius Calpurnius Paullus,Universidad Pontificia De Sal
+prof::Appius Calpurnius Paullus,ent::academic_org::Università Di Bologna,studied_at,Appius Calpurnius Paullus,Università Di Bologna
+prof::Appius Calpurnius Paullus,ent::academic_org::Université Libre De Bruxelles,studied_at,Appius Calpurnius Paullus,Université Libre De Bruxelles
+prof::Appius Calpurnius Paullus,ent::course::Comparative,teaches_course,Appius Calpurnius Paullus,Comparative
+prof::Appius Calpurnius Paullus,ent::location::##Aixa,worked_in,Appius Calpurnius Paullus,##Aixa
+prof::Appius Calpurnius Paullus,ent::location::C,worked_in,Appius Calpurnius Paullus,C
+ent::location::Germany,prof::Antonia Severa,located_in,Germany,Antonia Severa
+ent::location::Germany,prof::Appius Flavius Flaccus,located_in,Germany,Appius Flavius Flaccus
+ent::location::Italy,prof::Claudia Drusa,located_in,Italy,Claudia Drusa
+ent::location::Italy,prof::Appius Domitius Brutus,located_in,Italy,Appius Domitius Brutus
+ent::location::Italy,prof::Appius Julius Paullus,located_in,Italy,Appius Julius Paullus
+ent::academic_org::Un,prof::Appius Domitius Brutus,studied_at,Un,Appius Domitius Brutus
+ent::academic_org::Un,prof::Appius Julius Paullus,studied_at,Un,Appius Julius Paullus
+prof::Appius Calpurnius Severus,ent::corporate_org::Boeing Europe,worked_at,Appius Calpurnius Severus,Boeing Europe
+prof::Appius Calpurnius Severus,ent::corporate_org::Capgemini,worked_at,Appius Calpurnius Severus,Capgemini
+prof::Appius Calpurnius Severus,ent::corporate_org::Pc Componentes,worked_at,Appius Calpurnius Severus,Pc Componentes
+prof::Appius Calpurnius Severus,ent::academic_org::Advanced,studied_at,Appius Calpurnius Severus,Advanced
+prof::Appius Calpurnius Severus,ent::academic_org::Analytics,studied_at,Appius Calpurnius Severus,Analytics
+prof::Appius Calpurnius Severus,ent::academic_org::Technical University Of Cartagena,studied_at,Appius Calpurnius Severus,Technical University Of Cartagena
+prof::Appius Calpurnius Severus,ent::location::Indra,worked_in,Appius Calpurnius Severus,Indra
+prof::Appius Calpurnius Severus,ent::location::Minsait By,worked_in,Appius Calpurnius Severus,Minsait By
+ent::corporate_org::Capgemini,prof::Appius Horatius Sulla,worked_at,Capgemini,Appius Horatius Sulla
+prof::Appius Claudius Caesar,ent::location::India,located_in,Appius Claudius Caesar,India
+prof::Appius Claudius Caesar,ent::location::London,located_in,Appius Claudius Caesar,London
+prof::Appius Claudius Caesar,ent::location::Uk,located_in,Appius Claudius Caesar,Uk
+prof::Appius Claudius Caesar,ent::corporate_org::Brunswick Arts,worked_at,Appius Claudius Caesar,Brunswick Arts
+prof::Appius Claudius Caesar,ent::corporate_org::Msl London,worked_at,Appius Claudius Caesar,Msl London
+prof::Appius Claudius Caesar,ent::corporate_org::Public Relations,worked_at,Appius Claudius Caesar,Public Relations
+prof::Appius Claudius Caesar,ent::corporate_org::Sad,worked_at,Appius Claudius Caesar,Sad
+prof::Appius Claudius Caesar,ent::corporate_org::’ S,worked_at,Appius Claudius Caesar,’ S
+prof::Appius Claudius Caesar,ent::academic_org::Ie School Of Architecture And Design,studied_at,Appius Claudius Caesar,Ie School Of Architecture And Design
+prof::Appius Claudius Caesar,ent::academic_org::University Of Oxford,studied_at,Appius Claudius Caesar,University Of Oxford
+prof::Appius Claudius Caesar,ent::location::##Ler,worked_in,Appius Claudius Caesar,##Ler
+prof::Appius Claudius Caesar,ent::location::Wells,worked_in,Appius Claudius Caesar,Wells
+ent::location::India,prof::Appius Domitius Brutus,located_in,India,Appius Domitius Brutus
+ent::location::India,prof::Appius Fabius Drusus,located_in,India,Appius Fabius Drusus
+ent::location::London,prof::Flavia Nasa,located_in,London,Flavia Nasa
+ent::location::London,prof::Appius Licinius Drusus,located_in,London,Appius Licinius Drusus
+ent::location::Uk,prof::Appius Cornelius Cicero,located_in,Uk,Appius Cornelius Cicero
+ent::location::Uk,prof::Antonia Severa,located_in,Uk,Antonia Severa
+ent::location::Uk,prof::Appius Horatius Drusus,worked_in,Uk,Appius Horatius Drusus
+ent::location::Uk,prof::Appius Licinius Drusus,worked_in,Uk,Appius Licinius Drusus
+ent::academic_org::Ie School Of Architecture And Design,prof::Appius Horatius Ahenobarbus,studied_at,Ie School Of Architecture And Design,Appius Horatius Ahenobarbus
+ent::academic_org::Ie School Of Architecture And Design,prof::Appius Licinius Brutus,studied_at,Ie School Of Architecture And Design,Appius Licinius Brutus
+ent::academic_org::Ie School Of Architecture And Design,prof::Appius Horatius Sulla,studied_at,Ie School Of Architecture And Design,Appius Horatius Sulla
+ent::academic_org::University Of Oxford,prof::Flavia Nasa,studied_at,University Of Oxford,Flavia Nasa
+prof::Appius Claudius Scipio,ent::location::##Bao,located_in,Appius Claudius Scipio,##Bao
+prof::Appius Claudius Scipio,ent::location::##Il,located_in,Appius Claudius Scipio,##Il
+prof::Appius Claudius Scipio,ent::academic_org::Cemfi,studied_at,Appius Claudius Scipio,Cemfi
+prof::Appius Claudius Scipio,ent::academic_org::Centro Estudios Monetarios y Financieros,studied_at,Appius Claudius Scipio,Centro Estudios Monetarios y Financieros
+prof::Appius Claudius Scipio,ent::academic_org::Climate Action,studied_at,Appius Claudius Scipio,Climate Action
+prof::Appius Claudius Scipio,ent::academic_org::Economic Environment,studied_at,Appius Claudius Scipio,Economic Environment
+prof::Appius Claudius Scipio,ent::academic_org::Economics And Finance,studied_at,Appius Claudius Scipio,Economics And Finance
+prof::Appius Claudius Scipio,ent::academic_org::Fundación Novia Salcedo,studied_at,Appius Claudius Scipio,Fundación Novia Salcedo
+prof::Appius Claudius Scipio,ent::academic_org::Universidad L País Vasco,studied_at,Appius Claudius Scipio,Universidad L País Vasco
+ent::location::##Bao,prof::Claudia Drusa,located_in,##Bao,Claudia Drusa
+ent::location::##Bao,prof::Appius Licinius Scipio,located_in,##Bao,Appius Licinius Scipio
+ent::location::##Il,prof::Claudia Drusa,located_in,##Il,Claudia Drusa
+ent::academic_org::Cemfi,prof::Appius Licinius Paullus,studied_at,Cemfi,Appius Licinius Paullus
+prof::Claudia Drusa,ent::location::##Var,located_in,Claudia Drusa,##Var
+prof::Claudia Drusa,ent::location::##Varra,located_in,Claudia Drusa,##Varra
+prof::Claudia Drusa,ent::location::Finland,located_in,Claudia Drusa,Finland
+prof::Claudia Drusa,ent::location::Helsinki,located_in,Claudia Drusa,Helsinki
+prof::Claudia Drusa,ent::location::Indonesia,located_in,Claudia Drusa,Indonesia
+prof::Claudia Drusa,ent::location::Navarra,located_in,Claudia Drusa,Navarra
+prof::Claudia Drusa,ent::location::Portugal,located_in,Claudia Drusa,Portugal
+prof::Claudia Drusa,ent::location::San Sebastian,located_in,Claudia Drusa,San Sebastian
+prof::Claudia Drusa,ent::corporate_org::##N,worked_at,Claudia Drusa,##N
+prof::Claudia Drusa,ent::corporate_org::##Sta,worked_at,Claudia Drusa,##Sta
+prof::Claudia Drusa,ent::corporate_org::Communication Research,worked_at,Claudia Drusa,Communication Research
+prof::Claudia Drusa,ent::corporate_org::Ecoa,worked_at,Claudia Drusa,Ecoa
+prof::Claudia Drusa,ent::corporate_org::Jen,worked_at,Claudia Drusa,Jen
+prof::Claudia Drusa,ent::corporate_org::Madrid,worked_at,Claudia Drusa,Madrid
+prof::Claudia Drusa,ent::corporate_org::Mazedonia De,worked_at,Claudia Drusa,Mazedonia De
+prof::Claudia Drusa,ent::corporate_org::Patricia U,worked_at,Claudia Drusa,Patricia U
+prof::Claudia Drusa,ent::corporate_org::St,worked_at,Claudia Drusa,St
+prof::Claudia Drusa,ent::academic_org::Aalto University,studied_at,Claudia Drusa,Aalto University
+prof::Claudia Drusa,ent::academic_org::Ied Kunsthal,studied_at,Claudia Drusa,Ied Kunsthal
+prof::Claudia Drusa,ent::academic_org::Industrial Design and Product Development Engineering,studied_at,Claudia Drusa,Industrial Design and Product Development Engineering
+prof::Claudia Drusa,ent::academic_org::Na,studied_at,Claudia Drusa,Na
+prof::Claudia Drusa,ent::academic_org::Tecnun University,studied_at,Claudia Drusa,Tecnun University
+prof::Claudia Drusa,ent::location::##Ra,worked_in,Claudia Drusa,##Ra
+prof::Claudia Drusa,ent::location::##Rica,worked_in,Claudia Drusa,##Rica
+prof::Claudia Drusa,ent::location::##Rquiola St,worked_in,Claudia Drusa,##Rquiola St
+prof::Claudia Drusa,ent::location::Aleg,worked_in,Claudia Drusa,Aleg
+prof::Claudia Drusa,ent::location::Ba,worked_in,Claudia Drusa,Ba
+prof::Claudia Drusa,ent::location::Ciszak Dalma,worked_in,Claudia Drusa,Ciszak Dalma
+prof::Claudia Drusa,ent::location::Fab,worked_in,Claudia Drusa,Fab
+prof::Claudia Drusa,ent::location::Milan,worked_in,Claudia Drusa,Milan
+prof::Claudia Drusa,ent::location::Treviso,worked_in,Claudia Drusa,Treviso
+prof::Claudia Drusa,ent::location::Vi,worked_in,Claudia Drusa,Vi
+ent::location::Finland,prof::Pompeia Prisca,located_in,Finland,Pompeia Prisca
+ent::location::Portugal,prof::Antonia Severa,located_in,Portugal,Antonia Severa
+ent::location::Portugal,prof::Appius Flavius Drusus,located_in,Portugal,Appius Flavius Drusus
+ent::location::Portugal,prof::Appius Licinius Naso,located_in,Portugal,Appius Licinius Naso
+ent::location::Portugal,prof::Appius Domitius Flaccus,worked_in,Portugal,Appius Domitius Flaccus
+ent::academic_org::Aalto University,prof::Pompeia Prisca,studied_at,Aalto University,Pompeia Prisca
+prof::Pompeia Prisca,ent::academic_org::Carlson School Of Management,studied_at,Pompeia Prisca,Carlson School Of Management
+prof::Pompeia Prisca,ent::academic_org::Fisher School Of Business,studied_at,Pompeia Prisca,Fisher School Of Business
+prof::Pompeia Prisca,ent::academic_org::Hanken School Of Economics,studied_at,Pompeia Prisca,Hanken School Of Economics
+prof::Pompeia Prisca,ent::academic_org::Ohio State University,studied_at,Pompeia Prisca,Ohio State University
+prof::Pompeia Prisca,ent::academic_org::University Of Helsinki,studied_at,Pompeia Prisca,University Of Helsinki
+prof::Pompeia Prisca,ent::academic_org::University Of Minnesota,studied_at,Pompeia Prisca,University Of Minnesota
+prof::Appius Cornelius Cicero,ent::location::Africa,located_in,Appius Cornelius Cicero,Africa
+prof::Appius Cornelius Cicero,ent::location::Jordan,located_in,Appius Cornelius Cicero,Jordan
+prof::Appius Cornelius Cicero,ent::corporate_org::Aircom International,worked_at,Appius Cornelius Cicero,Aircom International
+prof::Appius Cornelius Cicero,ent::corporate_org::Cisco Systems,worked_at,Appius Cornelius Cicero,Cisco Systems
+prof::Appius Cornelius Cicero,ent::corporate_org::Service Provider Mobility,worked_at,Appius Cornelius Cicero,Service Provider Mobility
+prof::Appius Cornelius Cicero,ent::academic_org::Electrical And Electronic Engineering,studied_at,Appius Cornelius Cicero,Electrical And Electronic Engineering
+prof::Appius Cornelius Cicero,ent::academic_org::Integrated Information Systems and Communications,studied_at,Appius Cornelius Cicero,Integrated Information Systems and Communications
+prof::Appius Cornelius Cicero,ent::academic_org::Technology And Innovation,studied_at,Appius Cornelius Cicero,Technology And Innovation Management
+prof::Appius Cornelius Cicero,ent::academic_org::University Of Jordan,studied_at,Appius Cornelius Cicero,University Of Jordan
+prof::Appius Cornelius Cicero,ent::academic_org::University Of Leeds,studied_at,Appius Cornelius Cicero,University Of Leeds
+prof::Appius Cornelius Cicero,ent::location::Uae,worked_in,Appius Cornelius Cicero,Uae
+prof::Appius Cornelius Cicero,ent::location::Findme,worked_in,Appius Cornelius Cicero,Findme
+ent::location::Africa,prof::Appius Horatius Flaccus,located_in,Africa,Appius Horatius Flaccus
+ent::location::Africa,prof::Appius Domitius Flaccus,worked_in,Africa,Appius Domitius Flaccus
+prof::Antonia Severa,ent::location::California,located_in,Antonia Severa,California
+prof::Antonia Severa,ent::location::U. S.,located_in,Antonia Severa,U. S.
+prof::Appius Cornelius Lepidus,ent::location::##Zmir,located_in,Appius Cornelius Lepidus,##Zmir
+prof::Appius Cornelius Lepidus,ent::location::I,located_in,Appius Cornelius Lepidus,I
+prof::Appius Cornelius Lepidus,ent::location::Turkey,located_in,Appius Cornelius Lepidus,Turkey
+prof::Appius Cornelius Lepidus,ent::corporate_org::Research And Development,worked_at,Appius Cornelius Lepidus,Research And Development
+prof::Appius Cornelius Lepidus,ent::academic_org::A,studied_at,Appius Cornelius Lepidus,A
+prof::Appius Cornelius Lepidus,ent::academic_org::B. S. Engineering,studied_at,Appius Cornelius Lepidus,B. S. Engineering
+prof::Appius Cornelius Lepidus,ent::academic_org::Carlos Iii University,studied_at,Appius Cornelius Lepidus,University Carlos Iii
+prof::Appius Cornelius Lepidus,ent::academic_org::History,studied_at,Appius Cornelius Lepidus,History
+prof::Appius Cornelius Lepidus,ent::academic_org::Operations,studied_at,Appius Cornelius Lepidus,Operations
+prof::Appius Cornelius Lepidus,ent::academic_org::Tufts University,studied_at,Appius Cornelius Lepidus,Tufts University
+prof::Appius Cornelius Lepidus,ent::academic_org::Universidad Alfonso X,studied_at,Appius Cornelius Lepidus,Universidad Alfonso X
+prof::Appius Cornelius Lepidus,ent::location::Alca,worked_in,Appius Cornelius Lepidus,Alca
+ent::location::I,prof::Appius Julius Naso,located_in,I,Appius Julius Naso
+ent::academic_org::Carlos Iii University,prof::Antonia Drusa,studied_at,University Carlos Iii,Antonia Drusa
+prof::Appius Cornelius Sulla,ent::location::##És,located_in,Appius Cornelius Sulla,##És
+prof::Appius Domitius Brutus,ent::location::Cambodia,located_in,Appius Domitius Brutus,Cambodia
+prof::Appius Domitius Brutus,ent::location::Ireland,located_in,Appius Domitius Brutus,Ireland
+prof::Appius Domitius Brutus,ent::location::New York,located_in,Appius Domitius Brutus,New York
+prof::Appius Domitius Brutus,ent::location::San Francisco State U,located_in,Appius Domitius Brutus,San Francisco State U
+prof::Appius Domitius Brutus,ent::location::South India,located_in,Appius Domitius Brutus,South India
+prof::Appius Domitius Brutus,ent::corporate_org::Access To Education,worked_at,Appius Domitius Brutus,Access To Education
+prof::Appius Domitius Brutus,ent::corporate_org::Asia Debt Management Foundation,worked_at,Appius Domitius Brutus,Asia Debt Management Foundation
+prof::Appius Domitius Brutus,ent::corporate_org::Global University Systems,worked_at,Appius Domitius Brutus,Global University Systems
+prof::Appius Domitius Brutus,ent::corporate_org::Higher Education Partners,worked_at,Appius Domitius Brutus,Higher Education Partners
+prof::Appius Domitius Brutus,ent::corporate_org::Ilo,worked_at,Appius Domitius Brutus,Ilo
+prof::Appius Domitius Brutus,ent::corporate_org::Impact Hub,worked_at,Appius Domitius Brutus,Impact Hub
+prof::Appius Domitius Brutus,ent::corporate_org::Impact Hub Network,worked_at,Appius Domitius Brutus,Impact Hub Network
+prof::Appius Domitius Brutus,ent::corporate_org::Undp,worked_at,Appius Domitius Brutus,Undp
+prof::Appius Domitius Brutus,ent::corporate_org::Unesco,worked_at,Appius Domitius Brutus,Unesco
+prof::Appius Domitius Brutus,ent::corporate_org::Up,worked_at,Appius Domitius Brutus,Up
+prof::Appius Domitius Brutus,ent::academic_org::##Iversità Cattolica,studied_at,Appius Domitius Brutus,##Iversità Cattolica
+prof::Appius Domitius Brutus,ent::academic_org::Thinking,studied_at,Appius Domitius Brutus,Thinking
+prof::Appius Domitius Brutus,ent::academic_org::Trinity College Dublin,studied_at,Appius Domitius Brutus,Trinity College Dublin
+prof::Appius Domitius Brutus,ent::academic_degree::Global Executive Mba,has_degree,Appius Domitius Brutus,Global Executive Mba
+prof::Appius Domitius Brutus,ent::location::Global,worked_in,Appius Domitius Brutus,Global
+prof::Appius Domitius Brutus,ent::location::Phnom Penh,worked_in,Appius Domitius Brutus,Phnom Penh
+ent::location::New York,prof::Appius Fabius Drusus,located_in,New York,Appius Fabius Drusus
+prof::Appius Domitius Crassus,ent::location::Ed,located_in,Appius Domitius Crassus,Ed
+prof::Appius Domitius Crassus,ent::location::Meca,located_in,Appius Domitius Crassus,Meca
+prof::Appius Domitius Crassus,ent::location::Medina,located_in,Appius Domitius Crassus,Medina
+prof::Appius Domitius Crassus,ent::location::Saudi Arabia,located_in,Appius Domitius Crassus,Saudi Arabia
+prof::Appius Domitius Crassus,ent::academic_org::Editorial Bosch,studied_at,Appius Domitius Crassus,Editorial Bosch
+prof::Appius Domitius Crassus,ent::academic_org::Fin,studied_at,Appius Domitius Crassus,Fin
+prof::Appius Domitius Crassus,ent::academic_org::Ie Law School,studied_at,Appius Domitius Crassus,Ie Law School
+prof::Appius Domitius Crassus,ent::academic_org::Operaciones Mercantiles y Productos de Inversión en los Me,studied_at,Appius Domitius Crassus,Operaciones Mercantiles y Productos de Inversión en los Me
+prof::Appius Domitius Crassus,ent::academic_org::University Of Granada Publications,studied_at,Appius Domitius Crassus,University Of Granada Publications
+ent::location::Saudi Arabia,prof::Appius Fabius Drusus,located_in,Saudi Arabia,Appius Fabius Drusus
+ent::academic_org::Ie Law School,prof::Appius Julius Crassus,studied_at,Ie Law School,Appius Julius Crassus
+ent::academic_org::Ie Law School,prof::Appius Licinius Scipio,studied_at,Ie Law School,Appius Licinius Scipio
+prof::Appius Domitius Flaccus,ent::corporate_org::##Ccent,worked_at,Appius Domitius Flaccus,##Ccent
+prof::Appius Domitius Flaccus,ent::corporate_org::##Ure & Andersen Consulting,worked_at,Appius Domitius Flaccus,##Ure & Andersen Consulting
+prof::Appius Domitius Flaccus,ent::corporate_org::A,worked_at,Appius Domitius Flaccus,A
+prof::Appius Domitius Flaccus,ent::corporate_org::Alanka Capital,worked_at,Appius Domitius Flaccus,Alanka Capital
+prof::Appius Domitius Flaccus,ent::corporate_org::Banca March,worked_at,Appius Domitius Flaccus,Banca March
+prof::Appius Domitius Flaccus,ent::corporate_org::El Corte Inglés Group,worked_at,Appius Domitius Flaccus,El Corte Inglés Group
+prof::Appius Domitius Flaccus,ent::corporate_org::Management Consulting,worked_at,Appius Domitius Flaccus,Management Consulting
+prof::Appius Domitius Flaccus,ent::corporate_org::Spaila,worked_at,Appius Domitius Flaccus,Spaila
+prof::Appius Domitius Flaccus,ent::academic_org::Esade,studied_at,Appius Domitius Flaccus,Esade
+prof::Appius Domitius Flaccus,ent::academic_org::Institute Of Directors,studied_at,Appius Domitius Flaccus,Singapore Institute Of Directors
+prof::Appius Domitius Flaccus,ent::academic_org::London School of Economics and Political Science,studied_at,Appius Domitius Flaccus,London School of Economics and Political Science
+prof::Appius Domitius Flaccus,ent::academic_org::Lse,studied_at,Appius Domitius Flaccus,Lse
+prof::Appius Domitius Flaccus,ent::academic_org::Pdd,studied_at,Appius Domitius Flaccus,Pdd
+prof::Appius Domitius Flaccus,ent::academic_org::Strategic Management,studied_at,Appius Domitius Flaccus,Strategic Management
+prof::Appius Domitius Flaccus,ent::academic_org::Universidad Comercial De Deusto,studied_at,Appius Domitius Flaccus,Universidad Comercial De Deusto
+prof::Appius Domitius Flaccus,ent::location::Israel,worked_in,Appius Domitius Flaccus,Israel
+prof::Appius Domitius Flaccus,ent::location::Latin America,worked_in,Appius Domitius Flaccus,Latin America
+ent::corporate_org::A,prof::Appius Fabius Crassus,worked_at,A,Appius Fabius Crassus
+ent::corporate_org::A,prof::Flavia Nasa,worked_at,A,Flavia Nasa
+ent::academic_org::Institute Of Directors,prof::Appius Licinius Cicero,studied_at,Singapore Institute Of Directors,Appius Licinius Cicero
+prof::Appius Fabius Crassus,ent::location::Business,located_in,Appius Fabius Crassus,Business
+prof::Appius Fabius Crassus,ent::location::City Of,located_in,Appius Fabius Crassus,City Of
+prof::Appius Fabius Crassus,ent::location::Seville,located_in,Appius Fabius Crassus,Seville
+prof::Appius Fabius Crassus,ent::corporate_org::##Ajasol Inversiones De Capital Scr,worked_at,Appius Fabius Crassus,##Ajasol Inversiones De Capital Scr
+prof::Appius Fabius Crassus,ent::corporate_org::##Ca Cívica,worked_at,Appius Fabius Crassus,##Ca Cívica
+prof::Appius Fabius Crassus,ent::corporate_org::##Gua Y Gestión,worked_at,Appius Fabius Crassus,##Gua Y Gestión
+prof::Appius Fabius Crassus,ent::corporate_org::##Villa Urban Planning Office,worked_at,Appius Fabius Crassus,##Villa Urban Planning Office
+prof::Appius Fabius Crassus,ent::corporate_org::##cuela Superior de Hostelería de Sevilla,worked_at,Appius Fabius Crassus,##cuela Superior de Hostelería de Sevilla
+prof::Appius Fabius Crassus,ent::corporate_org::Alestis Aerospace,worked_at,Appius Fabius Crassus,Alestis Aerospace
+prof::Appius Fabius Crassus,ent::corporate_org::Aparcamientos Urbanos De Sevilla,worked_at,Appius Fabius Crassus,Aparcamientos Urbanos De Sevilla
+prof::Appius Fabius Crassus,ent::corporate_org::Arte Información Y Gestión,worked_at,Appius Fabius Crassus,Arte Información Y Gestión
+prof::Appius Fabius Crassus,ent::corporate_org::At4 Wireless,worked_at,Appius Fabius Crassus,At4 Wireless
+prof::Appius Fabius Crassus,ent::corporate_org::Ban,worked_at,Appius Fabius Crassus,Ban
+prof::Appius Fabius Crassus,ent::corporate_org::Cajasol,worked_at,Appius Fabius Crassus,Cajasol
+prof::Appius Fabius Crassus,ent::corporate_org::Corporación Empresarial Cajasol,worked_at,Appius Fabius Crassus,Corporación Empresarial Cajasol
+prof::Appius Fabius Crassus,ent::corporate_org::Es,worked_at,Appius Fabius Crassus,Es
+prof::Appius Fabius Crassus,ent::corporate_org::Infodesa,worked_at,Appius Fabius Crassus,Infodesa
+prof::Appius Fabius Crassus,ent::corporate_org::Isolux Corsán Concesiones,worked_at,Appius Fabius Crassus,Isolux Corsán Concesiones
+prof::Appius Fabius Crassus,ent::corporate_org::Isolux Wat Ingeniería,worked_at,Appius Fabius Crassus,Isolux Wat Ingeniería
+prof::Appius Fabius Crassus,ent::corporate_org::J. García Carrión,worked_at,Appius Fabius Crassus,J. García Carrión
+prof::Appius Fabius Crassus,ent::corporate_org::Mercapital,worked_at,Appius Fabius Crassus,Mercapital
+prof::Appius Fabius Crassus,ent::corporate_org::Persán,worked_at,Appius Fabius Crassus,Persán
+prof::Appius Fabius Crassus,ent::corporate_org::Red De Banda Ancha Andalucía,worked_at,Appius Fabius Crassus,Red De Banda Ancha Andalucía
+prof::Appius Fabius Crassus,ent::corporate_org::Sadiel,worked_at,Appius Fabius Crassus,Sadiel
+prof::Appius Fabius Crassus,ent::corporate_org::Sagane,worked_at,Appius Fabius Crassus,Sagane
+prof::Appius Fabius Crassus,ent::corporate_org::Se,worked_at,Appius Fabius Crassus,Se
+prof::Appius Fabius Crassus,ent::corporate_org::Sevilla Seed Capital,worked_at,Appius Fabius Crassus,Sevilla Seed Capital
+prof::Appius Fabius Crassus,ent::corporate_org::Tubespa,worked_at,Appius Fabius Crassus,Tubespa
+prof::Appius Fabius Crassus,ent::academic_org::Imba,studied_at,Appius Fabius Crassus,Imba
+prof::Appius Fabius Crassus,ent::academic_org::Instituto de Estudios Jurídicos y Empresariales de Sevilla,studied_at,Appius Fabius Crassus,Instituto de Estudios Jurídicos y Empresariales de Sevilla
+prof::Appius Fabius Crassus,ent::academic_org::Programa Superior de Financiaciones Estructuradas y Capital Riesgo,studied_at,Appius Fabius Crassus,Programa Superior de Financiaciones Estructuradas y Capital Riesgo
+prof::Appius Fabius Crassus,ent::academic_org::Universidad De Sevilla,studied_at,Appius Fabius Crassus,Universidad De Sevilla
+prof::Appius Fabius Crassus,ent::course::Global Mba,teaches_course,Appius Fabius Crassus,Global Mba
+prof::Appius Fabius Drusus,ent::location::Brazil,located_in,Appius Fabius Drusus,Brazil
+prof::Appius Fabius Drusus,ent::location::De Janeiro,located_in,Appius Fabius Drusus,De Janeiro
+prof::Appius Fabius Drusus,ent::location::Peru,located_in,Appius Fabius Drusus,Peru
+prof::Appius Fabius Drusus,ent::academic_org::##A Pontifical University,studied_at,Appius Fabius Drusus,##A Pontifical University
+prof::Appius Fabius Drusus,ent::academic_org::##Cnológico De Monterrey,studied_at,Appius Fabius Drusus,##Cnológico De Monterrey
+prof::Appius Fabius Drusus,ent::academic_org::##Mill,studied_at,Appius Fabius Drusus,##Mill
+prof::Appius Fabius Drusus,ent::academic_org::##Ovad Executive Education,studied_at,Appius Fabius Drusus,##Ovad Executive Education
+prof::Appius Fabius Drusus,ent::academic_org::Co,studied_at,Appius Fabius Drusus,Co
+prof::Appius Fabius Drusus,ent::academic_org::Deusto University,studied_at,Appius Fabius Drusus,Deusto University
+prof::Appius Fabius Drusus,ent::academic_org::Eae Business School,studied_at,Appius Fabius Drusus,Eae Business School
+prof::Appius Fabius Drusus,ent::academic_org::Federal University Of Rio Grande Do Sul,studied_at,Appius Fabius Drusus,Federal University Of Rio Grande Do Sul
+prof::Appius Fabius Drusus,ent::academic_org::Iit,studied_at,Appius Fabius Drusus,Iit
+prof::Appius Fabius Drusus,ent::academic_org::Indian Institute Of Technology,studied_at,Appius Fabius Drusus,Indian Institute Of Technology
+prof::Appius Fabius Drusus,ent::academic_org::Inn,studied_at,Appius Fabius Drusus,Inn
+prof::Appius Fabius Drusus,ent::academic_org::Interactive Telecommunications,studied_at,Appius Fabius Drusus,Interactive Telecommunications
+prof::Appius Fabius Drusus,ent::academic_org::Ipade,studied_at,Appius Fabius Drusus,Ipade
+prof::Appius Fabius Drusus,ent::academic_org::Mba,studied_at,Appius Fabius Drusus,Mba
+prof::Appius Fabius Drusus,ent::academic_org::New York University,studied_at,Appius Fabius Drusus,New York University
+prof::Appius Fabius Drusus,ent::academic_org::Pontifical Catholic University Of Rio,studied_at,Appius Fabius Drusus,Pontifical Catholic University Of Rio
+prof::Appius Fabius Drusus,ent::academic_org::Pontifical Javeriana University,studied_at,Appius Fabius Drusus,Pontifical Javeriana University
+prof::Appius Fabius Drusus,ent::academic_org::Pontifical University Of Rio De Janeiro,studied_at,Appius Fabius Drusus,Pontifical University Of Rio De Janeiro
+prof::Appius Fabius Drusus,ent::academic_org::Strategic Design,studied_at,Appius Fabius Drusus,Strategic Design
+prof::Appius Fabius Drusus,ent::academic_org::Te,studied_at,Appius Fabius Drusus,Te
+prof::Appius Fabius Drusus,ent::academic_org::Uc Riverside,studied_at,Appius Fabius Drusus,Uc Riverside
+prof::Appius Fabius Drusus,ent::academic_org::Unisinos University,studied_at,Appius Fabius Drusus,Unisinos University
+prof::Appius Fabius Drusus,ent::academic_org::Universidad Del Pacífico,studied_at,Appius Fabius Drusus,Universidad Del Pacífico
+prof::Appius Fabius Drusus,ent::academic_org::Universidad Distrital Francisco Jose de Caldas,studied_at,Appius Fabius Drusus,Universidad Distrital Francisco Jose de Caldas
+prof::Appius Fabius Drusus,ent::academic_org::Xseed,studied_at,Appius Fabius Drusus,Xseed
+prof::Appius Fabius Drusus,ent::location::Mexico,located_in,Appius Fabius Drusus,Mexico
+prof::Appius Fabius Drusus,ent::course::International,teaches_course,Appius Fabius Drusus,International Mba
+ent::academic_org::Co,prof::Appius Licinius Brutus,studied_at,Co,Appius Licinius Brutus
+ent::academic_org::Te,prof::Appius Julius Crassus,studied_at,Te,Appius Julius Crassus
+prof::Appius Flavius Caesar,ent::location::Oxford,located_in,Appius Flavius Caesar,Oxford
+prof::Appius Flavius Caesar,ent::academic_org::Altec,studied_at,Appius Flavius Caesar,Altec
+prof::Appius Flavius Caesar,ent::academic_org::Alteco,studied_at,Appius Flavius Caesar,Alteco
+prof::Appius Flavius Caesar,ent::academic_org::Autopista Madrid,studied_at,Appius Flavius Caesar,Autopista Madrid
+prof::Appius Flavius Caesar,ent::academic_org::Bami,studied_at,Appius Flavius Caesar,Bami
+prof::Appius Flavius Caesar,ent::academic_org::Eu Legis,studied_at,Appius Flavius Caesar,Eu Legis
+prof::Appius Flavius Caesar,ent::academic_org::Interim,studied_at,Appius Flavius Caesar,Interim
+prof::Appius Flavius Caesar,ent::academic_org::Levante,studied_at,Appius Flavius Caesar,Levante
+prof::Appius Flavius Caesar,ent::academic_org::Mag Import,studied_at,Appius Flavius Caesar,Mag Import
+prof::Appius Flavius Caesar,ent::academic_org::Newco,studied_at,Appius Flavius Caesar,Newco
+prof::Appius Flavius Drusus,ent::location::##Id,located_in,Appius Flavius Drusus,##Id
+prof::Appius Flavius Drusus,ent::location::##Ity,located_in,Appius Flavius Drusus,##Ity
+prof::Appius Flavius Drusus,ent::location::##Ive,located_in,Appius Flavius Drusus,##Ive
+prof::Appius Flavius Drusus,ent::location::##Iversity,located_in,Appius Flavius Drusus,##Iversity
+prof::Appius Flavius Drusus,ent::location::Iii,located_in,Appius Flavius Drusus,Iii
+prof::Appius Flavius Drusus,ent::location::Iii De Ma,located_in,Appius Flavius Drusus,Iii De Ma
+prof::Appius Flavius Drusus,ent::location::Washington Dc,located_in,Appius Flavius Drusus,Washington Dc
+prof::Appius Flavius Drusus,ent::corporate_org::Banking & Finance Department,worked_at,Appius Flavius Drusus,Banking & Finance Department
+prof::Appius Flavius Drusus,ent::corporate_org::Deutsche Pfandbfriefbank Ag,worked_at,Appius Flavius Drusus,Deutsche Pfandbfriefbank Ag
+prof::Appius Flavius Drusus,ent::corporate_org::Financial & Fiscal Law Unit,worked_at,Appius Flavius Drusus,Financial & Fiscal Law Unit
+prof::Appius Flavius Drusus,ent::corporate_org::Gómez - Acebo & Pombo Abogados,worked_at,Appius Flavius Drusus,Gómez - Acebo & Pombo Abogados
+prof::Appius Flavius Drusus,ent::corporate_org::International Monetary Fund,worked_at,Appius Flavius Drusus,International Monetary Fund
+prof::Appius Flavius Drusus,ent::corporate_org::Legal Department,worked_at,Appius Flavius Drusus,Legal Department
+prof::Appius Flavius Drusus,ent::academic_org::##Dr,studied_at,Appius Flavius Drusus,##Dr
+prof::Appius Flavius Drusus,ent::academic_org::##Rs,studied_at,Appius Flavius Drusus,##Rs
+prof::Appius Flavius Drusus,ent::academic_org::##Ts & Trust,studied_at,Appius Flavius Drusus,##Ts & Trust
+prof::Appius Flavius Drusus,ent::academic_org::De Madrid,studied_at,Appius Flavius Drusus,De Madrid
+prof::Appius Flavius Drusus,ent::academic_org::Financial Transactions And Regulations,studied_at,Appius Flavius Drusus,Financial Transactions And Regulations
+prof::Appius Flavius Drusus,ent::academic_org::Georgetown University Law Center,studied_at,Appius Flavius Drusus,Georgetown University Law Center
+prof::Appius Flavius Drusus,ent::academic_org::Ie Un,studied_at,Appius Flavius Drusus,Ie Un
+prof::Appius Flavius Drusus,ent::academic_org::Tor,studied_at,Appius Flavius Drusus,Tor
+prof::Appius Flavius Drusus,ent::academic_org::Universidad Carlos,studied_at,Appius Flavius Drusus,Universidad Juan Carlos
+prof::Appius Flavius Drusus,ent::academic_org::Universidad Carlos Iii De Madrid,studied_at,Appius Flavius Drusus,Universidad Carlos Iii De Madrid
+ent::corporate_org::Legal Department,prof::Horatia Minor,worked_at,Legal Department,Horatia Minor
+ent::corporate_org::Legal Department,prof::Appius Licinius Scipio,worked_at,Legal Department,Appius Licinius Scipio
+ent::academic_org::Universidad Carlos,prof::Appius Licinius Scipio,studied_at,Universidad Juan Carlos,Appius Licinius Scipio
+ent::academic_org::Universidad Carlos Iii De Madrid,prof::Appius Julius Crassus,studied_at,Universidad Carlos Iii De Madrid,Appius Julius Crassus
+ent::academic_org::Universidad Carlos Iii De Madrid,prof::Appius Licinius Scipio,studied_at,Universidad Carlos Iii De Madrid,Appius Licinius Scipio
+prof::Appius Flavius Flaccus,ent::location::##Ión,located_in,Appius Flavius Flaccus,##Ión
+prof::Appius Flavius Flaccus,ent::location::France,located_in,Appius Flavius Flaccus,France
+prof::Appius Flavius Flaccus,ent::location::Mannheim,located_in,Appius Flavius Flaccus,Mannheim
+prof::Appius Flavius Flaccus,ent::location::March,located_in,Appius Flavius Flaccus,March
+prof::Appius Flavius Flaccus,ent::location::Valencia,located_in,Appius Flavius Flaccus,Valencia
+prof::Appius Flavius Flaccus,ent::corporate_org::Big Wave Analytics,worked_at,Appius Flavius Flaccus,Big Wave Analytics
+prof::Appius Flavius Flaccus,ent::academic_org::##Zes,studied_at,Appius Flavius Flaccus,##Zes
+prof::Appius Flavius Flaccus,ent::academic_org::Applied Social Research and Data Analysis ”,studied_at,Appius Flavius Flaccus,Applied Social Research and Data Analysis ”
+prof::Appius Flavius Flaccus,ent::academic_org::Ceacs,studied_at,Appius Flavius Flaccus,Ceacs
+prof::Appius Flavius Flaccus,ent::academic_org::Centro De Investigaciones Sociológicas,studied_at,Appius Flavius Flaccus,Centro De Investigaciones Sociológicas
+prof::Appius Flavius Flaccus,ent::academic_org::Cis,studied_at,Appius Flavius Flaccus,Cis
+prof::Appius Flavius Flaccus,ent::academic_org::Edem Escuela De Empresarios,studied_at,Appius Flavius Flaccus,Edem Escuela De Empresarios
+prof::Appius Flavius Flaccus,ent::academic_org::Esic,studied_at,Appius Flavius Flaccus,Esic
+prof::Appius Flavius Flaccus,ent::academic_org::Fundac,studied_at,Appius Flavius Flaccus,Fundac
+prof::Appius Flavius Flaccus,ent::academic_org::Juan,studied_at,Appius Flavius Flaccus,Juan
+prof::Appius Flavius Flaccus,ent::academic_org::M,studied_at,Appius Flavius Flaccus,M
+prof::Appius Flavius Flaccus,ent::academic_org::Sciences Po Bordeaux,studied_at,Appius Flavius Flaccus,Sciences Po Bordeaux
+prof::Appius Flavius Flaccus,ent::academic_org::Short Stay Scientific Mission,studied_at,Appius Flavius Flaccus,Short Stay Scientific Mission
+prof::Appius Flavius Flaccus,ent::academic_org::Uam,studied_at,Appius Flavius Flaccus,Uam
+prof::Appius Flavius Flaccus,ent::academic_org::Uned,studied_at,Appius Flavius Flaccus,Uned
+ent::location::France,prof::Horatia Pulchra,located_in,France,Horatia Pulchra
+ent::location::Valencia,prof::Appius Licinius Scipio,located_in,Valencia,Appius Licinius Scipio
+ent::academic_org::Uam,prof::Appius Flavius Rufus,studied_at,Uam,Appius Flavius Rufus
+prof::Appius Flavius Rufus,ent::corporate_org::##Iento,worked_at,Appius Flavius Rufus,##Iento
+prof::Appius Flavius Rufus,ent::corporate_org::Icmat,worked_at,Appius Flavius Rufus,Icmat
+prof::Appius Flavius Rufus,ent::corporate_org::Instituto De Ingeniería Del Conoc,worked_at,Appius Flavius Rufus,Instituto De Ingeniería Del Conoc
+prof::Appius Flavius Rufus,ent::corporate_org::Spanish Council For Scientific Research,worked_at,Appius Flavius Rufus,Spanish Council For Scientific Research
+prof::Appius Flavius Rufus,ent::course::Python,teaches_course,Appius Flavius Rufus,Python
+prof::Appius Flavius Rufus,ent::academic_org::Data Science,studied_at,Appius Flavius Rufus,Data Science
+prof::Appius Flavius Rufus,ent::academic_org::Machine Learning For Business,studied_at,Appius Flavius Rufus,Machine Learning For Business
+prof::Appius Flavius Rufus,ent::academic_org::Programming,studied_at,Appius Flavius Rufus,Programming
+prof::Appius Flavius Rufus,ent::academic_org::R,studied_at,Appius Flavius Rufus,R
+prof::Appius Flavius Rufus,ent::academic_org::Uah,studied_at,Appius Flavius Rufus,Uah
+prof::Appius Flavius Rufus,ent::location::##Bi,worked_in,Appius Flavius Rufus,##Bi
+prof::Appius Flavius Rufus,ent::location::##Im,worked_in,Appius Flavius Rufus,##Im
+prof::Appius Flavius Rufus,ent::location::Komore,worked_in,Appius Flavius Rufus,Komore
+prof::Appius Horatius Ahenobarbus,ent::corporate_org::Arthur Andersen,worked_at,Appius Horatius Ahenobarbus,Arthur Andersen
+prof::Appius Horatius Ahenobarbus,ent::corporate_org::Deloitte,worked_at,Appius Horatius Ahenobarbus,Deloitte
+prof::Appius Horatius Ahenobarbus,ent::corporate_org::M & A Corporate Finance,worked_at,Appius Horatius Ahenobarbus,M & A Corporate Finance
+prof::Appius Horatius Ahenobarbus,ent::corporate_org::Real Estate,worked_at,Appius Horatius Ahenobarbus,Real Estate
+prof::Appius Horatius Ahenobarbus,ent::course::Catalan,teaches_course,Appius Horatius Ahenobarbus,Catalan
+prof::Appius Horatius Ahenobarbus,ent::course::English,teaches_course,Appius Horatius Ahenobarbus,English
+prof::Appius Horatius Ahenobarbus,ent::course::French,teaches_course,Appius Horatius Ahenobarbus,French
+prof::Appius Horatius Ahenobarbus,ent::course::Real Estate Conference,teaches_course,Appius Horatius Ahenobarbus,Real Estate Conference
+prof::Appius Horatius Ahenobarbus,ent::course::Spanish,teaches_course,Appius Horatius Ahenobarbus,Spanish
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Bmp,studied_at,Appius Horatius Ahenobarbus,Bmp
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Deloitte University,studied_at,Appius Horatius Ahenobarbus,Deloitte University
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Gri,studied_at,Appius Horatius Ahenobarbus,Gri
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Harvard Extension Program,studied_at,Appius Horatius Ahenobarbus,Harvard Extension Program
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Initiatives,studied_at,Appius Horatius Ahenobarbus,Initiatives
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Mric,studied_at,Appius Horatius Ahenobarbus,Mric
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Property Finance And Investments,studied_at,Appius Horatius Ahenobarbus,Property Finance And Investments
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Ramon Llull University,studied_at,Appius Horatius Ahenobarbus,Ramon Llull University
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Real Estate Development,studied_at,Appius Horatius Ahenobarbus,Real Estate Development
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Real Estate Investments,studied_at,Appius Horatius Ahenobarbus,Real Estate Investments
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Ucsd,studied_at,Appius Horatius Ahenobarbus,Ucsd
+prof::Appius Horatius Ahenobarbus,ent::academic_org::Uli,studied_at,Appius Horatius Ahenobarbus,Uli
+prof::Appius Horatius Ahenobarbus,ent::location::Barcelona,located_in,Appius Horatius Ahenobarbus,Barcelona
+ent::course::Spanish,prof::Horatia Pulchra,teaches_course,Spanish,Horatia Pulchra
+prof::Flavia Nasa,ent::location::##Go,located_in,Flavia Nasa,##Go
+prof::Flavia Nasa,ent::location::##Via,located_in,Flavia Nasa,##Via
+prof::Flavia Nasa,ent::location::Asia,located_in,Flavia Nasa,Asia
+prof::Flavia Nasa,ent::location::Nepal,located_in,Flavia Nasa,Nepal
+prof::Flavia Nasa,ent::location::Se,located_in,Flavia Nasa,Se
+prof::Flavia Nasa,ent::academic_org::Engineering,studied_at,Flavia Nasa,Engineering
+prof::Flavia Nasa,ent::academic_org::Structural Engineering,studied_at,Flavia Nasa,Structural Engineering
+prof::Flavia Nasa,ent::academic_org::Sustainable Heritage,studied_at,Flavia Nasa,Sustainable Heritage
+prof::Flavia Nasa,ent::academic_org::UCL The Bartlett ’ s Institute for Sustainable Heritage,studied_at,Flavia Nasa,UCL The Bartlett ’ s Institute for Sustainable Heritage
+prof::Flavia Nasa,ent::corporate_org::##Rup,worked_at,Flavia Nasa,##Rup
+prof::Flavia Nasa,ent::corporate_org::Asf,worked_at,Flavia Nasa,Asf
+prof::Flavia Nasa,ent::corporate_org::Ecosistema Urbano,worked_at,Flavia Nasa,Ecosistema Urbano
+prof::Flavia Nasa,ent::corporate_org::Mecanismo Diseño y Cálculo de Estructuras,worked_at,Flavia Nasa,Mecanismo Diseño y Cálculo de Estructuras
+prof::Flavia Nasa,ent::academic_org::Universidad Politécnica,studied_at,Flavia Nasa,Universidad Politécnica De Madrid
+prof::Flavia Nasa,ent::academic_org::Cambridge University,studied_at,Flavia Nasa,University Of Cambridge
+ent::location::Asia,prof::Appius Licinius Brutus,located_in,Asia,Appius Licinius Brutus
+ent::location::Se,prof::Appius Julius Crassus,located_in,Se,Appius Julius Crassus
+prof::Horatia Minor,ent::corporate_org::##Xam,worked_at,Horatia Minor,##Xam
+prof::Horatia Minor,ent::corporate_org::Labor Area,worked_at,Horatia Minor,Labor Area
+prof::Horatia Minor,ent::corporate_org::Labor Relations,worked_at,Horatia Minor,Labor Relations
+prof::Horatia Minor,ent::academic_org::##Os,studied_at,Horatia Minor,##Os
+prof::Horatia Minor,ent::academic_org::Centro De Est,studied_at,Horatia Minor,Centro De Est
+prof::Horatia Minor,ent::academic_org::H,studied_at,Horatia Minor,H
+prof::Horatia Minor,ent::academic_org::Hr Management,studied_at,Horatia Minor,Hr Management
+prof::Horatia Minor,ent::academic_org::Law University Of,studied_at,Horatia Minor,Law University Of
+prof::Horatia Minor,ent::location::##Udi,located_in,Horatia Minor,##Udi
+prof::Horatia Minor,ent::location::##Udios Garrigues,located_in,Horatia Minor,##Udios Garrigues
+prof::Horatia Minor,ent::location::Garrigues,located_in,Horatia Minor,Garrigues
+prof::Horatia Minor,ent::location::Granada,located_in,Horatia Minor,Granada
+prof::Horatia Minor,ent::location::##Odafon,worked_in,Horatia Minor,##Odafon
+prof::Horatia Minor,ent::location::Abogados,worked_in,Horatia Minor,Abogados
+prof::Horatia Minor,ent::location::Amazon,worked_in,Horatia Minor,Amazon
+prof::Horatia Minor,ent::location::Ga,worked_in,Horatia Minor,Ga
+prof::Horatia Minor,ent::location::Ma,worked_in,Horatia Minor,Ma
+prof::Horatia Minor,ent::location::V,worked_in,Horatia Minor,V
+prof::Appius Horatius Brutus,ent::corporate_org::Accenture,worked_at,Appius Horatius Brutus,Accenture
+prof::Appius Horatius Brutus,ent::corporate_org::Galeo Tech,worked_at,Appius Horatius Brutus,Galeo Tech
+prof::Appius Horatius Brutus,ent::corporate_org::Izertis,worked_at,Appius Horatius Brutus,Izertis
+prof::Appius Horatius Brutus,ent::corporate_org::R & D Department,worked_at,Appius Horatius Brutus,R & D Department
+prof::Appius Horatius Brutus,ent::academic_org::Cloud Computing,studied_at,Appius Horatius Brutus,Cloud Computing
+prof::Appius Horatius Brutus,ent::academic_org::Evalu,studied_at,Appius Horatius Brutus,Evalu
+prof::Appius Horatius Brutus,ent::academic_org::Iot,studied_at,Appius Horatius Brutus,Iot
+prof::Appius Horatius Brutus,ent::academic_org::Red,studied_at,Appius Horatius Brutus,Red
+prof::Appius Horatius Brutus,ent::academic_org::Universidad Francisco De Vitoria,studied_at,Appius Horatius Brutus,Universidad Francisco De Vitoria
+prof::Appius Horatius Brutus,ent::location::Envira,worked_in,Appius Horatius Brutus,Envira
+ent::academic_org::Cloud Computing,prof::Appius Julius Crassus,studied_at,Cloud Computing,Appius Julius Crassus
+prof::Appius Horatius Drusus,ent::corporate_org::##Erifone,worked_at,Appius Horatius Drusus,##Erifone
+prof::Appius Horatius Drusus,ent::corporate_org::& Design,worked_at,Appius Horatius Drusus,& Design
+prof::Appius Horatius Drusus,ent::corporate_org::Gtd Science Infrastructures & Robotics,worked_at,Appius Horatius Drusus,Gtd Science Infrastructures & Robotics
+prof::Appius Horatius Drusus,ent::corporate_org::Gtd Sistemas De Información,worked_at,Appius Horatius Drusus,Gtd Sistemas De Información
+prof::Appius Horatius Drusus,ent::corporate_org::Hhb Communications,worked_at,Appius Horatius Drusus,Hhb Communications
+prof::Appius Horatius Drusus,ent::corporate_org::R &,worked_at,Appius Horatius Drusus,R &
+prof::Appius Horatius Drusus,ent::corporate_org::Sepsa,worked_at,Appius Horatius Drusus,Sepsa
+prof::Appius Horatius Drusus,ent::corporate_org::V,worked_at,Appius Horatius Drusus,V
+prof::Appius Horatius Drusus,ent::academic_org::##P,studied_at,Appius Horatius Drusus,##P
+prof::Appius Horatius Drusus,ent::academic_org::Meng Satellite Technology,studied_at,Appius Horatius Drusus,Meng Satellite Technology
+prof::Appius Horatius Drusus,ent::academic_org::Msc Electronics,studied_at,Appius Horatius Drusus,Msc Electronics
+prof::Appius Horatius Drusus,"ent::academic_org::Technology, Innovation And En",studied_at,Appius Horatius Drusus,"Technology, Innovation And En"
+prof::Appius Horatius Drusus,ent::academic_org::Universidad Complutense,studied_at,Appius Horatius Drusus,Universidad Complutense De Madrid
+prof::Appius Horatius Drusus,ent::academic_org::Universidad Politécnica,studied_at,Appius Horatius Drusus,Universidad Politécnica De Madrid
+prof::Appius Horatius Drusus,ent::location::Rey Juan Carlos,located_in,Appius Horatius Drusus,Rey Juan Carlos
+prof::Appius Horatius Drusus,ent::location::Barbara,worked_in,Appius Horatius Drusus,Barbara
+ent::corporate_org::V,prof::Appius Licinius Scipio,worked_at,V,Appius Licinius Scipio
+ent::academic_org::##P,prof::Appius Horatius Severus,studied_at,##P,Appius Horatius Severus
+ent::academic_org::Universidad Complutense,prof::Appius Julius Crassus,studied_at,Universidad Complutense De Madrid,Appius Julius Crassus
+ent::academic_org::Universidad Politécnica,prof::Appius Horatius Flaccus,studied_at,Universidad Politécnica De Madrid,Appius Horatius Flaccus
+ent::academic_org::Universidad Politécnica,prof::Appius Julius Paullus,studied_at,Universidad Politécnica De Madrid,Appius Julius Paullus
+ent::academic_org::Universidad Politécnica,prof::Appius Licinius Brutus,studied_at,Universidad Politécnica De Madrid,Appius Licinius Brutus
+prof::Appius Horatius Flaccus,ent::location::South Europe,located_in,Appius Horatius Flaccus,South Europe
+prof::Appius Horatius Flaccus,ent::corporate_org::##Pier,worked_at,Appius Horatius Flaccus,##Pier
+prof::Appius Horatius Flaccus,ent::corporate_org::Hipoges Iberia,worked_at,Appius Horatius Flaccus,Hipoges Iberia
+prof::Appius Horatius Flaccus,ent::corporate_org::Iberia Development,worked_at,Appius Horatius Flaccus,Iberia Development
+prof::Appius Horatius Flaccus,ent::corporate_org::In,worked_at,Appius Horatius Flaccus,In
+prof::Appius Horatius Flaccus,ent::corporate_org::Isg Plc,worked_at,Appius Horatius Flaccus,Isg Plc
+prof::Appius Horatius Flaccus,ent::corporate_org::Siemens Gamesa,worked_at,Appius Horatius Flaccus,Siemens Gamesa
+prof::Appius Horatius Flaccus,ent::academic_org::Ieb,studied_at,Appius Horatius Flaccus,Ieb
+prof::Appius Horatius Flaccus,ent::academic_org::M & A Finance,studied_at,Appius Horatius Flaccus,M & A Finance
+prof::Appius Horatius Flaccus,ent::academic_org::Of Architecture And Desing,studied_at,Appius Horatius Flaccus,Of Architecture And Desing
+prof::Appius Horatius Flaccus,ent::location::##Dra,worked_in,Appius Horatius Flaccus,##Dra
+prof::Appius Horatius Flaccus,ent::location::##Re,worked_in,Appius Horatius Flaccus,##Re
+prof::Appius Horatius Flaccus,ent::location::Kle,worked_in,Appius Horatius Flaccus,Kle
+prof::Appius Horatius Naso,ent::location::Central America,located_in,Appius Horatius Naso,Central America
+prof::Appius Horatius Naso,ent::location::Del Valle,located_in,Appius Horatius Naso,Del Valle
+prof::Appius Horatius Naso,ent::location::Guatemala,located_in,Appius Horatius Naso,Guatemala
+prof::Appius Horatius Naso,ent::location::Ica,located_in,Appius Horatius Naso,Ica
+prof::Appius Horatius Naso,ent::corporate_org::##Na,worked_at,Appius Horatius Naso,##Na
+prof::Appius Horatius Naso,ent::corporate_org::##Stenibilidad,worked_at,Appius Horatius Naso,##Stenibilidad
+prof::Appius Horatius Naso,ent::corporate_org::##Uran Habitat,worked_at,Appius Horatius Naso,##Uran Habitat
+prof::Appius Horatius Naso,ent::corporate_org::##´Or,worked_at,Appius Horatius Naso,##´Or
+prof::Appius Horatius Naso,ent::corporate_org::B,worked_at,Appius Horatius Naso,B
+prof::Appius Horatius Naso,ent::corporate_org::En,worked_at,Appius Horatius Naso,En
+prof::Appius Horatius Naso,ent::corporate_org::Protea Renovables,worked_at,Appius Horatius Naso,Protea Renovables
+prof::Appius Horatius Naso,ent::corporate_org::Vinci Energies Spain,worked_at,Appius Horatius Naso,Vinci Energies Spain
+prof::Appius Horatius Naso,ent::academic_org::##Bility,studied_at,Appius Horatius Naso,##Bility
+prof::Appius Horatius Naso,ent::academic_org::##De,studied_at,Appius Horatius Naso,##De
+prof::Appius Horatius Naso,ent::academic_org::& Business,studied_at,Appius Horatius Naso,& Business
+prof::Appius Horatius Naso,ent::academic_org::Francisco De Vitoria University,studied_at,Appius Horatius Naso,Francisco De Vitoria University
+prof::Appius Horatius Naso,ent::academic_org::Mit,studied_at,Appius Horatius Naso,Mit
+prof::Appius Horatius Naso,ent::academic_org::Su,studied_at,Appius Horatius Naso,Su
+prof::Appius Horatius Naso,ent::academic_org::Tools,studied_at,Appius Horatius Naso,Tools
+prof::Appius Horatius Naso,ent::course::Technology,teaches_course,Appius Horatius Naso,Technology
+prof::Appius Horatius Naso,ent::location::Lata,worked_in,Appius Horatius Naso,Lata
+ent::academic_org::Su,prof::Appius Licinius Cicero,studied_at,Su,Appius Licinius Cicero
+prof::Appius Horatius Paullus,ent::location::##Turias,located_in,Appius Horatius Paullus,##Turias
+prof::Appius Horatius Paullus,ent::location::##Vied,located_in,Appius Horatius Paullus,##Vied
+prof::Appius Horatius Paullus,ent::location::As,located_in,Appius Horatius Paullus,As
+prof::Appius Horatius Paullus,ent::location::Ie,located_in,Appius Horatius Paullus,Ie
+prof::Appius Horatius Paullus,ent::corporate_org::Network,worked_at,Appius Horatius Paullus,Network
+prof::Appius Horatius Paullus,ent::corporate_org::Platform,worked_at,Appius Horatius Paullus,Platform
+prof::Appius Horatius Paullus,ent::course::Optics In Networking,teaches_course,Appius Horatius Paullus,Optics In Networking
+prof::Appius Horatius Paullus,ent::academic_org::##O University,studied_at,Appius Horatius Paullus,##O University
+prof::Appius Horatius Paullus,ent::academic_org::Distributed Computing And Networking,studied_at,Appius Horatius Paullus,Distributed Computing And Networking
+prof::Appius Horatius Paullus,ent::academic_org::Oviedo University,studied_at,Appius Horatius Paullus,Oviedo University
+prof::Appius Horatius Paullus,ent::academic_org::Telefónica,studied_at,Appius Horatius Paullus,Telefónica
+prof::Appius Horatius Paullus,ent::academic_degree::Mba,has_degree,Appius Horatius Paullus,Mba
+ent::location::As,prof::Appius Licinius Cicero,located_in,As,Appius Licinius Cicero
+ent::academic_degree::Mba,prof::Appius Licinius Cicero,has_degree,Mba,Appius Licinius Cicero
+prof::Appius Horatius Severus,ent::location::Card,located_in,Appius Horatius Severus,Card
+prof::Appius Horatius Severus,ent::location::Puerta De Hierro University Hospital,located_in,Appius Horatius Severus,Puerta De Hierro University Hospital
+prof::Appius Horatius Severus,ent::corporate_org::Forensic and Security Sciences Institute,worked_at,Appius Horatius Severus,Forensic and Security Sciences Institute
+prof::Appius Horatius Severus,ent::corporate_org::Uam,worked_at,Appius Horatius Severus,Uam
+prof::Appius Horatius Severus,ent::academic_org::##Urs,studied_at,Appius Horatius Severus,##Urs
+prof::Appius Horatius Severus,ent::academic_org::Behavioral And Health Sciences,studied_at,Appius Horatius Severus,Behavioral And Health Sciences
+prof::Appius Horatius Severus,ent::academic_org::Escuela De Organización Industrial,studied_at,Appius Horatius Severus,Escuela De Organización Industrial
+prof::Appius Horatius Severus,ent::academic_org::Structures,studied_at,Appius Horatius Severus,Structures
+prof::Appius Horatius Severus,ent::course::##Ith,teaches_course,Appius Horatius Severus,##Ith
+prof::Appius Horatius Sulla,ent::corporate_org::Altran Group,worked_at,Appius Horatius Sulla,Altran Group
+prof::Appius Horatius Sulla,ent::corporate_org::Daemon Quest,worked_at,Appius Horatius Sulla,Daemon Quest
+prof::Appius Horatius Sulla,ent::corporate_org::Deloitte Digital,worked_at,Appius Horatius Sulla,Deloitte Digital
+prof::Appius Horatius Sulla,ent::corporate_org::Frog Design,worked_at,Appius Horatius Sulla,Frog Design
+prof::Appius Horatius Sulla,ent::corporate_org::Global,worked_at,Appius Horatius Sulla,Global
+prof::Appius Horatius Sulla,ent::corporate_org::Innovation ’ Practice,worked_at,Appius Horatius Sulla,Innovation ’ Practice
+prof::Appius Horatius Sulla,ent::corporate_org::‘ Intelligence,worked_at,Appius Horatius Sulla,‘ Intelligence
+prof::Appius Horatius Sulla,ent::academic_org::Design Management,studied_at,Appius Horatius Sulla,Design Management
+prof::Appius Horatius Sulla,ent::academic_org::Harvard Business School,studied_at,Appius Horatius Sulla,Harvard Business School
+prof::Appius Horatius Sulla,ent::academic_org::Texas A & M University,studied_at,Appius Horatius Sulla,Texas A & M University
+prof::Appius Horatius Sulla,ent::location::Benelux,worked_in,Appius Horatius Sulla,Benelux
+ent::academic_org::Harvard Business School,prof::Appius Licinius Cicero,studied_at,Harvard Business School,Appius Licinius Cicero
+prof::Appius Julius Crassus,ent::location::Emea Region,located_in,Appius Julius Crassus,Emea Region
+prof::Appius Julius Crassus,ent::academic_org::##Ción,studied_at,Appius Julius Crassus,##Ción
+prof::Appius Julius Crassus,ent::academic_org::##Ión,studied_at,Appius Julius Crassus,##Ión
+prof::Appius Julius Crassus,ent::academic_org::##Nzadi,studied_at,Appius Julius Crassus,##Nzadi
+prof::Appius Julius Crassus,ent::academic_org::##Ual,studied_at,Appius Julius Crassus,##Ual
+prof::Appius Julius Crassus,ent::academic_org::Al O,studied_at,Appius Julius Crassus,Al O
+prof::Appius Julius Crassus,ent::academic_org::And International,studied_at,Appius Julius Crassus,And International
+prof::Appius Julius Crassus,ent::academic_org::Autonoma University Of Madrid,studied_at,Appius Julius Crassus,Autonoma University Of Madrid
+prof::Appius Julius Crassus,ent::academic_org::C,studied_at,Appius Julius Crassus,C
+prof::Appius Julius Crassus,ent::academic_org::Cloud Compliance Report Csa Es,studied_at,Appius Julius Crassus,Cloud Compliance Report Csa Es
+prof::Appius Julius Crassus,ent::academic_org::Csa Spanish Chapter,studied_at,Appius Julius Crassus,Csa Spanish Chapter
+prof::Appius Julius Crassus,ent::academic_org::Data Protection Factbook,studied_at,Appius Julius Crassus,Data Protection Factbook
+prof::Appius Julius Crassus,ent::academic_org::Datos Personales,studied_at,Appius Julius Crassus,Datos Personales
+prof::Appius Julius Crassus,ent::academic_org::Ecija,studied_at,Appius Julius Crassus,Ecija
+prof::Appius Julius Crassus,ent::academic_org::Editorial Lefebvre,studied_at,Appius Julius Crassus,Editorial Lefebvre
+prof::Appius Julius Crassus,ent::academic_org::El,studied_at,Appius Julius Crassus,El
+prof::Appius Julius Crassus,ent::academic_org::El Derecho,studied_at,Appius Julius Crassus,El Derecho
+prof::Appius Julius Crassus,ent::academic_org::Emp,studied_at,Appius Julius Crassus,Emp
+prof::Appius Julius Crassus,ent::academic_org::Ex,studied_at,Appius Julius Crassus,Ex
+prof::Appius Julius Crassus,ent::academic_org::Information Technology,studied_at,Appius Julius Crassus,Information Technology
+prof::Appius Julius Crassus,ent::academic_org::Internet,studied_at,Appius Julius Crassus,Internet
+prof::Appius Julius Crassus,ent::academic_org::La Catarata,studied_at,Appius Julius Crassus,La Catarata
+prof::Appius Julius Crassus,ent::academic_org::La Com,studied_at,Appius Julius Crassus,La Com
+prof::Appius Julius Crassus,ent::academic_org::La Inform,studied_at,Appius Julius Crassus,La Inform
+prof::Appius Julius Crassus,ent::academic_org::Security,studied_at,Appius Julius Crassus,Security
+prof::Appius Julius Crassus,ent::academic_org::Startup Lawyers Program,studied_at,Appius Julius Crassus,Startup Lawyers Program
+prof::Appius Julius Crassus,ent::academic_org::Thomson,studied_at,Appius Julius Crassus,Thomson
+prof::Appius Julius Crassus,ent::academic_org::Thomson - Aranzadi,studied_at,Appius Julius Crassus,Thomson - Aranzadi
+prof::Appius Julius Crassus,ent::academic_org::Universidad de Santiago de Compostela LLM,studied_at,Appius Julius Crassus,Universidad de Santiago de Compostela LLM
+prof::Appius Julius Crassus,ent::academic_org::University Of Navarra,studied_at,Appius Julius Crassus,University Of Navarra
+ent::academic_org::Autonoma University Of Madrid,prof::Appius Licinius Naso,studied_at,Autonoma University Of Madrid,Appius Licinius Naso
+prof::Appius Julius Naso,ent::corporate_org::Iic,worked_at,Appius Julius Naso,Iic
+prof::Appius Julius Naso,ent::corporate_org::Lenguajenatural,worked_at,Appius Julius Naso,Lenguajenatural
+prof::Appius Julius Naso,ent::academic_org::Afi Escuela De Finanzas,studied_at,Appius Julius Naso,Afi Escuela De Finanzas
+prof::Appius Julius Naso,ent::academic_org::Cunef,studied_at,Appius Julius Naso,Cunef
+prof::Appius Julius Naso,ent::academic_org::Datahack,studied_at,Appius Julius Naso,Datahack
+prof::Appius Julius Naso,ent::academic_org::Universidad Europea,studied_at,Appius Julius Naso,Universidad Europea
+prof::Appius Julius Naso,ent::location::Ai,worked_in,Appius Julius Naso,Ai
+prof::Appius Julius Paullus,ent::location::##Á,located_in,Appius Julius Paullus,##Á
+prof::Appius Julius Paullus,ent::location::United States Of America,located_in,Appius Julius Paullus,United States Of America
+prof::Appius Julius Paullus,ent::corporate_org::##Ivies,worked_at,Appius Julius Paullus,##Ivies
+prof::Appius Julius Paullus,ent::corporate_org::##Quitectos,worked_at,Appius Julius Paullus,##Quitectos
+prof::Appius Julius Paullus,ent::corporate_org::Arquitectura,worked_at,Appius Julius Paullus,Arquitectura
+prof::Appius Julius Paullus,ent::corporate_org::As + Ábalos + Sentkiewicz,worked_at,Appius Julius Paullus,As + Ábalos + Sentkiewicz
+prof::Appius Julius Paullus,ent::corporate_org::Coam,worked_at,Appius Julius Paullus,Coam
+prof::Appius Julius Paullus,ent::corporate_org::Colegio Oficial de Arquitectos de Madrid,worked_at,Appius Julius Paullus,Colegio Oficial de Arquitectos de Madrid
+prof::Appius Julius Paullus,ent::corporate_org::Estudio Herreros,worked_at,Appius Julius Paullus,Estudio Herreros
+prof::Appius Julius Paullus,ent::corporate_org::Ábalos & Herreros,worked_at,Appius Julius Paullus,Ábalos & Herreros
+prof::Appius Julius Paullus,ent::academic_org::##Cuela De Arquitectura,studied_at,Appius Julius Paullus,##Cuela De Arquitectura
+prof::Appius Julius Paullus,ent::academic_org::##Iversità Degli Studi Di Sassari,studied_at,Appius Julius Paullus,##Iversità Degli Studi Di Sassari
+prof::Appius Julius Paullus,ent::academic_org::Architectural History,studied_at,Appius Julius Paullus,Architectural History
+prof::Appius Julius Paullus,ent::academic_org::Architectural History And Theory,studied_at,Appius Julius Paullus,Architectural History And Theory
+prof::Appius Julius Paullus,ent::academic_org::Cult,studied_at,Appius Julius Paullus,Cult
+prof::Appius Julius Paullus,ent::academic_org::Della Materia,studied_at,Appius Julius Paullus,Della Materia
+prof::Appius Julius Paullus,ent::academic_org::Es,studied_at,Appius Julius Paullus,Es
+prof::Appius Julius Paullus,ent::academic_org::Etsam,studied_at,Appius Julius Paullus,Etsam
+prof::Appius Julius Paullus,ent::academic_org::Facoltà Di Architettura Di Alghero,studied_at,Appius Julius Paullus,Facoltà Di Architettura Di Alghero
+prof::Appius Julius Paullus,ent::academic_org::Gsd,studied_at,Appius Julius Paullus,Gsd
+prof::Appius Julius Paullus,ent::academic_org::Studies,studied_at,Appius Julius Paullus,Studies
+prof::Appius Julius Paullus,ent::academic_org::Teoría y Crítica del Proyecto y de la Arquitectura Moderna y Contemporánea ’,studied_at,Appius Julius Paullus,Teoría y Crítica del Proyecto y de la Arquitectura Moderna y Contemporánea ’
+prof::Appius Julius Paullus,ent::academic_org::Theory,studied_at,Appius Julius Paullus,Theory
+prof::Appius Julius Paullus,ent::academic_org::Udit,studied_at,Appius Julius Paullus,Udit
+prof::Appius Julius Paullus,ent::academic_org::Universidad Camilo José Cela,studied_at,Appius Julius Paullus,Universidad Camilo José Cela
+prof::Appius Julius Paullus,ent::academic_org::Universidad De Alcal,studied_at,Appius Julius Paullus,Universidad De Alcal
+prof::Appius Julius Paullus,ent::academic_org::Universidad De Diseño Y Tecnología,studied_at,Appius Julius Paullus,Universidad De Diseño Y Tecnología
+prof::Appius Julius Paullus,ent::academic_org::Universidad Europea De Madrid,studied_at,Appius Julius Paullus,Universidad Europea De Madrid
+prof::Appius Julius Paullus,ent::academic_org::Universidad Nebrija,studied_at,Appius Julius Paullus,Universidad Nebrija
+prof::Appius Julius Paullus,ent::academic_org::Upm,studied_at,Appius Julius Paullus,Upm
+prof::Appius Julius Paullus,ent::location::Va,worked_in,Appius Julius Paullus,Va
+ent::academic_org::Etsam,prof::Appius Licinius Brutus,studied_at,Etsam,Appius Licinius Brutus
+prof::Antonia Drusa,ent::location::##Dz,located_in,Antonia Drusa,##Dz
+prof::Antonia Drusa,ent::location::The,located_in,Antonia Drusa,The
+prof::Antonia Drusa,ent::course::European,teaches_course,Antonia Drusa,European
+prof::Antonia Drusa,ent::course::European Politics,teaches_course,Antonia Drusa,European Politics
+prof::Antonia Drusa,ent::academic_org::Center For European Studies,studied_at,Antonia Drusa,Center For European Studies
+prof::Antonia Drusa,ent::academic_org::Politics And Society,studied_at,Antonia Drusa,Politics And Society
+prof::Antonia Drusa,ent::academic_org::Universidad De Granada,studied_at,Antonia Drusa,Universidad De Granada
+prof::Antonia Drusa,ent::academic_org::University Of Lo,studied_at,Antonia Drusa,University Of Lo
+prof::Antonia Drusa,ent::academic_org::Utrecht University,studied_at,Antonia Drusa,Utrecht University
+prof::Antonia Drusa,ent::location::The Netherlands,located_in,Antonia Drusa,The Netherlands
+prof::Appius Licinius Brutus,ent::location::##Ig,located_in,Appius Licinius Brutus,##Ig
+prof::Appius Licinius Brutus,ent::location::Pisa,located_in,Appius Licinius Brutus,Pisa
+prof::Appius Licinius Brutus,ent::academic_org::##Utational Seminar,studied_at,Appius Licinius Brutus,##Utational Seminar
+prof::Appius Licinius Brutus,ent::academic_org::B,studied_at,Appius Licinius Brutus,B
+prof::Appius Licinius Brutus,ent::academic_org::Bim,studied_at,Appius Licinius Brutus,Bim
+prof::Appius Licinius Brutus,ent::academic_org::Design And Fabrication,studied_at,Appius Licinius Brutus,Design And Fabrication
+prof::Appius Licinius Brutus,ent::academic_org::Dynamo,studied_at,Appius Licinius Brutus,Dynamo
+prof::Appius Licinius Brutus,ent::academic_org::University Of Pisa,studied_at,Appius Licinius Brutus,University Of Pisa
+prof::Appius Licinius Brutus,ent::academic_org::Zigurat Global Institute Of Technology,studied_at,Appius Licinius Brutus,Zigurat Global Institute Of Technology
+prof::Appius Licinius Brutus,ent::course::##Ithmic Design,teaches_course,Appius Licinius Brutus,##Ithmic Design
+prof::Appius Licinius Brutus,ent::course::##Metrical,teaches_course,Appius Licinius Brutus,##Metrical
+prof::Appius Licinius Brutus,ent::course::Buildings,teaches_course,Appius Licinius Brutus,Buildings
+prof::Appius Licinius Brutus,ent::course::Digital Autumn ”,teaches_course,Appius Licinius Brutus,Digital Autumn ”
+prof::Appius Licinius Brutus,ent::course::G,teaches_course,Appius Licinius Brutus,G
+prof::Appius Licinius Brutus,ent::course::Geometry I & Ii,teaches_course,Appius Licinius Brutus,Geometry I & Ii
+prof::Appius Licinius Brutus,ent::course::Ii,teaches_course,Appius Licinius Brutus,Ii
+prof::Appius Licinius Brutus,ent::course::Mathematics,teaches_course,Appius Licinius Brutus,Mathematics
+prof::Appius Licinius Cicero,ent::location::Do,located_in,Appius Licinius Cicero,Do
+prof::Appius Licinius Cicero,ent::location::Kazakhstan,located_in,Appius Licinius Cicero,Kazakhstan
+prof::Appius Licinius Cicero,ent::location::Republic Of Kazakhstan,located_in,Appius Licinius Cicero,Republic Of Kazakhstan
+prof::Appius Licinius Cicero,ent::location::Singapore,located_in,Appius Licinius Cicero,Singapore
+prof::Appius Licinius Cicero,ent::location::Switzerland,located_in,Appius Licinius Cicero,Switzerland
+prof::Appius Licinius Cicero,ent::location::United Kingdom,located_in,Appius Licinius Cicero,United Kingdom
+prof::Appius Licinius Cicero,ent::corporate_org::##Ance & Stew,worked_at,Appius Licinius Cicero,##Ance & Stew
+prof::Appius Licinius Cicero,ent::corporate_org::##Ckinsey & Company,worked_at,Appius Licinius Cicero,##Ckinsey & Company
+prof::Appius Licinius Cicero,ent::corporate_org::##Ght,worked_at,Appius Licinius Cicero,##Ght
+prof::Appius Licinius Cicero,ent::corporate_org::##Holr,worked_at,Appius Licinius Cicero,##Holr
+prof::Appius Licinius Cicero,ent::corporate_org::Aifc,worked_at,Appius Licinius Cicero,Aifc
+prof::Appius Licinius Cicero,ent::corporate_org::Aifc Acamic Council,worked_at,Appius Licinius Cicero,Aifc Acamic Council
+prof::Appius Licinius Cicero,ent::corporate_org::As,worked_at,Appius Licinius Cicero,As
+prof::Appius Licinius Cicero,ent::corporate_org::Co,worked_at,Appius Licinius Cicero,Co
+prof::Appius Licinius Cicero,ent::corporate_org::Co - Founr,worked_at,Appius Licinius Cicero,Co - Founr
+prof::Appius Licinius Cicero,ent::corporate_org::Committee Of Managing Directors,worked_at,Appius Licinius Cicero,Committee Of Managing Directors
+prof::Appius Licinius Cicero,ent::corporate_org::Corporate Go,worked_at,Appius Licinius Cicero,Corporate Go
+prof::Appius Licinius Cicero,ent::corporate_org::International Financial Centre,worked_at,Appius Licinius Cicero,International Financial Centre
+prof::Appius Licinius Cicero,ent::corporate_org::Kazakhstan Development Bank,worked_at,Appius Licinius Cicero,Kazakhstan Development Bank
+prof::Appius Licinius Cicero,ent::corporate_org::Lakewell Capital Partners,worked_at,Appius Licinius Cicero,Lakewell Capital Partners
+prof::Appius Licinius Cicero,ent::corporate_org::M,worked_at,Appius Licinius Cicero,M
+prof::Appius Licinius Cicero,ent::corporate_org::Managing,worked_at,Appius Licinius Cicero,Managing
+prof::Appius Licinius Cicero,ent::corporate_org::National Bank Of Kazakhstan,worked_at,Appius Licinius Cicero,National Bank Of Kazakhstan
+prof::Appius Licinius Cicero,ent::corporate_org::National Investment Corporation,worked_at,Appius Licinius Cicero,National Investment Corporation
+prof::Appius Licinius Cicero,ent::corporate_org::Practice,worked_at,Appius Licinius Cicero,Practice
+prof::Appius Licinius Cicero,ent::corporate_org::Pricewaterhousecoopers,worked_at,Appius Licinius Cicero,Pricewaterhousecoopers
+prof::Appius Licinius Cicero,ent::corporate_org::Processes & Applications,worked_at,Appius Licinius Cicero,Processes & Applications
+prof::Appius Licinius Cicero,ent::corporate_org::S,worked_at,Appius Licinius Cicero,S
+prof::Appius Licinius Cicero,ent::corporate_org::S & P Global,worked_at,Appius Licinius Cicero,S & P Global
+prof::Appius Licinius Cicero,ent::corporate_org::Sc,worked_at,Appius Licinius Cicero,Sc
+prof::Appius Licinius Cicero,ent::corporate_org::Shell International,worked_at,Appius Licinius Cicero,Shell International
+prof::Appius Licinius Cicero,ent::corporate_org::Strategic For,worked_at,Appius Licinius Cicero,Strategic For
+prof::Appius Licinius Cicero,ent::corporate_org::Strategy,worked_at,Appius Licinius Cicero,& Strategy
+prof::Appius Licinius Cicero,ent::corporate_org::Sustainable Foresight Institute,worked_at,Appius Licinius Cicero,Sustainable Foresight Institute
+prof::Appius Licinius Cicero,ent::corporate_org::World Economic Forum,worked_at,Appius Licinius Cicero,World Economic Forum
+prof::Appius Licinius Cicero,ent::academic_org::##Ght,studied_at,Appius Licinius Cicero,##Ght
+prof::Appius Licinius Cicero,ent::academic_org::##Inability Lears,studied_at,Appius Licinius Cicero,##Inability Lears
+prof::Appius Licinius Cicero,ent::academic_org::##Inability Learship,studied_at,Appius Licinius Cicero,##Inability Learship
+prof::Appius Licinius Cicero,ent::academic_org::##Ptive,studied_at,Appius Licinius Cicero,##Ptive
+prof::Appius Licinius Cicero,ent::academic_org::Arpel,studied_at,Appius Licinius Cicero,Arpel
+prof::Appius Licinius Cicero,ent::academic_org::Belgian American Educational Foundation,studied_at,Appius Licinius Cicero,Belgian American Educational Foundation
+prof::Appius Licinius Cicero,ent::academic_org::Boston University,studied_at,Appius Licinius Cicero,Boston University
+prof::Appius Licinius Cicero,ent::academic_org::Cambridge University,studied_at,Appius Licinius Cicero,University Of Cambridge
+prof::Appius Licinius Cicero,ent::academic_org::Caterpillar,studied_at,Appius Licinius Cicero,Caterpillar
+prof::Appius Licinius Cicero,ent::academic_org::Cdir,studied_at,Appius Licinius Cicero,Cdir
+prof::Appius Licinius Cicero,ent::academic_org::Chartered Governance Institute,studied_at,Appius Licinius Cicero,Chartered Governance Institute
+prof::Appius Licinius Cicero,ent::academic_org::Chartered Governance Professional,studied_at,Appius Licinius Cicero,Chartered Governance Professional
+prof::Appius Licinius Cicero,ent::academic_org::Computer Information Systems,studied_at,Appius Licinius Cicero,Computer Information Systems
+prof::Appius Licinius Cicero,ent::academic_org::Dupont,studied_at,Appius Licinius Cicero,Dupont
+prof::Appius Licinius Cicero,ent::academic_org::Ecopetrol,studied_at,Appius Licinius Cicero,Ecopetrol
+prof::Appius Licinius Cicero,ent::academic_org::Energy & Su,studied_at,Appius Licinius Cicero,Energy & Su
+prof::Appius Licinius Cicero,ent::academic_org::Energy Delta Institute,studied_at,Appius Licinius Cicero,Energy Delta Institute
+prof::Appius Licinius Cicero,ent::academic_org::Equinor,studied_at,Appius Licinius Cicero,Equinor
+prof::Appius Licinius Cicero,ent::academic_org::Fcg,studied_at,Appius Licinius Cicero,Fcg
+prof::Appius Licinius Cicero,ent::academic_org::Finance,studied_at,Appius Licinius Cicero,Finance
+prof::Appius Licinius Cicero,ent::academic_org::Ge Learship,studied_at,Appius Licinius Cicero,Ge Learship
+prof::Appius Licinius Cicero,ent::academic_org::Geneva School of Diplomacy & International Relations,studied_at,Appius Licinius Cicero,Geneva School of Diplomacy & International Relations
+prof::Appius Licinius Cicero,ent::academic_org::Global Climate Change,studied_at,Appius Licinius Cicero,Global Climate Change
+prof::Appius Licinius Cicero,ent::academic_org::Gran Ecole,studied_at,Appius Licinius Cicero,Gran Ecole
+prof::Appius Licinius Cicero,ent::academic_org::Innovation & Growth,studied_at,Appius Licinius Cicero,Innovation & Growth
+prof::Appius Licinius Cicero,ent::academic_org::Insead,studied_at,Appius Licinius Cicero,Insead
+prof::Appius Licinius Cicero,ent::academic_org::Management And Business Administration,studied_at,Appius Licinius Cicero,Management And Business Administration
+prof::Appius Licinius Cicero,ent::academic_org::Nacd Board,studied_at,Appius Licinius Cicero,Nacd Board
+prof::Appius Licinius Cicero,ent::academic_org::National Association of Corporate Directors,studied_at,Appius Licinius Cicero,National Association of Corporate Directors
+prof::Appius Licinius Cicero,ent::academic_org::Pew Center On,studied_at,Appius Licinius Cicero,Pew Center On
+prof::Appius Licinius Cicero,ent::academic_org::Planning And Corporate Strategy,studied_at,Appius Licinius Cicero,Planning And Corporate Strategy
+prof::Appius Licinius Cicero,ent::academic_org::Renault - Nissan,studied_at,Appius Licinius Cicero,Renault - Nissan
+prof::Appius Licinius Cicero,ent::academic_org::Rouen School Of Management,studied_at,Appius Licinius Cicero,Rouen School Of Management
+prof::Appius Licinius Cicero,ent::academic_org::Saudi Aramco,studied_at,Appius Licinius Cicero,Saudi Aramco
+prof::Appius Licinius Cicero,ent::academic_org::Scena,studied_at,Appius Licinius Cicero,Scena
+prof::Appius Licinius Cicero,ent::academic_org::Shell Finance,studied_at,Appius Licinius Cicero,Shell Finance
+prof::Appius Licinius Cicero,ent::academic_org::Solvay School Of Management,studied_at,Appius Licinius Cicero,Solvay School Of Management
+prof::Appius Licinius Cicero,ent::academic_org::Stanford Directors Consortium,studied_at,Appius Licinius Cicero,Stanford Directors Consortium
+prof::Appius Licinius Cicero,ent::academic_org::Statoil,studied_at,Appius Licinius Cicero,Statoil
+prof::Appius Licinius Cicero,ent::academic_org::Strategic For,studied_at,Appius Licinius Cicero,Strategic For
+prof::Appius Licinius Cicero,ent::academic_org::Strategy & Finance,studied_at,Appius Licinius Cicero,Strategy & Finance
+prof::Appius Licinius Cicero,ent::academic_org::Tesla,studied_at,Appius Licinius Cicero,Tesla
+prof::Appius Licinius Cicero,ent::academic_org::The,studied_at,Appius Licinius Cicero,The
+prof::Appius Licinius Cicero,ent::academic_org::The Graduate Institute,studied_at,Appius Licinius Cicero,The Graduate Institute
+prof::Appius Licinius Cicero,ent::academic_org::The Kazakhstan Development Bank,studied_at,Appius Licinius Cicero,The Kazakhstan Development Bank
+prof::Appius Licinius Cicero,ent::academic_org::Tiger Group,studied_at,Appius Licinius Cicero,Tiger Group
+prof::Appius Licinius Cicero,ent::academic_org::Toyota,studied_at,Appius Licinius Cicero,Toyota
+prof::Appius Licinius Cicero,ent::academic_org::University Of London,studied_at,Appius Licinius Cicero,University Of London
+prof::Appius Licinius Cicero,ent::location::##Tana,worked_in,Appius Licinius Cicero,##Tana
+ent::corporate_org::Co,prof::Appius Licinius Paullus,worked_at,Co,Appius Licinius Paullus
+ent::corporate_org::S,prof::Appius Licinius Scipio,worked_at,S,Appius Licinius Scipio
+ent::academic_org::Boston University,prof::Horatia Pulchra,studied_at,Boston University,Horatia Pulchra
+prof::Appius Licinius Drusus,ent::location::##In,located_in,Appius Licinius Drusus,##In
+prof::Appius Licinius Drusus,ent::corporate_org::##Gna Cum Lau,worked_at,Appius Licinius Drusus,##Gna Cum Lau
+prof::Appius Licinius Drusus,ent::corporate_org::Administration Vlerick Business School,worked_at,Appius Licinius Drusus,Administration Vlerick Business School
+prof::Appius Licinius Drusus,ent::corporate_org::Degroof,worked_at,Appius Licinius Drusus,Degroof
+prof::Appius Licinius Drusus,ent::corporate_org::Economics,worked_at,Appius Licinius Drusus,Economics
+prof::Appius Licinius Drusus,ent::corporate_org::Esso Benel,worked_at,Appius Licinius Drusus,Esso Benel
+prof::Appius Licinius Drusus,ent::corporate_org::Finance,worked_at,Appius Licinius Drusus,Finance
+prof::Appius Licinius Drusus,ent::corporate_org::Fundación Mutualidad Abogacía,worked_at,Appius Licinius Drusus,Fundación Mutualidad Abogacía
+prof::Appius Licinius Drusus,ent::corporate_org::Ie Business School,worked_at,Appius Licinius Drusus,Ie Business School
+prof::Appius Licinius Drusus,ent::corporate_org::Ie University,worked_at,Appius Licinius Drusus,Ie University
+prof::Appius Licinius Drusus,ent::corporate_org::Kbc,worked_at,Appius Licinius Drusus,Kbc
+prof::Appius Licinius Drusus,ent::corporate_org::Nyenro Business University,worked_at,Appius Licinius Drusus,Nyenro Business University
+prof::Appius Licinius Drusus,ent::corporate_org::Petercam,worked_at,Appius Licinius Drusus,Petercam Sa
+prof::Appius Licinius Drusus,ent::corporate_org::Petercam Derivatives Sa,worked_at,Appius Licinius Drusus,Petercam Derivatives Sa
+prof::Appius Licinius Drusus,ent::corporate_org::University Of Gibraltar,worked_at,Appius Licinius Drusus,University Of Gibraltar
+prof::Appius Licinius Drusus,ent::corporate_org::University Of London,worked_at,Appius Licinius Drusus,University Of London
+prof::Appius Licinius Drusus,ent::location::##Ux,worked_in,Appius Licinius Drusus,##Ux
+prof::Appius Licinius Drusus,ent::location::Di,worked_in,Appius Licinius Drusus,Di
+prof::Appius Licinius Drusus,ent::location::The Netherlands,located_in,Appius Licinius Drusus,The Netherlands
+prof::Horatia Pulchra,ent::location::##Ara,located_in,Horatia Pulchra,##Ara
+prof::Horatia Pulchra,ent::location::##Nares,located_in,Horatia Pulchra,##Nares
+prof::Horatia Pulchra,ent::location::Boston,located_in,Horatia Pulchra,Boston
+prof::Horatia Pulchra,ent::location::Campus,located_in,Horatia Pulchra,Campus
+prof::Horatia Pulchra,ent::location::Chicago,located_in,Horatia Pulchra,Chicago
+prof::Horatia Pulchra,ent::location::Florida,located_in,Horatia Pulchra,Florida
+prof::Horatia Pulchra,ent::location::Massachusetts,located_in,Horatia Pulchra,Massachusetts
+prof::Horatia Pulchra,ent::location::Miami,located_in,Horatia Pulchra,Miami
+prof::Horatia Pulchra,ent::location::Mount Holyoke,located_in,Horatia Pulchra,Mount Holyoke
+prof::Horatia Pulchra,ent::location::School,located_in,Horatia Pulchra,School
+prof::Horatia Pulchra,ent::location::School Of,located_in,Horatia Pulchra,School Of
+prof::Horatia Pulchra,ent::corporate_org::Federal Defender ’ S Office,worked_at,Horatia Pulchra,Federal Defender ’ S Office
+prof::Horatia Pulchra,ent::corporate_org::Greater Boston Legal Services,worked_at,Horatia Pulchra,Greater Boston Legal Services
+prof::Horatia Pulchra,ent::corporate_org::Harvard Institute Of Public Policy,worked_at,Horatia Pulchra,Harvard Institute Of Public Policy
+prof::Horatia Pulchra,ent::corporate_org::Harvard Medical School,worked_at,Horatia Pulchra,Harvard Medical School
+prof::Horatia Pulchra,ent::corporate_org::Harvard University,worked_at,Horatia Pulchra,Harvard University
+prof::Horatia Pulchra,ent::corporate_org::Keefe & Mercado,worked_at,Horatia Pulchra,Keefe & Mercado
+prof::Horatia Pulchra,ent::corporate_org::Llp,worked_at,Horatia Pulchra,Llp
+prof::Horatia Pulchra,ent::corporate_org::Medical Ethics Division,worked_at,Horatia Pulchra,Medical Ethics Division
+prof::Horatia Pulchra,ent::corporate_org::Mercado &,worked_at,Horatia Pulchra,Mercado &
+prof::Horatia Pulchra,ent::corporate_org::Miami,worked_at,Horatia Pulchra,Miami
+prof::Horatia Pulchra,ent::corporate_org::Office Of The General Council,worked_at,Horatia Pulchra,Office Of The General Council
+prof::Horatia Pulchra,"ent::corporate_org::Peckham, Lobel, Casey, Prince & Tye",worked_at,Horatia Pulchra,"Peckham, Lobel, Casey, Prince & Tye"
+prof::Horatia Pulchra,ent::corporate_org::State Attorney General ’ S Office,worked_at,Horatia Pulchra,State Attorney General ’ S Office
+prof::Horatia Pulchra,ent::course::##Tiation Techniques,teaches_course,Horatia Pulchra,##Tiation Techniques
+prof::Horatia Pulchra,ent::course::American N,teaches_course,Horatia Pulchra,American N
+prof::Horatia Pulchra,ent::course::Ethics,teaches_course,Horatia Pulchra,Ethics
+prof::Horatia Pulchra,ent::course::International Business Law,teaches_course,Horatia Pulchra,International Business Law
+prof::Horatia Pulchra,ent::course::International Contract Law,teaches_course,Horatia Pulchra,International Contract Law
+prof::Horatia Pulchra,ent::course::International Dispute Dissolution,teaches_course,Horatia Pulchra,International Dispute Dissolution
+prof::Horatia Pulchra,ent::course::International M. B. A.,teaches_course,Horatia Pulchra,International M. B. A.
+prof::Horatia Pulchra,ent::course::Law Systems,teaches_course,Horatia Pulchra,Law Systems
+prof::Horatia Pulchra,ent::academic_org::##Goza College Of Attorneys,studied_at,Horatia Pulchra,##Goza College Of Attorneys
+prof::Horatia Pulchra,ent::academic_org::##ultad de Derecho de la Universidad de Alcalá de He,studied_at,Horatia Pulchra,##ultad de Derecho de la Universidad de Alcalá de He
+prof::Horatia Pulchra,ent::academic_org::F,studied_at,Horatia Pulchra,F
+prof::Horatia Pulchra,ent::academic_org::Instituto De Empresa University,studied_at,Horatia Pulchra,Instituto De Empresa University
+prof::Horatia Pulchra,ent::academic_org::Lau,studied_at,Horatia Pulchra,Lau
+prof::Horatia Pulchra,ent::academic_org::Lawyers,studied_at,Horatia Pulchra,Lawyers
+prof::Horatia Pulchra,ent::academic_org::Of Law,studied_at,Horatia Pulchra,Of Law
+prof::Horatia Pulchra,ent::academic_org::Pontifical University,studied_at,Horatia Pulchra,Comillas Pontifical University
+prof::Horatia Pulchra,ent::academic_org::Saint Thomas University,studied_at,Horatia Pulchra,Saint Thomas University
+prof::Horatia Pulchra,ent::academic_org::Saint Thomas University School Of Law,studied_at,Horatia Pulchra,Saint Thomas University School Of Law
+prof::Horatia Pulchra,ent::academic_org::Schiller University,studied_at,Horatia Pulchra,Schiller University
+prof::Horatia Pulchra,ent::academic_org::Suffolk University,studied_at,Horatia Pulchra,Suffolk University
+prof::Horatia Pulchra,ent::academic_org::University Of Toulouse,studied_at,Horatia Pulchra,University Of Toulouse
+prof::Horatia Pulchra,ent::academic_org::Z,studied_at,Horatia Pulchra,Z
+prof::Horatia Pulchra,ent::location::S,located_in,Horatia Pulchra,S
+prof::Horatia Pulchra,ent::location::Cambridge,worked_in,Horatia Pulchra,Cambridge
+prof::Appius Licinius Naso,ent::location::Lisbon,located_in,Appius Licinius Naso,Lisbon
+prof::Appius Licinius Naso,ent::academic_org::##Cture,studied_at,Appius Licinius Naso,##Cture
+prof::Appius Licinius Naso,ent::academic_org::Center For Automation And Control,studied_at,Appius Licinius Naso,Center For Automation And Control
+prof::Appius Licinius Naso,ent::academic_org::Cities,studied_at,Appius Licinius Naso,Cities
+prof::Appius Licinius Naso,ent::academic_org::Communities,studied_at,Appius Licinius Naso,Communities
+prof::Appius Licinius Naso,ent::academic_org::Csic,studied_at,Appius Licinius Naso,Csic
+prof::Appius Licinius Naso,"ent::academic_org::Industry, Innovation And Infraest",studied_at,Appius Licinius Naso,"Industry, Innovation And Infraest"
+prof::Appius Licinius Naso,ent::academic_org::Institute For Mathematical Sciences,studied_at,Appius Licinius Naso,Institute For Mathematical Sciences
+prof::Appius Licinius Naso,ent::academic_org::University Of Lisbon,studied_at,Appius Licinius Naso,University Of Lisbon
+prof::Appius Licinius Paullus,ent::corporate_org::##Mpass Lexecon,worked_at,Appius Licinius Paullus,##Mpass Lexecon
+prof::Appius Licinius Paullus,ent::corporate_org::Confemadera,worked_at,Appius Licinius Paullus,Confemadera
+prof::Appius Licinius Paullus,ent::corporate_org::La Voz De C,worked_at,Appius Licinius Paullus,La Voz De C
+prof::Appius Licinius Paullus,ent::academic_org::Uc3M,studied_at,Appius Licinius Paullus,Uc3M
+prof::Appius Licinius Paullus,ent::location::##Hrcarem,worked_in,Appius Licinius Paullus,##Hrcarem
+prof::Appius Licinius Paullus,ent::location::##Ádiz,worked_in,Appius Licinius Paullus,##Ádiz
+prof::Appius Licinius Paullus,ent::location::Fe,worked_in,Appius Licinius Paullus,Fe
+prof::Appius Licinius Paullus,ent::location::Mondosonoro,worked_in,Appius Licinius Paullus,Mondosonoro
+prof::Appius Licinius Scipio,ent::location::Bil,located_in,Appius Licinius Scipio,Bil
+prof::Appius Licinius Scipio,ent::corporate_org::##Al,worked_at,Appius Licinius Scipio,##Al
+prof::Appius Licinius Scipio,ent::corporate_org::##Al Llp,worked_at,Appius Licinius Scipio,##Al Llp
+prof::Appius Licinius Scipio,ent::corporate_org::##D & B,worked_at,Appius Licinius Scipio,##D & B
+prof::Appius Licinius Scipio,ent::corporate_org::##Erizon Business,worked_at,Appius Licinius Scipio,##Erizon Business
+prof::Appius Licinius Scipio,ent::corporate_org::Acm España,worked_at,Appius Licinius Scipio,Acm España
+prof::Appius Licinius Scipio,ent::corporate_org::Andersen Tax & L,worked_at,Appius Licinius Scipio,Andersen Tax & L
+prof::Appius Licinius Scipio,ent::corporate_org::Broseta Abogados,worked_at,Appius Licinius Scipio,Broseta Abogados
+prof::Appius Licinius Scipio,ent::corporate_org::European Union,worked_at,Appius Licinius Scipio,European Union
+prof::Appius Licinius Scipio,ent::corporate_org::J,worked_at,Appius Licinius Scipio,J
+prof::Appius Licinius Scipio,ent::corporate_org::L. P.,worked_at,Appius Licinius Scipio,L. P.
+prof::Appius Licinius Scipio,ent::corporate_org::Litigation And Insolvency Area,worked_at,Appius Licinius Scipio,Litigation And Insolvency Area
+prof::Appius Licinius Scipio,ent::corporate_org::Litigation And Insolvency Department,worked_at,Appius Licinius Scipio,Litigation And Insolvency Department
+prof::Appius Licinius Scipio,ent::corporate_org::Mci Brussels,worked_at,Appius Licinius Scipio,Mci Brussels
+prof::Appius Licinius Scipio,ent::corporate_org::Olleros Y Asociados S. L. P.,worked_at,Appius Licinius Scipio,Olleros Y Asociados S. L. P.
+prof::Appius Licinius Scipio,ent::corporate_org::Representation Office,worked_at,Appius Licinius Scipio,Representation Office
+prof::Appius Licinius Scipio,ent::course::##Sol,teaches_course,Appius Licinius Scipio,##Sol
+prof::Appius Licinius Scipio,ent::course::International,teaches_course,Appius Licinius Scipio,International Mba
+prof::Appius Licinius Scipio,ent::course::Master,teaches_course,Appius Licinius Scipio,Master
+prof::Appius Licinius Scipio,ent::academic_org::Access To,studied_at,Appius Licinius Scipio,Access To
+prof::Appius Licinius Scipio,ent::academic_org::Banking Litigation,studied_at,Appius Licinius Scipio,Banking Litigation
+prof::Appius Licinius Scipio,ent::academic_org::International Bankruptcy Proceedings,studied_at,Appius Licinius Scipio,International Bankruptcy Proceedings
+prof::Appius Licinius Scipio,ent::academic_org::International Union Of Lawyers,studied_at,Appius Licinius Scipio,International Union Of Lawyers
+prof::Appius Licinius Scipio,ent::academic_org::Legal Profession,studied_at,Appius Licinius Scipio,Legal Profession
+prof::Appius Licinius Scipio,ent::academic_org::Profession,studied_at,Appius Licinius Scipio,Profession
+prof::Appius Licinius Scipio,ent::academic_org::Uia Congress,studied_at,Appius Licinius Scipio,Uia Congress
+prof::Appius Licinius Scipio,ent::academic_org::University Of Murcia,studied_at,Appius Licinius Scipio,University Of Murcia
+prof::Appius Licinius Scipio,ent::location::Luxembourg,worked_in,Appius Licinius Scipio,Luxembourg
